@@ -133,8 +133,6 @@ http://apptv.xyz:8080/09042027/bwGzYpJ/938
 http://apptv.xyz:8080/09042027/bwGzYpJ/87187
 #EXTINF:-1 tvg-id="8088" tvg-name="Film Autor ᴴᴰ" tvg-logo="//tvlogi/Film%20Autor.png" group-title="Filma",Film Autor
 http://apptv.xyz:8080/09042027/bwGzYpJ/930
-#EXTINF:-1 tvg-id="56062229" tvg-name="Kanal D Drama ⁴ᴷ" tvg-logo="https://i.ibb.co/hRCxBY71/2af7-4198-bfd9-400dfc4b3d64.png" group-title="Filma",Kanal D Drama 4k
-http://apptv.xyz:8080/09042027/bwGzYpJ/32299
 #EXTINF:-1 tvg-id="56007563" tvg-name="Tring Shqip ⁴ᴷ" tvg-logo="//tvlogi/Tring%20Shqip.png" group-title="Filma",Tring Shqip
 http://apptv.xyz:8080/09042027/bwGzYpJ/1168
 #EXTINF:-1 tvg-id="56007554" tvg-name="Tring Super ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/24/85/f9/16/36ad-40f8-a31b-f2891accf5e0.png&maxDim=111&quot" group-title="Filma",Tring Super
@@ -403,11 +401,965 @@ http://brocas3urgent.pro:8080/live/W642HPhYGA/ye5a6ruQA2/566749.ts
 http://brocas3urgent.pro:8080/live/W642HPhYGA/ye5a6ruQA2/587790.ts
 #EXTINF:-1 group-title="Adult",x51
 http://brocas3urgent.pro:8080/live/W642HPhYGA/ye5a6ruQA2/587792.ts
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1 HD (locale)" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-oU4yVZNEadWXhSMFJRfCQAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Rai 1 HD (locale)
+http://apptv.xyz:8080/09042027/bwGzYpJ/36137
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 HD Locale" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.g1ROd462ajstv2dhqGwgMgAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RAI 2 HD Locale
+http://apptv.xyz:8080/09042027/bwGzYpJ/78335
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 FHD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.8BRX0XHqCcx8vPeyTsDvywHaD0&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RAI 2 FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/77139
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3 HD Locale" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Uq0oJYJ67tvELeLXxL7OlQAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RAI 3 HD Locale
+http://apptv.xyz:8080/09042027/bwGzYpJ/78336
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5 Locale" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fmGyqeSGt1Fy6HRHyrB_9QHaGN&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Canale 5 Locale
+http://apptv.xyz:8080/09042027/bwGzYpJ/78339
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italia 1 Locale" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BnYkcsPPzZMusfLAm-laMQHaHb&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Italia 1 Locale
+http://apptv.xyz:8080/09042027/bwGzYpJ/78338
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery NOVE HD `" tvg-logo="https://iptvgjolli.com/italy/NOVE.png" group-title="Te Huaja | Italiane",Discovery NOVE HD `
+http://apptv.xyz:8080/09042027/bwGzYpJ/4166
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.sHfqfOjCPh6fwaNmeERNzgAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Rai Movie HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/35899
+#EXTINF:-1 tvg-id="" tvg-name="IT: Real Time HD `" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.lIPDUNWeEjlIQfrSz2LZpAAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Real Time HD `
+http://apptv.xyz:8080/09042027/bwGzYpJ/35907
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Capital TV" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8yAcAjwwmWEnGM9EoB6JWgHaHa&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Radio Capital TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/53197
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Freccia" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.zaws7cFL6h4-lbz3MZA6wgHaCF&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Radio Freccia
+http://apptv.xyz:8080/09042027/bwGzYpJ/53198
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Vintage TV" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.wvxmWK2d678zII5T5T5lMgHaFj&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Radio Vintage TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/53199
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Radicale TV" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Oyo4iXsqayYi4c7W8Bk7QgHaEc&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Radio Radicale TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/53202
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Zeta TV" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Etbm63p1v0GLcacJ-uN5IwHaHa&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Radio Zeta TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/53204
+#EXTINF:-1 tvg-id="" tvg-name="IT: RDS Social TV" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.nymAjrPFQleYx98qwrV4rAAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RDS Social TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/53205
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste ⁴ᴷ" tvg-logo="https://e7.pngegg.com/pngimages/732/717/png-clipart-das-erste-live-television-one-streaming-media-hbo-logo-television-blue.png" group-title="Te Huaja | Gjermane",Das Erste ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/9764
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste | RAW" tvg-logo="http://lore.repmc.top:80/images/Gj5nNLZLhkYKbYHgQcR-86RtQCfVITvB7boHBWukzWiiIqpHXyXMq7omQV7o7j5aKwQt1pxGFrJg_6Rv0MATLUVs333K9LwdgiTurMZi0gMXVeHZUC3CkxT4wtlhzAuDyh0-XWxzleQAaz4zXwZ44rUKkJpANI22ItcHx6fjblewioyVjmF6gV3tj3CP7AUg.png" group-title="Te Huaja | Gjermane",Das Erste | RAW
+http://apptv.xyz:8080/09042027/bwGzYpJ/117000
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF ⁴ᴷ" tvg-logo="https://apps.tibo.tv/files/channel_img/Zdf.png" group-title="Te Huaja | Gjermane",ZDF ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/1504
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDFneo ᶠᴴᴰ" tvg-logo="https://www.wuv.de/var/wuv/storage/images/werben_verkaufen/medien/zdfneo_bekommt_ein_neues_logo/zdfneo2/8182073-1-ger-DE/zdfneo_gross.jpg" group-title="Te Huaja | Gjermane",ZDFneo ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/25124
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF info ᶠᴴᴰ" tvg-logo="https://tvfueralle.de/channel-logos/info.png" group-title="Te Huaja | Gjermane",ZDF info ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/13892
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF | RAW" tvg-logo="http://lore.repmc.top:80/images/Gj5nNLZLhkYKbYHgQcR-86RtQCfVITvB7boHBWukzWiiIqpHXyXMq7omQV7o7j5aKwQt1pxGFrJg_6Rv0MATLUVs333K9LwdgiTurMZi0gMXVeHZUC3CkxT4wtlhzAuDyh0-XWxzleQAaz4zXwZ44tlB5Qmss1rd9Nx_yradOFQ.png" group-title="Te Huaja | Gjermane",ZDF | RAW
+http://apptv.xyz:8080/09042027/bwGzYpJ/117003
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDFneo | RAW" tvg-logo="http://lore.repmc.top:80/images/Gj5nNLZLhkYKbYHgQcR-86RtQCfVITvB7boHBWukzWiiIqpHXyXMq7omQV7o7j5aKwQt1pxGFrJg_6Rv0MATLUVs333K9LwdgiTurMZi0gMXVeHZUC3CkxT4wtlhzAuDyh0-XWxzleQAaz4zXwZ44hgJ7ck_MQZrUskpCslqchHUb3YP7Eh6XNr4fmuanF9Q.png" group-title="Te Huaja | Gjermane",ZDFneo | RAW
+http://apptv.xyz:8080/09042027/bwGzYpJ/117004
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDFinfo | RAW" tvg-logo="http://lore.repmc.top:80/images/Gj5nNLZLhkYKbYHgQcR-86RtQCfVITvB7boHBWukzWiiIqpHXyXMq7omQV7o7j5aKwQt1pxGFrJg_6Rv0MATLUVs333K9LwdgiTurMZi0gMXVeHZUC3CkxT4wtlhzAuDyh0-XWxzleQAaz4zXwZ44meAl2qwwqkAT4LN2hdgZGkDh3ITZHGosbciovE_zxiy.png" group-title="Te Huaja | Gjermane",ZDFinfo | RAW
+http://apptv.xyz:8080/09042027/bwGzYpJ/117115
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telenovela ZDF | RAW" tvg-logo="" group-title="Te Huaja | Gjermane",Telenovela ZDF | RAW
+http://apptv.xyz:8080/09042027/bwGzYpJ/117216
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL ᶠᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RTL_HD_Logo.svg/2560px-RTL_HD_Logo.svg.png" group-title="Te Huaja | Gjermane",RTL ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/9756
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RTL2HDLogo.svg/2560px-RTL2HDLogo.svg.png" group-title="Te Huaja | Gjermane",RTL 2ᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/9757
+#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="DE: RTL UP ᶠᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/d8/RTL_UP_Logo_2021_lila_pink_blau_schwarz.svg/1280px-RTL_UP_Logo_2021_lila_pink_blau_schwarz.svg.png" group-title="Te Huaja | Gjermane",RTL UP ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/9918
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro ᶠᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nitro_Logo-HD.svg/2560px-Nitro_Logo-HD.svg.png" group-title="Te Huaja | Gjermane",RTL Nitro ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/14392
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime ᶠᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/RTL_CRIME_HD_Logo_2021_united_blau_rot_orange.png" group-title="Te Huaja | Gjermane",RTL Crime ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/3393
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion ᶠᴴᴰ" tvg-logo="https://logowik.com/content/uploads/images/rtl-passion-20219169.logowik.com.webp" group-title="Te Huaja | Gjermane",RTL Passion ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/3392
+#EXTINF:-1 tvg-id="" tvg-name="GR: ANT1" tvg-logo="" group-title="Te Huaja | Greke",ANT1
+http://apptv.xyz:8080/09042027/bwGzYpJ/116821
+#EXTINF:-1 tvg-id="" tvg-name="GR: ANT1 Comedy" tvg-logo="" group-title="Te Huaja | Greke",ANT1 Comedy
+http://apptv.xyz:8080/09042027/bwGzYpJ/116822
+#EXTINF:-1 tvg-id="" tvg-name="GR: ANT1 Drama" tvg-logo="" group-title="Te Huaja | Greke",ANT1 Drama
+http://apptv.xyz:8080/09042027/bwGzYpJ/116823
+#EXTINF:-1 tvg-id="" tvg-name="GR: Mega" tvg-logo="" group-title="Te Huaja | Greke",Mega
+http://apptv.xyz:8080/09042027/bwGzYpJ/116742
+#EXTINF:-1 tvg-id="" tvg-name="GR: Skai" tvg-logo="" group-title="Te Huaja | Greke",Skai
+http://apptv.xyz:8080/09042027/bwGzYpJ/116747
+#EXTINF:-1 tvg-id="" tvg-name="GR: Alpha" tvg-logo="" group-title="Te Huaja | Greke",Alpha
+http://apptv.xyz:8080/09042027/bwGzYpJ/116743
+#EXTINF:-1 tvg-id="" tvg-name="GR: Star" tvg-logo="" group-title="Te Huaja | Greke",Star
+http://apptv.xyz:8080/09042027/bwGzYpJ/116744
+#EXTINF:-1 tvg-id="" tvg-name="GR: Star Kentrikis" tvg-logo="" group-title="Te Huaja | Greke",Star Kentrikis
+http://apptv.xyz:8080/09042027/bwGzYpJ/116745
+#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sport Start" tvg-logo="" group-title="Te Huaja | Greke",Nova Sport Start
+http://apptv.xyz:8080/09042027/bwGzYpJ/116844
+#EXTINF:-1 tvg-id="" tvg-name="GR: Open Beyond" tvg-logo="" group-title="Te Huaja | Greke",Open Beyond
+http://apptv.xyz:8080/09042027/bwGzYpJ/116756
+#EXTINF:-1 tvg-id="" tvg-name="GR: Mad World TV" tvg-logo="" group-title="Te Huaja | Greke",Mad World TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/116748
+#EXTINF:-1 tvg-id="" tvg-name="GR: Mad" tvg-logo="" group-title="Te Huaja | Greke",Mad
+http://apptv.xyz:8080/09042027/bwGzYpJ/116749
+#EXTINF:-1 tvg-id="" tvg-name="GR: Kontra Channel" tvg-logo="" group-title="Te Huaja | Greke",Kontra Channel
+http://apptv.xyz:8080/09042027/bwGzYpJ/116741
+#EXTINF:-1 tvg-id="" tvg-name="GR: Blue Sky" tvg-logo="" group-title="Te Huaja | Greke",Blue Sky
+http://apptv.xyz:8080/09042027/bwGzYpJ/116755
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 1" tvg-logo="" group-title="Te Huaja | Greke",ERT 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/116732
+#EXTINF:-1 tvg-id="" tvg-name="USA:  ABC 7 (KABC) New York VIP" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np4qRAF7zuwLEybvc-0KPxTkd_s5VZxxDYDlKLu-DlmrxnnuULHtpkr1myxkQOd1LB.png" group-title="Te Huaja | Amerikane",ABC 7 (KABC) New York VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92886
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 10 (KGTV) San Diego VIP" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.FEVjJO8iDv8_WnBH9xjffgAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 10 (KGTV) San Diego VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92884
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 10 (KXTV) Sacramento VIP" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.WHge1b8aXROiwIf36GInWwAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 10 (KXTV) Sacramento VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92883
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 12 (KSAT) San Antonio VIP" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.HgWu2s6pzeeIFV1i2bXbDAHaDn&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 12 (KSAT) San Antonio VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92882
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 12 (WISN) Milwaukee VIP" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.vPG4glFWhVCEVMJMbgVx4AHaEK&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 12 (WISN) Milwaukee VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92881
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 13 (KTRK) Houston VIP" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.b5kC4e2Mt4iFWe5q_Y0KSQAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 13 (KTRK) Houston VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92880
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 15 (KNXV) Phoenix VIP" tvg-logo="https://tse3.mm.bing.net/th?id=OIP._FiUAbOsG2o77qRg2kO0NgHaDt&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 15 (KNXV) Phoenix VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92879
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 2 (KATU) Portland VIP" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.A5cIiW0dRaQhLxj225l36wAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 2 (KATU) Portland VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92878
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 2 (WKRN) Nashville VIP" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.ZF14N51Rg03DhHemH8jgewAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 2 (WKRN) Nashville VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92877
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 2 (WSB) Atlanta VIP" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZEaBcEBr8nIrN7OkB3x1np4qRAF7zuwLEybvc-0KPxTrNYsfYQUr9LemODa2kPOiDNHqaKCu3FUd4C9dLE4WWW.png" group-title="Te Huaja | Amerikane",ABC 2 (WSB) Atlanta VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92876
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 30 (KDNL) St. louis VIP" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.CHoaYh1ORoZz2GLk3YGVEgAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 30 (KDNL) St. louis VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92875
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 4 (KOMO) Seattle VIP" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.pnPikFAZXogjSj65K596IQAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 4 (KOMO) Seattle VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92874
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 4 (KTVX) Salt Lake City VIP" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.c9UnfsAyP-ClbUvKOgbuBQHaF8&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 4 (KTVX) Salt Lake City VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92873
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 5 (WCVB) Boston VIP" tvg-logo="" group-title="Te Huaja | Amerikane",ABC 5 (WCVB) Boston VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92872
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC 5 (WEWS) Cleveland VIP" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.91B-rClsVlJ2h8TFBSmJtwHaFc&pid=Api&P=0&h=220" group-title="Te Huaja | Amerikane",ABC 5 (WEWS) Cleveland VIP
+http://apptv.xyz:8080/09042027/bwGzYpJ/92871
+#EXTINF:-1 tvg-id="" tvg-name="Gregs Tagebuch 3: Jetzt reicht's! (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sVL1ASv4GG3TQ014hUyMAFnMFN.jpg" group-title="VOD | Filma",Gregs Tagebuch 3: Jetzt reicht's! (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/114466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Train Dreams - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg" group-title="VOD | Filma Shqip",Train Dreams - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The President's Wife - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS2X3RvvBRllM4lxtWW1m3MjbW9.jpg" group-title="VOD | Filma Shqip",The President's Wife - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stone Cold Fox - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaL55wDL4bEUhU8pvAO2j1U7WSC.jpg" group-title="VOD | Filma Shqip",Stone Cold Fox - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solo Mio - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efSsZJaddeq0LOABZqpCXdMxv9P.jpg" group-title="VOD | Filma Shqip",Solo Mio - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="VOD | Filma Shqip",Project Hail Mary - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pizza Movie - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2qH9CiGWup1Ddzai76ofgtSTAh.jpg" group-title="VOD | Filma Shqip",Pizza Movie - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Misdirection - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7padnoIDHbmxPdqEHryhqlaVqc.jpg" group-title="VOD | Filma Shqip",Misdirection - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kissing Is the Easy Part - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg" group-title="VOD | Filma Shqip",Kissing Is the Easy Part - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Il Maestro 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg" group-title="VOD | Filma Shqip",Il Maestro 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Humint - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg" group-title="VOD | Filma Shqip",Humint - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator Underground - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg" group-title="VOD | Filma Shqip",Gladiator Underground - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F Valentine's Day - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zPExowfpfZOTpS1W4J7G27lH4H.jpg" group-title="VOD | Filma Shqip",F Valentine's Day - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bird - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKshd6n8EKrwbE2fLOUqC4TSG6O.jpg" group-title="VOD | Filma Shqip",Bird - 2024
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Testament of Ann Lee - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg" group-title="VOD | Filma Shqip",The Testament of Ann Lee - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Smashing Machine - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg" group-title="VOD | Filma Shqip",The Smashing Machine - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romance at Hope Ranch - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8A8Zoq43KSAk2KmB4NKaqz6zR4L.jpg" group-title="VOD | Komedi",Romance at Hope Ranch - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Delta Force 2: The Colombian Connection (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rBVHD1gYSx5bOwCgqSdljUXKY8.jpg" group-title="VOD | Filma",Delta Force 2: The Colombian Connection (1990)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/114795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="National Lampoon's Christmas Vacation (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oat42hUw8XzKYUmfy0YLAxYd484.jpg" group-title="VOD | Filma",National Lampoon's Christmas Vacation (1989)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/114382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Family Plan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg" group-title="VOD | Komedi",The Family Plan (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/113960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vacation (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYDALvoCt3DBlSWN6pSAnGQ9ld7.jpg" group-title="VOD | Komedi",Vacation (2015)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/112133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Run (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilHG4EayOVoYeKqslspY3pR4wzC.jpg" group-title="VOD | Horror Thriller",Run (2020)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/112119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Country for Old Men (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6d5XOczc226jECq0LIX0siKtgHR.jpg" group-title="VOD | Horror Thriller",No Country for Old Men (2007)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/111035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg" group-title="VOD | Komedi",Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/109201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="F1 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/9PXZIUsSDh4alB80jheWX4fhZmy.jpg" group-title="VOD | Aksion",F1 (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sakra - La leggenda dei semidei (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vksLBSmHahKD9F30vIrm0S7JsSO.jpg" group-title="VOD | Filma",Sakra - La leggenda dei semidei (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dea dell'amore (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi0067shmsWSDbRPSl2ABI2zzPE.jpg" group-title="VOD | Filma",La dea dell'amore (1995)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dangerous Animals (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg" group-title="VOD | Horror Thriller",Dangerous Animals (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean: Dead Men Tell No Tales (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwoGfcg6YUS55nUweKGujHE54Wy.jpg" group-title="VOD | Aksion",Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smurfs (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="VOD | Femije",Smurfs (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boyka: Undisputed IV (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg" group-title="VOD | Aksion",Boyka: Undisputed IV (2016)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descendants: The Royal Wedding (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1vCU25JMegFVlj1bsWUbxEcaG0.jpg" group-title="VOD | Femije",Descendants: The Royal Wedding (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descendants 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg" group-title="VOD | Filma",Descendants 3 (2019)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descendants 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg" group-title="VOD | Filma",Descendants 2 (2017)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descendants (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg" group-title="VOD | Filma",Descendants (2015)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWbOhQ5ixU37c3VqWpjEfxQf838.jpg" group-title="VOD | Aksion",Kickboxer (1989)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After Ever Happy (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moogpu8rNkEjTgFyLXwhPghft5w.jpg" group-title="VOD | Komedi",After Ever Happy (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After We Fell (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg" group-title="VOD | Komedi",After We Fell (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After We Collided (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg" group-title="VOD | Komedi",After We Collided (2020)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg" group-title="VOD | Komedi",After (2019)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Sniper (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1U46OwMc6vlm7OoSUKfqUH615e.jpg" group-title="VOD | Aksion",American Sniper (2014)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ex Ex Lovers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chfovjYJvhjk6YsMUbmsbAyy8yH.jpg" group-title="VOD | Komedi",Ex Ex Lovers (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shanghai Knights (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVNQStMlZS9mn2AKBEpadRunHgt.jpg" group-title="VOD | Aksion",Shanghai Knights (2003)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8 Mile (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg" group-title="VOD | Horror Thriller",8 Mile (2002)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Police Academy: Mission to Moscow (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3517XQ9LpoEykyYq2TuDNS45MPP.jpg" group-title="VOD | Aksion",Police Academy: Mission to Moscow (1994)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunting Ava Bravo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etc6HKBEhNySNnYU2nRgbSeIyoW.jpg" group-title="VOD | Aksion",Hunting Ava Bravo (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dominion: Prequel to The Exorcist (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jIQOCB8ghrxvfWzSjzNv41LR9P.jpg" group-title="VOD | Horror Thriller",Dominion: Prequel to The Exorcist (2005)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Oxford Year (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrhXbIOFingzdLjkccjg9vZnqIp.jpg" group-title="VOD | Komedi",My Oxford Year (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Haunting in Venice (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg" group-title="VOD | Horror Thriller",A Haunting in Venice (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Knock Off (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hK7hKDA51FCbtFCuXZNiQ6gPq3S.jpg" group-title="VOD | Aksion",Knock Off (1998)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaiji: Final Game (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgkLaYfPzumdBKxC33EttpURnKn.jpg" group-title="VOD | Horror Thriller",Kaiji: Final Game (2020)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="5-Headed Shark Attack (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZnGZPINYBWUlK7fW2uSri4EeGq.jpg" group-title="VOD | Horror Thriller",5-Headed Shark Attack (2017)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conan the Barbarian (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6PzXsOfewD1kei8gMbepvwWC6.jpg" group-title="VOD | Aksion",Conan the Barbarian (2011)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happy Gilmore (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epFP29rGrLPseuKxpz3mGKr23Do.jpg" group-title="VOD | Komedi",Happy Gilmore (1996)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Site (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipn8khVVC4eToWiGf89WF9J5PJn.jpg" group-title="VOD | Aksion",Black Site (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demonic (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne0wAvbmzk72svslxjuFySrXEKw.jpg" group-title="VOD | Horror Thriller",Demonic (2015)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Trash (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1p3VRit3G5NEsnkikmLd1zgwjeV.jpg" group-title="VOD | Horror Thriller",American Trash (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Defiance (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cakC5JFMJIlX6lZfsZSgjJkSFjd.jpg" group-title="VOD | Aksion",Defiance (2008)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Osiris (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YtZHtXPNG5AleisgEatEfZOT2w.jpg" group-title="VOD | Horror Thriller",Osiris (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Killer (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKIG4f25QHUpBmBv0MPWOzKMGAM.jpg" group-title="VOD | Aksion",Ghost Killer (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cube Zero (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5ODgUYh5lMvRumBY63QJ4eVYp5.jpg" group-title="VOD | Horror Thriller",Cube Zero (2004)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cube 2: Hypercube (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEqqwtwUP7lm56VyeVONhv9JtYu.jpg" group-title="VOD | Horror Thriller",Cube 2: Hypercube (2002)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elevator Game (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4Zb13jow8RqJkYFgCUSdmzJCWq.jpg" group-title="VOD | Horror Thriller",Elevator Game (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Follow (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOQCP7RB97H2r8QELb4jaunWzNb.jpg" group-title="VOD | Horror Thriller",Follow (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dumb and Dumber To (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvEi0xV7TUkabJGuzulhvbMjrHi.jpg" group-title="VOD | Komedi",Dumb and Dumber To (2014)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eraser: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWE48knKsaPGqVoANXoWraiub2d.jpg" group-title="VOD | Aksion",Eraser: Reborn (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Shanghai (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcVpL3h2ElqHdi8gxpEY8A8HSnv.jpg" group-title="VOD | Aksion",Once Upon a Time in Shanghai (2014)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happy Gilmore 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="VOD | Komedi",Happy Gilmore 2 (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aşk Sadece Bir An (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwiMs8Lr6FAjvXEiQzTJyxLqZee.jpg" group-title="VOD | Komedi",Aşk Sadece Bir An (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marmaduke (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMUhBeMp0vLQzaPBX0izFdnFvh0.jpg" group-title="VOD | Femije",Marmaduke (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bugles in the Afternoon (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugzyabmb4oojUuQNhbZhuFd5h0E.jpg" group-title="VOD | Filma",Bugles in the Afternoon (1952)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Materialists (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg" group-title="VOD | Komedi",Materialists (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spermageddon (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7SFxle8CVzMXzfV8GNCXqdg78m.jpg" group-title="VOD | Femije",Spermageddon (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman and Superman: Battle of the Super Sons (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvffaexT5kA3chOnGxwBSlRoshh.jpg" group-title="VOD | Femije",Batman and Superman: Battle of the Super Sons (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spirit Untamed (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLE2mvuvhvzmSICOsqR9uE50Ave.jpg" group-title="VOD | Femije",Spirit Untamed (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Trip 2: Special Delivery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dabXVfrAFfhDte8XVemom3mTJog.jpg" group-title="VOD | Femije",Big Trip 2: Special Delivery (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Attack on Titan: Chronicle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq8Rg943AI8bmAlNOmhKver2uya.jpg" group-title="VOD | Femije",Attack on Titan: Chronicle (2020)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Predator: Killer of Killers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg" group-title="VOD | Femije",Predator: Killer of Killers (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outlander (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCZzrFonDkWfYkfxzsPByBY4Lvk.jpg" group-title="VOD | Filma",Outlander (2008)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="District 9 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg" group-title="VOD | Filma",District 9 (2009)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babe (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg" group-title="VOD | Femije",Babe (1995)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I, Robot (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efwv6F2lGaghjPpBRSINHtoEiZB.jpg" group-title="VOD | Filma",I,Robot (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efwv6F2lGaghjPpBRSINHtoEiZB.jpg" group-title="Fantasy/Sci",I, Robot (2004)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babe: Pig in the City (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glO6LcTWUZcbxWT2SB4eRDnFSsP.jpg" group-title="VOD | Femije",Babe: Pig in the City (1998)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: You're Next (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg" group-title="VOD | Femije",My Hero Academia: You're Next (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nanny McPhee and the Big Bang (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg" group-title="VOD | Femije",Nanny McPhee and the Big Bang (2010)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Zoopocalypse (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCejOVZcOxKS27nnbh28NKXOdXF.jpg" group-title="VOD | Femije",Night of the Zoopocalypse (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/102764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dog Man (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg" group-title="VOD | Femije",Dog Man (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/102599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It's What's Inside (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32Lfs4nbLehgbXI8VTeYg5jgIQt.jpg" group-title="VOD | Filma",It's What's Inside (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/99543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hitler: The Rise of Evil (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cPhBxrWixXrwayDohvqwk0jnEQ.jpg" group-title="VOD | Filma",Hitler: The Rise of Evil (2003)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/99210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hacksaw Ridge (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhWbYeUNOA5zAb6ufK6pXQFXqTX.jpg" group-title="VOD | Filma",Hacksaw Ridge (2016)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/99209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="VOD | Netflix Movies",Heart of the Hunter (2024
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/85967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asphalt Burning (2020)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xga1DMRKfdkS6uzLwzCGvbRiyL.jpg" group-title="VOD | Netflix Movies",Asphalt Burning (2020).
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/85755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24 Hours with Gaspar (2023)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSG2fEbYUiQLcA1QfMNDjpnFYJa.jpg" group-title="VOD | Netflix Movies",24 Hours with Gaspar (2023).
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/85754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irish Wish (2024)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg" group-title="VOD | Netflix Movies",Irish Wish (2024).
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/85753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damsel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMp34cNKjIb18UBOCoAv4DpCxwY.jpg" group-title="VOD | Netflix Movies",Damsel (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/85669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Seduction (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EONm3medZBNfHhost4taqrje1r.jpg" group-title="VOD | Netflix Movies",The Great Seduction (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/85650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Abyss (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta1B8QQ3pBRA0TG8wH0CfgG6vlp.jpg" group-title="VOD | Netflix Movies",The Abyss (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/85641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XOXO - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSWO4dZTqOEGSHffJl4GH3G8Fvp.jpg" group-title="VOD | Netflix Movies",XOXO - 2016
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ritual - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9022CYEGqYETCeXN1oE3uwYJWub.jpg" group-title="VOD | Netflix Movies",The Ritual - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Night Comes for Us - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg" group-title="VOD | Netflix Movies",The Night Comes for Us - 2018
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Kissing Booth - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg" group-title="VOD | Netflix Movies",The Kissing Booth - 2018
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Fundamentals of Caring - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZ0eda1GyHILNSoq9KF5u0hcq6O.jpg" group-title="VOD | Netflix Movies",The Fundamentals of Caring - 2016
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Discovery - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLIDouFvreSrs8xK62zuvpEPDw0.jpg" group-title="VOD | Netflix Movies",The Discovery - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tallulah - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kG86fYSa8Ug0o8RoT96Kce4URt.jpg" group-title="VOD | Netflix Movies",Tallulah - 2016
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Roma - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg" group-title="VOD | Netflix Movies",Roma - 2018
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Drama - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg" group-title="VOD | Drame",The Drama - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Secret Agent - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg" group-title="VOD | Filma Shqip",The Secret Agent - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sidelined 2: Intercepted - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg" group-title="VOD | Filma Shqip",Sidelined 2: Intercepted - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sentimental Value - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg" group-title="VOD | Filma Shqip",Sentimental Value - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nuremberg - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg" group-title="VOD | Filma Shqip",Nuremberg - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Melania - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg" group-title="VOD | Filma Shqip",Melania - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freakier Friday - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg" group-title="VOD | Filma Shqip",Freakier Friday - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dracula Aka Dracula A Love Tale 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg" group-title="VOD | Filma Shqip",Dracula Aka Dracula A Love Tale 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Tower The 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9GUSgddIqrroubiLsvvMRYyRy0.jpg" group-title="VOD | Filma Shqip",Dark Tower The 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Covenant - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg" group-title="VOD | Filma Shqip",Alien: Covenant - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Family Plan 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/original/semFxuYx6HcrkZzslgAkBqfJvZk.jpg" group-title="VOD | Filma Shqip",The Family Plan 2 (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/113981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GOAT (2026)" tvg-logo="https://image.tmdb.org/t/p/original/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="VOD | Filma Shqip",GOAT (2026)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BobSfungjeri: Në kërkim të Pantallonave Katrorë (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg" group-title="VOD | Filma Shqip",BobSfungjeri: Në kërkim të Pantallonave Katrorë (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Filmi i Kikirikëve 2015" tvg-logo="https://image.tmdb.org/t/p/original/dZOcwqxurYhDyjmdnhYcGnn1agL.jpg" group-title="VOD | Filma Shqip",Filmi i Kikirikëve 2015
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shtrumfat 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="VOD | Filma Shqip",Shtrumfat 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lepuri Shpëtimtar 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzWm5lsZp6YnqqM1mnJJ88Nnq00.jpg" group-title="VOD | Filma Shqip",Lepuri Shpëtimtar 2016
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sezoni i Gjuetisë: Të Trembur Keq 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFD3HdVIXVbvVixIGhNmJBaqyAI.jpg" group-title="VOD | Filma Shqip",Sezoni i Gjuetisë: Të Trembur Keq 2015
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mune: Mbrojtësi i Hënës 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWjm8AH9YqkRUR2yf4y1mDIvj0O.jpg" group-title="VOD | Filma Shqip",Mune: Mbrojtësi i Hënës 2015
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEGO DC: Lidhja e Drejtësisë – Përplasja Kozmike 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRsWTDTf0YJhcoDEDIW6xAFxBiG.jpg" group-title="VOD | Filma Shqip",LEGO DC: Lidhja e Drejtësisë – Përplasja Kozmike 2016
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Në Ëndrrat e Tua 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg" group-title="VOD | Filma Shqip",Në Ëndrrat e Tua 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shtëpia 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usFenYnk6mr8C62dB1MoAfSWMGR.jpg" group-title="VOD | Filma Shqip",Shtëpia 2015
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elio - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7z8jDiTZZco9moIKpTUImFtTy7o.jpg" group-title="VOD | Filma Shqip",Elio - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kap Flamurin 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHzwrSVDnu6Uza6GL0WYzkeXHS1.jpg" group-title="VOD | Filma Shqip",Kap Flamurin 2015
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Albert - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mdKQIvJ1uIAjEMLnuQtAinn4vi.jpg" group-title="VOD | Filma Shqip",Albert - 2016
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wuthering Heights - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGMppxPEzFqxSDDTNp6vhpmNHUp.jpg" group-title="VOD | Filma Shqip",Wuthering Heights - 2024
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dresden Sun - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwBA8R171aQb2M3Iax80BYvYS1i.jpg" group-title="VOD | Filma Shqip",The Dresden Sun - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Send Help - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg" group-title="VOD | Filma Shqip",Send Help - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream 7 - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg" group-title="VOD | Filma Shqip",Scream 7 - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rental Family - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRrwqApUDFL8gLGyJFIdDkmoule.jpg" group-title="VOD | Filma Shqip",Rental Family - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders: The Immortal Man - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="VOD | Filma Shqip",Peaky Blinders: The Immortal Man - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Outlaw King - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rT49ousKUWN3dV7UlhaC9onTNdl.jpg" group-title="VOD | Filma Shqip",Outlaw King - 2018
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Not Enter - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNxebIggQk0mSZ0qF8MjCMTHYL4.jpg" group-title="VOD | Filma Shqip",Do Not Enter - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boss Level - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt8on8Ge0Lsw0oF6EbmGiDV69Hf.jpg" group-title="VOD | Filma Shqip",Boss Level - 2021
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anaconda - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg" group-title="VOD | Filma Shqip",Anaconda - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After the Hunt - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg" group-title="VOD | Filma Shqip",After the Hunt - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gangster's Life - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxGu6UZ6ErR5gyBJLcha4zi7OvM.jpg" group-title="VOD | Filma Shqip",A Gangster's Life - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crime 101 (2026)" tvg-logo="https://image.tmdb.org/t/p/original/2HoR2x23bqKpopluoBD1FH3tBi7.jpg" group-title="VOD | Filma Shqip",Crime 101 (2026)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="This Is I - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aMYB238ZU2GPjP7YAvcIzPjQaN.jpg" group-title="VOD | Filma Shqip",This Is I - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Redux Redux - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg" group-title="VOD | Filma Shqip",Redux Redux - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le Jardiniere Aka The Gardener 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg" group-title="VOD | Filma Shqip",Le Jardiniere Aka The Gardener 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Is This Thing On? - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92laLBRtuyOm7l32XZJT7T6OXW1.jpg" group-title="VOD | Filma Shqip",Is This Thing On? - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blue Moon - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nij3i5ziQdqfiK29gb4rX1bkmVy.jpg" group-title="VOD | Filma Shqip",Blue Moon - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Man (2025)" tvg-logo="https://image.tmdb.org/t/p/original/86CwEsNkItgc9YYniTrs2B3Gfly.jpg" group-title="VOD | Filma Shqip",Bad Man (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tom Clancy's Without Remorse (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GCOpT8QcNzup09TAMmvvk22LTR.jpg" group-title="VOD | Filma Shqip",Tom Clancy's Without Remorse (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whistle - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84vAcFwxoObBuMWANWQXCg0Umg8.jpg" group-title="VOD | Filma Shqip",Whistle - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="War Machine - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="VOD | Filma Shqip",War Machine - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Strangers: Chapter 3 - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg" group-title="VOD | Filma Shqip",The Strangers: Chapter 3 - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Moment - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg" group-title="VOD | Filma Shqip",The Moment - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Kill Team - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLRZbtrbV51oQuvqNeK6vhb6btV.jpg" group-title="VOD | Filma Shqip",The Kill Team - 2019
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Flow 3 - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg" group-title="VOD | Filma Shqip",Street Flow 3 - 2026
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silent Night, Deadly Night - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg" group-title="VOD | Filma Shqip",Silent Night,Deadly Night - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg" group-title="Filma Te Fundit Me Titra Shqip",Silent Night, Deadly Night - 2025
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piranha II: The Spawning (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbcbLYbhc8ZmQmNHAt8E8knij88.jpg" group-title="VOD | Horror Thriller",Piranha II: The Spawning (1982)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Requiem for a Dream (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg" group-title="VOD | Horror Thriller",Requiem for a Dream (2000)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loving Adults (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSNHg7qReDtBk1u2PaSSzTTQ8ax.jpg" group-title="VOD | Horror Thriller",Loving Adults (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ronin (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AirrhRJjHwytOV0pdLu7YZ4DEyr.jpg" group-title="VOD | Horror Thriller",Ronin (1998)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chinatown (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg" group-title="VOD | Horror Thriller",Chinatown (1974)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crimson Peak (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9TOb5anVwZeSbYjU1qNxPk3KUk.jpg" group-title="VOD | Horror Thriller",Crimson Peak (2015)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunting Souls (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBuE76iVZObavtfWYJqvMdJMBnM.jpg" group-title="VOD | Horror Thriller",Hunting Souls (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cube (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNwm6fpDqQ4WjwhYI8EW6LPklod.jpg" group-title="VOD | Horror Thriller",Cube (1998)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Most Dangerous Game (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/begeAFRPkHzrW05ZQXHrB9pqugt.jpg" group-title="VOD | Aksion",Most Dangerous Game (2020)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cyborg 2 (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYNJ4KNMVaVgR5JAqC5qlgbJEmJ.jpg" group-title="VOD | Aksion",Cyborg 2 (1993)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silent Trigger (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adYMNsj6oALEqD7CN5v67Mz8TCf.jpg" group-title="VOD | Horror Thriller",Silent Trigger (1996)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="G.I. Joe: Retaliation (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZKk8XA0VrvRSdMQvBAF5Nzniwo.jpg" group-title="VOD | Aksion",G.I. Joe: Retaliation (2013)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade of the 47 Ronin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIp7UbNKaBBxA9086jLCCRuXA6W.jpg" group-title="VOD | Aksion",Blade of the 47 Ronin (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In the Tall Grass (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RxhzwFkAUqMt215Brb06u8P8pn.jpg" group-title="VOD | Horror Thriller",In the Tall Grass (2019)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cool Headed (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZk7PWOIQAU0sG30XSCyJRPIPhp.jpg" group-title="VOD | Horror Thriller",Cool Headed (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dolphin Tale (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/af2SRFllNW26WFG84AfTv3xLT5t.jpg" group-title="VOD | Horror Thriller",Dolphin Tale (2011)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Brown (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg" group-title="VOD | Horror Thriller",Jackie Brown (1997)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Into the Storm (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBgrhrES9kMKSPxawUYV61KjlnB.jpg" group-title="VOD | Horror Thriller",Into the Storm (2014)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dolphin Tale 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ujGA9YqxQ3uwtMelCEsaBKasuR.jpg" group-title="VOD | Horror Thriller",Dolphin Tale 2 (2014)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Piranha (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg" group-title="VOD | Horror Thriller",Piranha (1978)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AKA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exKj9XSFWLajZ6NI60Gxsj1qNuE.jpg" group-title="VOD | Aksion",AKA (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fury (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywzUHtubAGbJilTBoypwzOWlKvs.jpg" group-title="VOD | Horror Thriller",Fury (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shattered (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6buNalHVFyBRQFLQKqzkvshQWc.jpg" group-title="VOD | Horror Thriller",Shattered (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paper Lives (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg" group-title="VOD | Horror Thriller",Paper Lives (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seven Pounds (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85zUipgVy2QbvAJ6djZXYaGckMv.jpg" group-title="VOD | Horror Thriller",Seven Pounds (2008)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="97 Minutes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYGyR8xF8emNs9AJAJSyLXu56kR.jpg" group-title="VOD | Horror Thriller",97 Minutes (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gomorrah (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XcCTqSovFZE5GRebJmh1kHwziw.jpg" group-title="VOD | Horror Thriller",Gomorrah (2008)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Bodies (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apGKZgD3eCuMcyg1pLRmEM7W1Tp.jpg" group-title="VOD | Horror Thriller",Dead Bodies (2003)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Legend (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg" group-title="VOD | Horror Thriller",Legend (2015)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lord of the Wind (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvaShvzP1dCu7QIqiyl2noTJekw.jpg" group-title="VOD | Aksion",Lord of the Wind (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pale Rider (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpAN5WnDEVWYzMDPkXHTbrDQuak.jpg" group-title="VOD | Horror Thriller",Pale Rider (1985)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cloverfield (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg" group-title="VOD | Horror Thriller",Cloverfield (2008)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Need for Speed (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z42kyMizgDKetejusZgucSQsQ4l.jpg" group-title="VOD | Aksion",Need for Speed (2014)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hunting with Tigers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw6ovFjd6fhq6SEklcxP5axlVJn.jpg" group-title="VOD | Aksion",Hunting with Tigers (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rule Breakers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg" group-title="VOD | Horror Thriller",Rule Breakers (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="An Honest Life (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hveI7tEISN8KU60UFJw1JRYKvv.jpg" group-title="VOD | Horror Thriller",An Honest Life (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Addams Family Values (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg" group-title="VOD | Komedi",Addams Family Values (1993)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abraham's Boys: A Dracula Story (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e10AbPwcJk5b7ja3MQUVr5wHEeq.jpg" group-title="VOD | Horror Thriller",Abraham's Boys: A Dracula Story (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 Cloverfield Lane (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84Dhwz93vCin6T1PX6ctSvWEuNE.jpg" group-title="VOD | Horror Thriller",10 Cloverfield Lane (2016)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Nite in Mongkok (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LFv4ZmWZeM56f5swPgcWABTZ8w.jpg" group-title="VOD | Horror Thriller",One Nite in Mongkok (2004)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Double Blind (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JG4otyEyfTSECOq8VkFRdAA01M.jpg" group-title="VOD | Horror Thriller",Double Blind (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boogie Nights (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e87mnR1R74nXnMrJVXnr8jdJnaF.jpg" group-title="VOD | Aksion",Boogie Nights (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atomic Twister (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krupHiuUFEXOVTdp7MUBBUMM1VF.jpg" group-title="VOD | Horror Thriller",Atomic Twister (2002)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Space Oddity (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/612ajBEu9bUEF3jic7r0PnjG5vP.jpg" group-title="VOD | Komedi",Space Oddity (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 Days of a Good Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnRWvHecEnSGFconKQJbU0EXFiC.jpg" group-title="VOD | Horror Thriller",10 Days of a Good Man (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Am Wrath (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NvLA3BP5ktLaZ1qdLY0oHsaqwD.jpg" group-title="VOD | Aksion",I Am Wrath (2016)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boogeyman 3 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOCBPiNeQ7tPuQDwxapNYuSLKT5.jpg" group-title="VOD | Horror Thriller",Boogeyman 3 (2008)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boogeyman 2 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPtDUBYzbbTnTsLXIfoOHGg8Gux.jpg" group-title="VOD | Horror Thriller",Boogeyman 2 (2007)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boogeyman (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KffN0UcuAKJdUAcOvZ21OrqXc8.jpg" group-title="VOD | Horror Thriller",Boogeyman (2005)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dangerous Waters (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIMbYsYVD2brZUTqc2LIoQRAXr6.jpg" group-title="VOD | Horror Thriller",Dangerous Waters (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kill Your Darlings (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYM8VUTh0y6ugSmza1c2MJWCMfO.jpg" group-title="VOD | Horror Thriller",Kill Your Darlings (2013)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rush (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyfncP1YKDNcGb0agE7RQr6UOYr.jpg" group-title="VOD | Horror Thriller",Rush (2013)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Fistful of Dollars (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg" group-title="VOD | Aksion",A Fistful of Dollars (1964)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jigsaw (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RwHxhdUNS996JPFNB9a7CJtlwR.jpg" group-title="VOD | Horror Thriller",Jigsaw (2017)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don Jon (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh8bwvgGXeUKzdL4oSul9zxyTcd.jpg" group-title="VOD | Komedi",Don Jon (2013)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fight Against Evil 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFUBRvuk6LzD9oEwSFAGZc2i1kn.jpg" group-title="VOD | Horror Thriller",Fight Against Evil 2 (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fight Against Evil (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxVGB2He0vQPIFjHx6uZLHyguIh.jpg" group-title="VOD | Horror Thriller",Fight Against Evil (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="K-9: P.I. (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkI06uQJCnujYoN6MJzjnsxryaI.jpg" group-title="VOD | Aksion",K-9: P.I. (2002)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="K-911 (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYi2Kje8rfuoHzm5zkqa9nX5q8L.jpg" group-title="VOD | Aksion",K-911 (1999)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="K-9 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21mBNUe0X4WYywe6w5DyihltmAn.jpg" group-title="VOD | Aksion",K-9 (1989)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Private Lesson (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9KBLiAcV00uMSEsxviI5kRogSs.jpg" group-title="VOD | Komedi",Private Lesson (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One False Move (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5xCkGw4jutMcc8nmWLKNzbDKht.jpg" group-title="VOD | Horror Thriller",One False Move (1991)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="After Everything (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg" group-title="VOD | Komedi",After Everything (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Everything's Going to Be Great (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8McJCLGntK15zFFUYBipjneXth.jpg" group-title="VOD | Komedi",Everything's Going to Be Great (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOnd3XQIg7JBmu0UuBjZyLdsxQD.jpg" group-title="VOD | Aksion",Star Trek Beyond (2016)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Nemesis (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cldAwhvBmOv9jrd3bXWuqRHoXyq.jpg" group-title="VOD | Horror Thriller",Star Trek: Nemesis (2002)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atomic Blonde (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg" group-title="VOD | Aksion",Atomic Blonde (2017)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Come Back Home (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jZlCOdixarQHVEV15j5VeNqach.jpg" group-title="VOD | Horror Thriller",Come Back Home (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Army of One (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oswZEJav9ymqIc9B1cjA9Pz2tj1.jpg" group-title="VOD | Aksion",Army of One (2020)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sunrise in Heaven (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8cOgXD0v1RHP9g4ODYIHX0slOY.jpg" group-title="VOD | Komedi",Sunrise in Heaven (2019)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Am Sam (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MUXRSyx9gnA2lLSSTGLN8cQQ42.jpg" group-title="VOD | Horror Thriller",I Am Sam (2001)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: First Contact (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqhHe893Vcf07jNkNQ31tu85dKG.jpg" group-title="VOD | Horror Thriller",Star Trek: First Contact (1996)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bunker (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOA7chFPVzSyPp2DaRg8hqA1BHr.jpg" group-title="VOD | Horror Thriller",Bunker (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entourage (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28dqsx1jCxhR05DfH35ui13ywNZ.jpg" group-title="VOD | Horror Thriller",Entourage (2015)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bride Hard (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg" group-title="VOD | Komedi",Bride Hard (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Into Darkness (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="VOD | Aksion",Star Trek Into Darkness (2013)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jolt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0fBzqCmHr0a0XkeAdhc02XhKXG.jpg" group-title="VOD | Aksion",Jolt (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hold Me Close (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMd1jlHHZ2NY5YRi6GAHT8RHSXq.jpg" group-title="VOD | Komedi",Hold Me Close (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mysterious Island (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqLIpwISJEvERlS5fSWe8xbQDFf.jpg" group-title="VOD | Aksion",Mysterious Island (1961)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV5OpzAss1z06YNagOVap1I35mH.jpg" group-title="VOD | Aksion",Star Trek (2009)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karate Kid: Legends (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AEgggzRr1vZCLY86MAp93li43z.jpg" group-title="VOD | Aksion",Karate Kid: Legends (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle Beyond the Stars (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTZIZlBFWHq42u7hGEcSVxJOxH5.jpg" group-title="VOD | Aksion",Battle Beyond the Stars (1980)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Section 31 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNu6P4jYU55Cb3CC2SndtAKvois.jpg" group-title="VOD | Aksion",Star Trek: Section 31 (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madea's Destination Wedding (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg" group-title="VOD | Komedi",Madea's Destination Wedding (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Steel Dawn (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8dqpQgdnc35kVlE4EQAFnKMTfl.jpg" group-title="VOD | Aksion",Steel Dawn (1987)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Police Academy 4: Citizens on Patrol (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvk5aWBJE3EqDX2ln6M4J4UiUXr.jpg" group-title="VOD | Aksion",Police Academy 4: Citizens on Patrol (1987)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg" group-title="VOD | Aksion",Batman (1989)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Life in a Year (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP7u19opmHXYeTCUwGjlLldmUMc.jpg" group-title="VOD | Komedi",Life in a Year (2020)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Failure to Launch (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQrNTe7VDytVDet9Jus6RDKEPYZ.jpg" group-title="VOD | Komedi",Failure to Launch (2006)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Tactics 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygtnnkiGfRQhhlXBurqp9DR2Zqi.jpg" group-title="VOD | Komedi",Love Tactics 2 (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg" group-title="VOD | Aksion",Deadpool 2 (2018)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death Wish (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0eEEZAqMf98ULQnoiORuazjOpn.jpg" group-title="VOD | Aksion",Death Wish (2018)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Catwoman (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg" group-title="VOD | Aksion",Catwoman (2004)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guns Up (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RokBWEkQqJRZEVP3DPwGm5MYh6.jpg" group-title="VOD | Aksion",Guns Up (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desert Dawn (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MpAklfzhbIqonqt54MyGciDTjS.jpg" group-title="VOD | Aksion",Desert Dawn (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner: The Death Cure (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg" group-title="VOD | Aksion",Maze Runner: The Death Cure (2018)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Son of a Gun (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRLVyhQfkW2hn15e8NIqarswLAr.jpg" group-title="VOD | Aksion",Son of a Gun (2014)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fantastic Four: Rise of the Silver Surfer (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg" group-title="VOD | Aksion",Fantastic Four: Rise of the Silver Surfer (2007)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Almost Cops (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bcndiaTgu1Kj5a6qyCmsWYdtI.jpg" group-title="VOD | Aksion",Almost Cops (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKGYCpmQyV9uHybWDzXuII8Los5.jpg" group-title="VOD | Aksion",Mission: Impossible III (2006)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fantastic Four (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg" group-title="VOD | Aksion",Fantastic Four (2015)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stand Your Ground (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT9JCdx018nvFBvo1YQP4uA4hl9.jpg" group-title="VOD | Aksion",Stand Your Ground (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="30 Days Max (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okepE7ytt7bWyFdD77Et273sAtt.jpg" group-title="VOD | Aksion",30 Days Max (2020)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Name Is Vendetta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l3war94J4tRyWUiLAGokr3ViF2.jpg" group-title="VOD | Aksion",My Name Is Vendetta (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg" group-title="VOD | Aksion",Rambo III (1988)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dark Shadows (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fd9Ck4cxVlmtXsbeGtQW7WFuUFI.jpg" group-title="VOD | Komedi",Dark Shadows (2012)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep Cover (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg" group-title="VOD | Aksion",Deep Cover (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: First Blood Part II (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzPdwOitmTleVE3YPMfIQgLh84p.jpg" group-title="VOD | Aksion",Rambo: First Blood Part II (1985)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2012 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaqam2RNscH5ooYFWInV6hjx6y5.jpg" group-title="VOD | Aksion",2012 (2009)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mad Money (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6b6rQ1ZFEkM4tSt84yPtdAioCO.jpg" group-title="VOD | Aksion",Mad Money (2008)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Holiday Boyfriend (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnO0dirvkSV8R8fC4Pzpx26H0lJ.jpg" group-title="VOD | Komedi",A Holiday Boyfriend (2019)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Countdown (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTzuFkYy0JKsiZtv3hdVB6pAHhv.jpg" group-title="VOD | Aksion",Countdown (2016)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Love You, Beth Cooper (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUi6nEbo04DR1YwflbZX1RR7UwS.jpg" group-title="VOD | Komedi",I Love You,Beth Cooper (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUi6nEbo04DR1YwflbZX1RR7UwS.jpg" group-title="Komedi/Romance",I Love You, Beth Cooper (2009)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pride Jewel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWnVNThrJmSvmcr71lKaDyCyCN8.jpg" group-title="VOD | Aksion",Pride Jewel (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg" group-title="VOD | Aksion",Non-Stop (2014)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Countdown (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKvgJ5aibS4B12qhMqPz9eesh6Y.jpg" group-title="VOD | Aksion",Countdown (2011)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Mermaid in Paris (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tn0pNVvTfFTREKOfixksU8QCSV.jpg" group-title="VOD | Komedi",A Mermaid in Paris (2020)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Napoleon Dynamite (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg" group-title="VOD | Komedi",Napoleon Dynamite (2004)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Focus (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg" group-title="VOD | Komedi",Focus (2015)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magic Farm (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XGkkT6KAx5ZYNPGNEF6U34sUf7.jpg" group-title="VOD | Komedi",Magic Farm (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love in the Limelight (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTMKYX0hsJDND2KQ1wQ9hwnincv.jpg" group-title="VOD | Komedi",Love in the Limelight (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Never Let Me Go (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F0r5ng9Fp60OhzQfR5v33fppq.jpg" group-title="VOD | Komedi",Never Let Me Go (2010)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="After 30 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DO6IoTXvm5S4w8RaahxXM6p9wb.jpg" group-title="VOD | Komedi",After 30 (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coming 2 America (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWBPLkqNApY5pgrJFMiI9joSI30.jpg" group-title="VOD | Komedi",Coming 2 America (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="365 Days: This Day (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLmG3HCXVyqXYbFvUO1rfOeGa3Z.jpg" group-title="VOD | Komedi",365 Days: This Day (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="VOD | Komedi",Don't Look Up (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Purple Hearts (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JyNWkryifWbWXJyxcWh3pVya6N.jpg" group-title="VOD | Komedi",Purple Hearts (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love in the Villa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t92CXfEP5aWBATeOomcF0wF9NsM.jpg" group-title="VOD | Komedi",Love in the Villa (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Honor Society (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61CZ4JxyaI462sFfLPhtyzRg4vv.jpg" group-title="VOD | Komedi",Honor Society (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Cinderella Story (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukwP7gDPWxj1R1dW5iN3mnxkL3D.jpg" group-title="VOD | Komedi",A Cinderella Story (2004)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Accepted (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMh1dCw5vhMATmJs0ve0OpoSVED.jpg" group-title="VOD | Komedi",Accepted (2006)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I, Robot (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efwv6F2lGaghjPpBRSINHtoEiZB.jpg" group-title="VOD | Filma",I,Robot (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efwv6F2lGaghjPpBRSINHtoEiZB.jpg" group-title="Fantasy/Sci",I, Robot (2004)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nonnas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg" group-title="VOD | Komedi",Nonnas (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Don't Co$t a Thing (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88zspc72LIkfiuMnGpHnsWCuqEH.jpg" group-title="VOD | Komedi",Love Don't Co$t a Thing (2003)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Life of the Party (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/749iUAWQWeutQuTd9excjmigecw.jpg" group-title="VOD | Komedi",Life of the Party (2018)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pretty Cool Too (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu84g4PWqBPwdaJgbdjlGCZaHYZ.jpg" group-title="VOD | Komedi",Pretty Cool Too (2007)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Dolce Vita (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skFeWHHBwbQNfXep9OEdrQPJKoS.jpg" group-title="VOD | Komedi",La Dolce Vita (1960)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/102777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daddy Day Care (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg" group-title="VOD | Komedi",Daddy Day Care (2003)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/102619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breakfast at Tiffany's (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg" group-title="VOD | Komedi",Breakfast at Tiffany's (1961)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/102618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Minecraft Movie (2025) -KINEMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" group-title="VOD | Femije",A Minecraft Movie (2025) -KINEMA
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/102402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Banger (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QAgOQWcdQLnbki5V2Sjn1tcnHS.jpg" group-title="VOD | Komedi",Banger (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/102381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg" group-title="VOD | Femije",Coco (2017)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/101456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moonstruck (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg" group-title="VOD | Komedi",Moonstruck (1987)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/101450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquamarine (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2Hvucs1Q1nir3pyIXuIwo66uFV.jpg" group-title="VOD | Komedi",Aquamarine (2006)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/101324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nacho Libre (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kh7B91bMl2lZ0mH9WhPfaNUIEQH.jpg" group-title="VOD | Komedi",Nacho Libre (2006)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Ninja vs. Yakuza League (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVVT6GYFErVv0Lcc9NvqCu0iOxO.jpg" group-title="VOD | Femije",Batman Ninja vs. Yakuza League (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="E.T. the Extra-Terrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="VOD | Femije",E.T. the Extra-Terrestrial (1982)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Picture This (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8mUV5bJlUQrco0XWYHUiSVzgdh.jpg" group-title="VOD | Komedi",Picture This (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Megamind (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg" group-title="VOD | Femije",Megamind (2010)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sosyal Climbers (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cr6y0nWdfPb3yZT9Iz63zTE1dQE.jpg" group-title="VOD | Komedi",Sosyal Climbers (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Copenhagen Love Story (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aau2E9HW5TvlxoNPHET6ZnAcV72.jpg" group-title="VOD | Komedi",A Copenhagen Love Story (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Me (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg" group-title="VOD | Komedi",Love Me (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marked Men: Rule + Shaw (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZQU8BtCH2IbMZq6QETiU4HXQSR.jpg" group-title="VOD | Komedi",Marked Men: Rule + Shaw (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Forever (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2yAyz0PR43aIxnGjv9HJryHBys.jpg" group-title="VOD | Komedi",Love Forever (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/100366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Dhaam (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2E7me3rPi8HqaeheuD86YlpNX6k.jpg" group-title="VOD | Komedi",Dhoom Dhaam (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/99709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prom Dates (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojWiV81GldQSrBjY2izkayPSN05.jpg" group-title="VOD | Komedi",Prom Dates (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/99706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Days of Glory (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d78c7G8wDVGUTWH95tpuEGiK6IZ.jpg" group-title="VOD | Filma",Days of Glory (2006)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/99207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flags of Our Fathers (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nkPrhf4YIyMFelfe4zdOnGRYz5.jpg" group-title="VOD | Filma",Flags of Our Fathers (2006)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/99206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Come and See (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNbMsKVzigERgJUbwf8pKyZogpb.jpg" group-title="VOD | Filma",Come and See (1985)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/99200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Midway (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg" group-title="VOD | Filma",Midway (2019)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/99199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonic the Hedgehog 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg" group-title="VOD | Femije",Sonic the Hedgehog 3 (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/98554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ancora una possibilità (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zws2wQ6E81hp0649YXjCJ3cFoTI.jpg" group-title="VOD | Filma",Ancora una possibilità (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/98047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="60 minuti (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r90h18EMzy4PWhJWpSjgceIGEZj.jpg" group-title="VOD | Filma",60 minuti (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/98045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Il treno dei bambini (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwGsWmdbHZmJ45Qd26mO4FyuNz8.jpg" group-title="VOD | Filma",Il treno dei bambini (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/98040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack Whitehall Missione Natale (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NKZUwk18KCHHffTpoQh68PjYU9.jpg" group-title="VOD | Filma",Jack Whitehall Missione Natale (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/98024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hitpig! (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg" group-title="VOD | Femije",Hitpig! (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/97975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kalki 2898-AD (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg" group-title="VOD | Filma",Kalki 2898-AD (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/97973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan II (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovAxLGM0I9Dn2DIUuYhgvNVbwht.jpg" group-title="VOD | Femije",Mulan II (2004)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/97920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulan (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg" group-title="VOD | Femije",Mulan (1998)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/97919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Alone 2: Lost in New York (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg" group-title="VOD | Filma",Home Alone 2: Lost in New York (1992)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/97712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Queensberry vs. Matchroom 5 vs. 5 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oO37EwMsIuwWEX8X31duifjBrQp.jpg" group-title="VOD | Filma",Queensberry vs. Matchroom 5 vs. 5 (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/89826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anthony Joshua vs. Otto Wallin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoMrnBbnWDcAqfuexCYFwDzxXMv.jpg" group-title="VOD | Filma",Anthony Joshua vs. Otto Wallin (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/89825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anthony Joshua vs. Francis Ngannou (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mE8TI183NOZOhAovFN02lS1w6pZ.jpg" group-title="VOD | Filma",Anthony Joshua vs. Francis Ngannou (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/89824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tyson Fury vs. Francis Ngannou (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcFyavUcaIos3FiDSFSGCBPc75x.jpg" group-title="VOD | Filma",Tyson Fury vs. Francis Ngannou (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/89823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tyson Fury vs. Oleksandr Usyk (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOV1daM3Ua9UFXUoH4SYDZwwMJn.jpg" group-title="VOD | Filma",Tyson Fury vs. Oleksandr Usyk (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/89822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Artur Beterbiev vs. Dmitry Bivol (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xidZacCXALZTTxg3kAeIyqxRmkI.jpg" group-title="VOD | Filma",Artur Beterbiev vs. Dmitry Bivol (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/89781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 215: Nzechukwu vs. Cuțelaba (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRXucj7PnVnPJcpMIiIG0FvuDcl.jpg" group-title="VOD | Filma",UFC Fight Night 215: Nzechukwu vs. Cuțelaba (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 220: Allen vs. Muniz (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79v9bzELNf9TQ5KZR4IFhH7JMUL.jpg" group-title="VOD | Filma",UFC Fight Night 220: Allen vs. Muniz (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 218: Lewis vs. Spivac (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aauYxhA0imnXg5Afdq1WF0AhhcG.jpg" group-title="VOD | Filma",UFC Fight Night 218: Lewis vs. Spivac (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 214: Rodriguez vs. Lemos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgyaFn46y0uiVEMKKynhepjtj5F.jpg" group-title="VOD | Filma",UFC Fight Night 214: Rodriguez vs. Lemos (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 219: Andrade vs. Blanchfield (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX2f5iaxuAc9fqORVvodCnbCnbE.jpg" group-title="VOD | Filma",UFC Fight Night 219: Andrade vs. Blanchfield (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 42: Thompson vs. Holland (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrQ8bJu6TbsKgpY1K7hiCHNAKKF.jpg" group-title="VOD | Filma",UFC on ESPN 42: Thompson vs. Holland (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 216: Cannonier vs. Strickland (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dgfeemguaTTi80dJ5N4cmrnP4h.jpg" group-title="VOD | Filma",UFC Fight Night 216: Cannonier vs. Strickland (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 213: Kattar vs. Allen (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBnVSWf0ahuUIHcXOh9JRDbNicx.jpg" group-title="VOD | Filma",UFC Fight Night 213: Kattar vs. Allen (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC 280: Oliveira vs. Makhachev (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxzDluj9eMSYNtELmMWOXezqzw5.jpg" group-title="VOD | Filma",UFC 280: Oliveira vs. Makhachev (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC 282: Blachowicz vs. Ankalaev (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84glBBYcS9Ite7mOAutqBnBYmDG.jpg" group-title="VOD | Filma",UFC 282: Blachowicz vs. Ankalaev (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC 281: Adesanya vs. Pereira (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVQ50FMuz7GZdihKzhCwTDwkEsI.jpg" group-title="VOD | Filma",UFC 281: Adesanya vs. Pereira (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 217: Strickland vs. Imavov (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrSHE0VTwMMBEB8G4H5xE2n4wZW.jpg" group-title="VOD | Filma",UFC Fight Night 217: Strickland vs. Imavov (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 223: Dern vs. Hill (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUn7rWf2dC6FQ1PPcDZ5e9hwM1n.jpg" group-title="VOD | Filma",UFC Fight Night 223: Dern vs. Hill (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 49: Holm vs. Bueno Silva (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxijufs3jfFTfw2N2wGm8gDepVZ.jpg" group-title="VOD | Filma",UFC on ESPN 49: Holm vs. Bueno Silva (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 51: Luque vs. dos Anjos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcS1F3hD1weHn1gDLEi3KLzbECD.jpg" group-title="VOD | Filma",UFC on ESPN 51: Luque vs. dos Anjos (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 228: Fiziev vs. Gamrot (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJA4Fum91ImSbM57ykm3wOMzOWN.jpg" group-title="VOD | Filma",UFC Fight Night 228: Fiziev vs. Gamrot (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 226: Gane vs. Spivak (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZkD1zmoegmHdIrsMZvLXwWFVkO.jpg" group-title="VOD | Filma",UFC Fight Night 226: Gane vs. Spivak (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 50: Sandhagen vs. Font (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7mUoKWbNq96DTKlxrfpCA39Tw3.jpg" group-title="VOD | Filma",UFC on ESPN 50: Sandhagen vs. Font (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 43: Vera vs. Sandhagen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FhZWBGepzRC7bZTAHGc3QvJ7NW.jpg" group-title="VOD | Filma",UFC on ESPN 43: Vera vs. Sandhagen (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 231: Almeida vs. Lewis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCCbuavRroOTOulkZo8JwcXp2JW.jpg" group-title="VOD | Filma",UFC Fight Night 231: Almeida vs. Lewis (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 224: Aspinall vs. Tybura (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leQN5j9jnHimvyXga1A6XVTgbW4.jpg" group-title="VOD | Filma",UFC Fight Night 224: Aspinall vs. Tybura (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ABC 4: Rozenstruik vs. Almeida (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEMrbCSq1g3f4ZzxEuKSxSAZ1zD.jpg" group-title="VOD | Filma",UFC on ABC 4: Rozenstruik vs. Almeida (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 225: Holloway vs. The Korean Zombie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMrENNuxsBpRSz5Namb9iGVtgJo.jpg" group-title="VOD | Filma",UFC Fight Night 225: Holloway vs. The Korean Zombie (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 46: Kara-France vs. Albazi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c05ETnfjEzDcmrufW8xklJ39Sac.jpg" group-title="VOD | Filma",UFC on ESPN 46: Kara-France vs. Albazi (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 227: Grasso vs. Shevchenko 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ju2kjMMUWIrhnZyWtRWA16Yjw.jpg" group-title="VOD | Filma",UFC Fight Night 227: Grasso vs. Shevchenko 2 (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC 288: Sterling vs. Cejudo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSBDWGTelKlnVM4MCyx8BOOmgr7.jpg" group-title="VOD | Filma",UFC 288: Sterling vs. Cejudo (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC 289: Nunes vs. Aldana (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0Z3hpOEvR4JZs27UbqMJzOGQ3v.jpg" group-title="VOD | Filma",UFC 289: Nunes vs. Aldana (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC 287: Pereira vs. Adesanya 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70vCsEWPsC8PaQkHmZBam745Ezr.jpg" group-title="VOD | Filma",UFC 287: Pereira vs. Adesanya 2 (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC 294: Makhachev vs. Volkanovski 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwtobJY22gOVKxQJd8YQabP67v.jpg" group-title="VOD | Filma",UFC 294: Makhachev vs. Volkanovski 2 (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 54: Blanchfield vs. Fiorot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKL4kVqtTl0cDmnU0k51rpcW6MV.jpg" group-title="VOD | Filma",UFC on ESPN 54: Blanchfield vs. Fiorot (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 236: Hermansson vs. Pyfer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llZtdh6Us2Srs5o6kkt83sLLFrh.jpg" group-title="VOD | Filma",UFC Fight Night 236: Hermansson vs. Pyfer (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UFC 296: Edwards vs. Covington (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbW9XGykRJpX2MMpNEFhEOd462m.jpg" group-title="VOD | Filma",UFC 296: Edwards vs. Covington (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 235: Dolidze vs. Imavov (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BVF8xJAWPiE1EthKig5dWdnftp.jpg" group-title="VOD | Filma",UFC Fight Night 235: Dolidze vs. Imavov (2024)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kids vs. Aliens - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg" group-title="VOD | Femije",Kids vs. Aliens - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/83048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Private Life - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljym9jQlw1HypwZxlfsjuWcjQV8.jpg" group-title="VOD | Netflix Movies",Private Life - 2018
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mute - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihGg1xndLl3MW34Km332pNkyLH7.jpg" group-title="VOD | Netflix Movies",Mute - 2018
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mudbound - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf21kSKepMOlnorszWaiFwksKU4.jpg" group-title="VOD | Netflix Movies",Mudbound - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Don't Feel at Home in This World Anymore - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1stdUlXBc3nxqhdWvZ6wWWEbCQW.jpg" group-title="VOD | Netflix Movies",I Don't Feel at Home in This World Anymore - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creep 2 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaOfXrOCjOhCAxvAtXLicDHg6YV.jpg" group-title="VOD | Netflix Movies",Creep 2 - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cargo - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg" group-title="VOD | Netflix Movies",Cargo - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beasts of No Nation - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg" group-title="VOD | Netflix Movies",Beasts of No Nation - 2015
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annihilation - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg" group-title="VOD | Netflix Movies",Annihilation - 2018
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Christmas Prince - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0IGQsMzVbsF7noj5cCfEk1GU7s.jpg" group-title="VOD | Netflix Movies",A Christmas Prince - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1922 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="VOD | Netflix Movies",1922 - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="22 July - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd940KzuIZwbdOvOUF7XDTzn8te.jpg" group-title="VOD | Netflix Movies",22 July - 2018
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Place or Mine - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg" group-title="VOD | Netflix Movies",Your Place or Mine - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="You People - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg" group-title="VOD | Netflix Movies",You People - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wingwomen - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atatNvrn7kBvkARD2YodyYkKicr.jpg" group-title="VOD | Netflix Movies",Wingwomen - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wild Is the Wind - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rITxQBtnMpneZf8QzH1dqONQocx.jpg" group-title="VOD | Netflix Movies",Wild Is the Wind - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Who Killed Santa- A Murderville Murder Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO0EJVJmy2RC0YRgcvu8ETFBUZO.jpg" group-title="VOD | Netflix Movies",Who Killed Santa- A Murderville Murder Mystery (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="White Snake 2- Green Snake (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zs5zsQDP5KuWwxIg9EUULLFEV.jpg" group-title="VOD | Netflix Movies",White Snake 2- Green Snake (2021)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="White Noise - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1a48bfLQm57ByADdw05uRMoFCZc.jpg" group-title="VOD | Netflix Movies",White Noise - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="We Have a Ghost - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg" group-title="VOD | Netflix Movies",We Have a Ghost - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viking Wolf - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abBDzmy35A3Nkupn6wK2DKyFamd.jpg" group-title="VOD | Netflix Movies",Viking Wolf - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unlocked - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/648Egu3BB7WDBp0wd4g7LbiJwZH.jpg" group-title="VOD | Netflix Movies",Unlocked - 2021
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trust No One- The Hunt for the Crypto King (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZzllPVrYmBn28Kc7PZaQ0PrQat.jpg" group-title="VOD | Netflix Movies",Trust No One- The Hunt for the Crypto King (2022)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="True Spirit - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/B7m21gukMeVK3NAuk1PLCo9C8p.jpg" group-title="VOD | Netflix Movies",True Spirit - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toscana - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9JHEiBkMsqCR5vKREjdOvz91u6.jpg" group-title="VOD | Netflix Movies",Toscana - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tin & Tina - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIrXgFnYbrybAu9h3tUgPbnhBqo.jpg" group-title="VOD | Netflix Movies",Tin & Tina - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Through My Window - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gg7fvKc1ZxP9yCczweSxIGYp4S.jpg" group-title="VOD | Netflix Movies",Through My Window - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="They Cloned Tyrone - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnzXoDaK346U4ByfvQenu2DZnTg.jpg" group-title="VOD | Netflix Movies",They Cloned Tyrone - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wonderful Story of Henry Sugar - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg" group-title="VOD | Netflix Movies",The Wonderful Story of Henry Sugar - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Strays - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg" group-title="VOD | Netflix Movies",The Strays - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The School for Good and Evil - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg" group-title="VOD | Netflix Movies",The School for Good and Evil - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Post-Truth World - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pkOlAU5QUrx2C2AMDRc4buoZq5.jpg" group-title="VOD | Netflix Movies",The Post-Truth World - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Perfect Find - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZXturIugHYCl7T6oLeMj1AWm7p.jpg" group-title="VOD | Netflix Movies",The Perfect Find - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pale Blue Eye - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg" group-title="VOD | Netflix Movies",The Pale Blue Eye - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Out-Laws - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg" group-title="VOD | Netflix Movies",The Out-Laws - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Monkey King - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg" group-title="VOD | Netflix Movies",The Monkey King - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Magician's Elephant - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg" group-title="VOD | Netflix Movies",The Magician's Elephant - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Kingdom- Seven Kings Must Die (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg" group-title="VOD | Netflix Movies",The Last Kingdom- Seven Kings Must Die (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Kings of the World - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK46b6jYIKvaakp7qKt0BKexN53.jpg" group-title="VOD | Netflix Movies",The Kings of the World - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Killer - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7Jvsry47JJQruuezjU2X1Z6J77.jpg" group-title="VOD | Netflix Movies",The Killer - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Invisible Guardian - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxR7CqLRdQ2QuOPP9ymunPrRBCq.jpg" group-title="VOD | Netflix Movies",The Invisible Guardian - 2017
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Black Book - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kn28W24slBLyGr8ZIZnxNE5YZrY.jpg" group-title="VOD | Netflix Movies",The Black Book - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Take Your Pills: Xanax - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RDldNLB7LB7IwcZUyvP2Cf1117.jpg" group-title="VOD | Netflix Movies",Take Your Pills: Xanax - 2022
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Street Flow 2 - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2LE7qy5NFnE1tg9OqQ0Pir638n.jpg" group-title="VOD | Netflix Movies",Street Flow 2 - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Street Flow - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg" group-title="VOD | Netflix Movies",Street Flow - 2019
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Squared Love All Over Again - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43nsgB6n1BNyaD4KCEqTFS2462S.jpg" group-title="VOD | Netflix Movies",Squared Love All Over Again - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Squared Love - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeRCXsOitUdtDXc5sSVgwYGTZyg.jpg" group-title="VOD | Netflix Movies",Squared Love - 2021
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spy Kids: Armageddon (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" group-title="VOD | Femije",Spy Kids: Armageddon (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soulcatcher - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1f9JSPjCfNftigEii1SDK1g2b3.jpg" group-title="VOD | Netflix Movies",Soulcatcher - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sly - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1utWajLPvv1R9ZwkD98s2ZEngS.jpg" group-title="VOD | Netflix Movies",Sly - 2023
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silver Skates - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om51hNT54XocGVW3qONHXwMFBBW.jpg" group-title="VOD | Netflix Movies",Silver Skates - 2020
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="School Life - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0EmaEJmB02iIBA1YWQZGYVLBjA.jpg" group-title="VOD | Netflix Movies",School Life - 2019
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ruby Gillman, Teenage Kraken (2023)" tvg-logo="https://www.themoviedb.org/t/p/original/lotWiuWuTGlQ94rzBdy6ZmKZnTA.jpg" group-title="VOD | Femije",Ruby Gillman,Teenage Kraken (2023)" tvg-logo="https://www.themoviedb.org/t/p/original/lotWiuWuTGlQ94rzBdy6ZmKZnTA.jpg" group-title="Femije/Animuar",Ruby Gillman, Teenage Kraken (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/80378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miraculous: Ladybug & Cat Noir, The Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg" group-title="VOD | Femije",Miraculous: Ladybug & Cat Noir,The Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg" group-title="Femije/Animuar",Miraculous: Ladybug & Cat Noir, The Movie (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/80374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Justice League: Warworld (2023)" tvg-logo="https://www.themoviedb.org/t/p/original/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg" group-title="VOD | Femije",Justice League: Warworld (2023)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/80373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierische Detektive - Drei Kids und ihr größter Fall (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tUzzRe6R1DpXP0qNWoQHW605nP.jpg" group-title="VOD | Femije",Tierische Detektive - Drei Kids und ihr größter Fall (2025)
+http://apptv.xyz:8080/movie/09042027/bwGzYpJ/98700.mkv
