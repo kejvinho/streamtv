@@ -1,0 +1,310 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="12926" tvg-name="AL: Top Channel ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12926" group-title="Kombetare",Top Channel
+http://apptv.xyz:8080/09042027/bwGzYpJ/52422
+#EXTINF:-1 tvg-id="13261" tvg-name="AL: TV Klan ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan
+http://apptv.xyz:8080/09042027/bwGzYpJ/25129
+#EXTINF:-1 tvg-id="737482" tvg-name="AL: Vizion Plus ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/15/20/04/ba/5bb5-40df-b0fd-2ebb409b62b5.png&w=550&h=265" group-title="Kombetare",Vizion Plus
+http://apptv.xyz:8080/09042027/bwGzYpJ/30152
+#EXTINF:-1 tvg-id="89251" tvg-name="AL: Alsat M ⁴ᴷ" tvg-logo="https://i.ibb.co/RGsnJsBK/89251.png" group-title="Kombetare",Alsat M
+http://apptv.xyz:8080/09042027/bwGzYpJ/30140
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri TV ⁴ᴷ" tvg-logo="" group-title="Kombetare",Syri TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/32718
+#EXTINF:-1 tvg-id="News 24" tvg-name="AL: News 24 ⁴ᴷ" tvg-logo="https://i.imgur.com/ZYHID9p.jpg" group-title="Kombetare",News 24
+http://apptv.xyz:8080/09042027/bwGzYpJ/30169
+#EXTINF:-1 tvg-id="Top News" tvg-name="AL: Top News ⁴ᴷ" tvg-logo="//tvlogi/Top%20News.png" group-title="Kombetare",Top News HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/4673
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan News ⁴ᴷ" tvg-logo="https://i.ibb.co/prLwqcX/305272270-513111994148690-70298838607513443-n-removebg-preview.png" group-title="Kombetare",Klan News HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/51768
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanali 7 (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/c7/e9/4e/0b/8aba-4f6f-8bb9-26de66ddc959.png&maxDim=63&quot" group-title="Kombetare",Kani 7
+http://apptv.xyz:8080/09042027/bwGzYpJ/94117
+#EXTINF:-1 tvg-id="ABC News" tvg-name="AL: ABC News ⁴ᴷ" tvg-logo="https://i.imgur.com/us6xZfY.jpg" group-title="Kombetare",ABC News
+http://apptv.xyz:8080/09042027/bwGzYpJ/843
+#EXTINF:-1 tvg-id="Ora News" tvg-name="AL: ORA News ᴴᴰ" tvg-logo="https://i.imgur.com/X56qJh0.jpg" group-title="Kombetare",Ora News
+http://apptv.xyz:8080/09042027/bwGzYpJ/1001
+#EXTINF:-1 tvg-id="" tvg-name="DE:  EuroNews HD" tvg-logo="" group-title="Kombetare",Euro News
+http://apptv.xyz:8080/09042027/bwGzYpJ/99577
+#EXTINF:-1 tvg-id="8440" tvg-name="AL: Klan Plus ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8440" group-title="Kombetare",Klan Plus
+http://apptv.xyz:8080/09042027/bwGzYpJ/30143
+#EXTINF:-1 tvg-id="89227" tvg-name="AL: Klan Kosova ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/89227" group-title="Kombetare",KLAN KOSOVA
+http://apptv.xyz:8080/09042027/bwGzYpJ/87186
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: Fax News ᴴᴰ" tvg-logo="https://i.imgur.com/tXKLw9K.jpg" group-title="Kombetare",Fax News
+http://apptv.xyz:8080/09042027/bwGzYpJ/9533
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kuvend ᴴᴰ" tvg-logo="https://i.imgur.com/eVxbMkS.jpeg" group-title="Kombetare",RTSH Kuvend
+http://apptv.xyz:8080/09042027/bwGzYpJ/88437
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SAT HD" tvg-logo="https://i.imgur.com/NQY4k48.jpg" group-title="Kombetare",RTSH Sat
+http://apptv.xyz:8080/09042027/bwGzYpJ/94042
+#EXTINF:-1 tvg-id="RTSH Plus" tvg-name="AL: RTSH Plus ᴴᴰ" tvg-logo="https://i.imgur.com/nVI2pTv.jpeg" group-title="Kombetare",RTSH Plus
+http://apptv.xyz:8080/09042027/bwGzYpJ/14989
+#EXTINF:-1 tvg-id="56007553" tvg-name="AL: RTSH 1 ᴴᴰ" tvg-logo="https://i.imgur.com/h3kFfpi.jpeg" group-title="Kombetare",RTSH 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/3451
+#EXTINF:-1 tvg-id="27258317" tvg-name="AL: RTSH 2 ᴴᴰ" tvg-logo="https://i.imgur.com/pDoL71A.jpeg" group-title="Kombetare",RTSH 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/10912
+#EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="AL: RTSH 3 ᴴᴰ" tvg-logo="https://i.imgur.com/nkp3Gfa.jpeg" group-title="Kombetare",RTSH 3
+http://apptv.xyz:8080/09042027/bwGzYpJ/11182
+#EXTINF:-1 tvg-id="RTSH 24" tvg-name="AL: RTSH 24 ᴴᴰ" tvg-logo="https://i.imgur.com/ngkUaLL.png" group-title="Kombetare",RTSH 24
+http://apptv.xyz:8080/09042027/bwGzYpJ/10975
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh Shkodra ⁴ᴷ" tvg-logo="" group-title="Kombetare",RTSH Shkodra
+http://apptv.xyz:8080/09042027/bwGzYpJ/118457
+#EXTINF:-1 tvg-id="RTSH Kukesi AL" tvg-name="AL: RTSH Kukësi ᴴᴰ" tvg-logo="https://i.imgur.com/f2UcObf.jpg" group-title="Kombetare",RTSH Kukesi
+http://apptv.xyz:8080/09042027/bwGzYpJ/43696
+#EXTINF:-1 tvg-id="8449" tvg-name="AL: Mcn TV ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8449" group-title="Kombetare",MCN TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/80075
+#EXTINF:-1 tvg-id="12361" tvg-name="AL: T7 ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12361" group-title="Kombetare",T 7
+http://apptv.xyz:8080/09042027/bwGzYpJ/13940
+#EXTINF:-1 tvg-id="" tvg-name="AL: A2 CNN ⁴ᴷ" tvg-logo="https://i.imgur.com/vDwd4ZG.jpg" group-title="Kombetare",A2CNN
+http://apptv.xyz:8080/09042027/bwGzYpJ/11347
+#EXTINF:-1 tvg-id="" tvg-name="AL: Panorama TV (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/d6/29/ac/94/5b33-4c8a-bd26-769e6c2417f5.png&maxDim=111&quot" group-title="Kombetare",Panorama TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/94121
+#EXTINF:-1 tvg-id="8664" tvg-name="AL: RTK 1 ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/7e/a8/6c/8a/3f87-456d-9137-c123f659aefd.png&w=550&h=265" group-title="Kombetare",RTK1
+http://apptv.xyz:8080/09042027/bwGzYpJ/30131
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/8g7Sg7cz/RTK2.png" group-title="Kombetare",RTK2
+http://apptv.xyz:8080/09042027/bwGzYpJ/30134
+#EXTINF:-1 tvg-id="8664" tvg-name="AL: RTK 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/W4PQ6THD/RTK3.png" group-title="Kombetare",RTK3
+http://apptv.xyz:8080/09042027/bwGzYpJ/30135
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/DHMyc9ZP/RTK4.png" group-title="Kombetare",RTK4
+http://apptv.xyz:8080/09042027/bwGzYpJ/30136
+#EXTINF:-1 tvg-id="" tvg-name="AL: MRTV 2 ᴴᴰ" tvg-logo="https://i.ibb.co/chDMgXcG/mrtv2mak.png" group-title="Kombetare",MRTV2
+http://apptv.xyz:8080/09042027/bwGzYpJ/87192
+#EXTINF:-1 tvg-id="27258390" tvg-name="AL: RTSH Sport ⁴ᴷ" tvg-logo="https://apps.tibo.tv/1/files/channels/16687836552981614354602030RTSHSport.png" group-title="Sport",RTSH Sport
+http://apptv.xyz:8080/09042027/bwGzYpJ/77129
+#EXTINF:-1 tvg-id="759825" tvg-name="AL: SS-1 ⁴ᴷ" tvg-logo="https://i.ibb.co/5XCXJp9c/upload-912-759825.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᴴᴰ",AL: SS-1 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/43729
+#EXTINF:-1 tvg-id="758172" tvg-name="AL: SS-2 ⁴ᴷ" tvg-logo="https://i.ibb.co/Z1KqnZy1/upload-558-758172.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᴴᴰ",AL: SS-2 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/43728
+#EXTINF:-1 tvg-id="759827" tvg-name="AL: SS-3 ⁴ᴷ" tvg-logo="https://i.ibb.co/CKxS8LXH/upload-240-759827.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᴴᴰ",AL: SS-3 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/43727
+#EXTINF:-1 tvg-id="759876" tvg-name="AL: SS-4 ⁴ᴷ" tvg-logo="https://i.ibb.co/chX5F4pq/upload-484-759876.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᴴᴰ",AL: SS-4 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/43726
+#EXTINF:-1 tvg-id="759882" tvg-name="AL: SS-5 ⁴ᴷ" tvg-logo="https://i.ibb.co/KpNFsr2Y/upload-841-759882.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᴴᴰ",AL: SS-5 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/43725
+http://apptv.xyz:8080/09042027/bwGzYpJ/1153
+#EXTINF:-1 tvg-id="759884" tvg-name="AL: SS-6 ⁴ᴷ" tvg-logo="https://i.ibb.co/WNQw1xvx/upload-931-759884.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᴴᴰ",AL: SS-6 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/43724
+#EXTINF:-1 tvg-id="759886" tvg-name="AL: SS-7 ᴴᴰ" tvg-logo="https://i.ibb.co/27FHqKQK/upload-747-759886.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᴴᴰ",AL: SS-7 ᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/78732
+
+#EXTINF:-1 tvg-id="56062239" tvg-name="AL: Tring Sport News ⁴ᴷ" tvg-logo="https://i.ibb.co/s2HzjXY/svgexport-1-1.png" group-title="Sport",Tring Sport News
+http://apptv.xyz:8080/09042027/bwGzYpJ/30157
+#EXTINF:-1 tvg-id="56062240" tvg-name="AL: Tring Sport 1 ⁴ᴷ" tvg-logo="https://i.ibb.co/rZCppWs/svgexport-1-2.png" group-title="Sport",Tring Sport 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/30153
+#EXTINF:-1 tvg-id="56062241" tvg-name="AL: Tring Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="Sport",Tring Sport 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/30154
+#EXTINF:-1 tvg-id="56062242" tvg-name="AL: Tring Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="Sport",Tring Sport 3
+http://apptv.xyz:8080/09042027/bwGzYpJ/30155
+#EXTINF:-1 tvg-id="56062243" tvg-name="AL: Tring Sport 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/KVkfLFD/svgexport-1-4.png" group-title="Sport",Tring Sport 4
+http://apptv.xyz:8080/09042027/bwGzYpJ/30156
+#EXTINF:-1 tvg-id="56062244" tvg-name="AL: Tring Sport 5 ᴴᴰ" tvg-logo="" group-title="Sport",Tring Sport 5
+http://apptv.xyz:8080/09042027/bwGzYpJ/103300
+#EXTINF:-1 tvg-id="56062245" tvg-name="AL: Tring Sport 6 ᴴᴰ" tvg-logo="" group-title="Sport",Tring Sport 6
+http://apptv.xyz:8080/09042027/bwGzYpJ/110927
+#EXTINF:-1 tvg-id="56076626" tvg-name="AL: Tring Sport 7 ᴴᴰ" tvg-logo="" group-title="Sport",Tring Sport 7
+http://apptv.xyz:8080/09042027/bwGzYpJ/110928
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 ᶠᴴᴰ" tvg-logo="" group-title="Sport",Euro Sport 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/14455
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 ᶠᴴᴰ" tvg-logo="" group-title="Sport",Euro Sport 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/14454
+#EXTINF:-1 tvg-id="ARTSPORT 1_fillgaps" tvg-name="AL: ART Sport 1 ⁴ᴷ" tvg-logo="https://i.ibb.co/kg8CP5X8/ART-Sport-1-AL-logo-v2.png" group-title="Sport",ART Sport 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/89515
+#EXTINF:-1 tvg-id="ARTSPORT 2_fillgaps" tvg-name="AL: ART Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/27qtP6wx/ART-Sport-2-AL-logo-v2.png" group-title="Sport",ART Sport 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/89516
+#EXTINF:-1 tvg-id="ARTSPORT 3_fillgaps" tvg-name="AL: ART Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/mVTnncdt/ART-Sport-3-AL-logo-v3.png" group-title="Sport",ART Sport 3
+http://apptv.xyz:8080/09042027/bwGzYpJ/89517
+#EXTINF:-1 tvg-id="ARTSPORT 4_fillgaps" tvg-name="AL: ART Sport 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/jkdHW8X5/ART-Sport-4-AL-logo-v2.png" group-title="Sport",ART Sport 4
+http://apptv.xyz:8080/09042027/bwGzYpJ/89518
+#EXTINF:-1 tvg-id="ARTSPORT 5_fillgaps" tvg-name="AL: ART Sport 5 ⁴ᴷ" tvg-logo="https://i.ibb.co/zhDBxm58/ART-Sport-5-AL-logo-v2.png" group-title="Sport",ART Sport 5
+http://apptv.xyz:8080/09042027/bwGzYpJ/89519
+#EXTINF:-1 tvg-id="ARTSPORT 6_fillgaps" tvg-name="AL: ART Sport 6 ⁴ᴷ" tvg-logo="https://i.ibb.co/xtCmqdgG/ART-Sport-6-AL-logo-v2.png" group-title="Sport",ART Sport 6
+http://apptv.xyz:8080/09042027/bwGzYpJ/89520
+#EXTINF:-1 tvg-id="skysportbundesliga.de" tvg-name="Sky Sport Bundesliga ⁴ᴷ" tvg-logo="" group-title="Sport",Sky Sport Bundesliga
+http://apptv.xyz:8080/09042027/bwGzYpJ/103468
+#EXTINF:-1 tvg-id="12930" tvg-name="AL: T ⁴ᴷ" tvg-logo="//tvlogi/T%20HD.png" group-title="Filma",T
+http://apptv.xyz:8080/09042027/bwGzYpJ/78725
+#EXTINF:-1 tvg-id="12931" tvg-name="AL: Gold ⁴ᴷ" tvg-logo="//tvlogi/Gold%20HD.png" group-title="Filma",Gold
+http://apptv.xyz:8080/09042027/bwGzYpJ/63320
+#EXTINF:-1 tvg-id="12934" tvg-name="AL: Max ⁴ᴷ" tvg-logo="//tvlogi/Max%20HD.png" group-title="Filma",Max
+http://apptv.xyz:8080/09042027/bwGzYpJ/63321
+#EXTINF:-1 tvg-id="9414" tvg-name="AL: Film Hits ⁴ᴷ" tvg-logo="//tvlogi/Film%20Hits.png" group-title="Filma",Film Hits
+http://apptv.xyz:8080/09042027/bwGzYpJ/937
+#EXTINF:-1 tvg-id="13211" tvg-name="AL: Film Aksion ⁴ᴷ" tvg-logo="https://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma",Film Aksion
+http://apptv.xyz:8080/09042027/bwGzYpJ/929
+#EXTINF:-1 tvg-id="8149" tvg-name="AL: Film Thriller ᴴᴰ" tvg-logo="//tvlogi/Film%20Thriller.png" group-title="Filma",Film Thriller
+http://apptv.xyz:8080/09042027/bwGzYpJ/941
+#EXTINF:-1 tvg-id="8218" tvg-name="AL: Film Komedi ᴴᴰ" tvg-logo="//tvlogi/Film%20Komedi.png" group-title="Filma",Film Komedi
+http://apptv.xyz:8080/09042027/bwGzYpJ/938
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Drama (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/77/c6/12/4a/d21a-4382-a18e-d43d1967dc23.png&amp;maxDim=111&quot" group-title="Pako Tring",AL: Kanal D Drama (TRING)
+http://apptv.xyz:8080/09042027/bwGzYpJ/94123
+#EXTINF:-1 tvg-id="8088" tvg-name="AL: Film Autor ᴴᴰ" tvg-logo="//tvlogi/Film%20Autor.png" group-title="Filma",Film Autor
+http://apptv.xyz:8080/09042027/bwGzYpJ/930
+#EXTINF:-1 tvg-id="56062229" tvg-name="AL: Kanal D Drama ⁴ᴷ" tvg-logo="https://i.ibb.co/hRCxBY71/2af7-4198-bfd9-400dfc4b3d64.png" group-title="Filma",Kanal D Drama 4k
+http://apptv.xyz:8080/09042027/bwGzYpJ/32299
+#EXTINF:-1 tvg-id="56007563" tvg-name="AL: Tring Shqip ⁴ᴷ" tvg-logo="//tvlogi/Tring%20Shqip.png" group-title="Filma",Tring Shqip
+http://apptv.xyz:8080/09042027/bwGzYpJ/1168
+#EXTINF:-1 tvg-id="56007554" tvg-name="AL: Tring Super ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/24/85/f9/16/36ad-40f8-a31b-f2891accf5e0.png&maxDim=111&quot" group-title="Filma",Tring Super
+http://apptv.xyz:8080/09042027/bwGzYpJ/1174
+#EXTINF:-1 tvg-id="56062227" tvg-name="AL: Tring 3+ ⁴ᴷ" tvg-logo="https://i.ibb.co/ymMwrrpJ/5854-406a-9ca7-086bb41a0cfb.png" group-title="Filma",Tring 3+
+http://apptv.xyz:8080/09042027/bwGzYpJ/827
+#EXTINF:-1 tvg-id="56062226" tvg-name="AL: Tring Series  ⁴ᴷ" tvg-logo="https://i.ibb.co/S7n0T9yF/cd85-4976-b9f8-a43c681e3ed7.png" group-title="Filma",Tring series
+http://apptv.xyz:8080/09042027/bwGzYpJ/63411
+#EXTINF:-1 tvg-id="56062230" tvg-name="AL: Tring Novelas ⁴ᴷ" tvg-logo="https://i.ibb.co/tpT91spf/0fec-49e4-a113-6bde290b9e37.png" group-title="Filma",Tring novelas
+http://apptv.xyz:8080/09042027/bwGzYpJ/63257
+#EXTINF:-1 tvg-id="56007555" tvg-name="AL: Tring Action ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/2d/97/c5/3f/2b82-41f4-bc1b-6e7f4568f56a.png&maxDim=63&quot" group-title="Filma",Tring Action
+http://apptv.xyz:8080/09042027/bwGzYpJ/1166
+#EXTINF:-1 tvg-id="56007561" tvg-name="AL: Tring Family ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/93/49/2f/37/57f9-4a22-9f8e-e7719dd3a060.png&maxDim=111&quot" group-title="Filma",Tring Family
+http://apptv.xyz:8080/09042027/bwGzYpJ/77682
+#EXTINF:-1 tvg-id="56007558" tvg-name="AL: Tring Fantasy  ⁴ᴷ" tvg-logo="//tvlogi/Tring%20Fantasy.png" group-title="Filma",Tring Fantasy
+http://apptv.xyz:8080/09042027/bwGzYpJ/1164
+#EXTINF:-1 tvg-id="27258265" tvg-name="AL: Tring Collection ᴴᴰ" tvg-logo="//tvlogi/Tring%20Collection.png" group-title="Filma",Tring Collection
+http://apptv.xyz:8080/09042027/bwGzYpJ/63258
+#EXTINF:-1 tvg-id="56007556" tvg-name="AL: Tring Life ᴴᴰ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/27/88/26/2c/85c1-4463-a13e-b23081bbf1f0.png&maxDim=63&quot" group-title="Filma",Tring Life
+http://apptv.xyz:8080/09042027/bwGzYpJ/1165
+#EXTINF:-1 tvg-id="56007557" tvg-name="AL: Tring Comedy ᴴᴰ" tvg-logo="//tvlogi/Tring%20Comedy.png" group-title="Filma",Tring Comedy
+http://apptv.xyz:8080/09042027/bwGzYpJ/25472
+#EXTINF:-1 tvg-id="56007560" tvg-name="AL: Tring Classic ᴴᴰ" tvg-logo="//tvlogi/Tring%20Classic.png" group-title="Filma",Tring Classic
+http://apptv.xyz:8080/09042027/bwGzYpJ/63206
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Verore ⁴ᴷ" tvg-logo="" group-title="Filma",Eagle Verore
+http://apptv.xyz:8080/09042027/bwGzYpJ/103674
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Gold ⁴ᴷ" tvg-logo="https://i.ibb.co/vxk473Ps/filmgoldkiboeagle.png" group-title="Filma",Eagle Gold
+http://apptv.xyz:8080/09042027/bwGzYpJ/100123
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Aksion ⁴ᴷ" tvg-logo="https://i.ibb.co/gbTDkrSC/Film-Aksioneagle.png" group-title="Filma",Eagle Aksion
+http://apptv.xyz:8080/09042027/bwGzYpJ/100124
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Thriller ⁴ᴷ" tvg-logo="https://i.ibb.co/zW1BkRhg/eagletbirrlerlogo.png" group-title="Filma",Eagle Thriller
+http://apptv.xyz:8080/09042027/bwGzYpJ/101067
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Horror ⁴ᴷ" tvg-logo="https://i.ibb.co/WW5x7Y0q/ffilmhorroreagle.png" group-title="Filma",Eagle Horror
+http://apptv.xyz:8080/09042027/bwGzYpJ/100358
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Premier 1 ⁴ᴷ" tvg-logo="" group-title="Filma",KS Premier 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/35862
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Premier 2 ⁴ᴷ" tvg-logo="" group-title="Filma",KS Premier 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/35863
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Premier 3 ⁴ᴷ" tvg-logo="" group-title="Filma",KS Premier 3
+http://apptv.xyz:8080/09042027/bwGzYpJ/35864
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Premier 4 ⁴ᴷ" tvg-logo="" group-title="Filma",KS Premier 4
+http://apptv.xyz:8080/09042027/bwGzYpJ/35865
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS: Fast & Furious 24/7 ⁴ᴷ" tvg-logo="" group-title="Filma",KSFast & Furious 24/7
+http://apptv.xyz:8080/09042027/bwGzYpJ/37084
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Action ⁴ᴷ" tvg-logo="" group-title="Filma",KS Action
+http://apptv.xyz:8080/09042027/bwGzYpJ/26937
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Thriller ⁴ᴷ" tvg-logo="" group-title="Filma",KS Thriller
+http://apptv.xyz:8080/09042027/bwGzYpJ/25473
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Comedy ⁴ᴷ" tvg-logo="" group-title="Filma",KS Comedy
+http://apptv.xyz:8080/09042027/bwGzYpJ/16969
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Epic ⁴ᴷ" tvg-logo="" group-title="Filma",KS Epic
+http://apptv.xyz:8080/09042027/bwGzYpJ/21883
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Shqip ⁴ᴷ" tvg-logo="https://i.imgur.com/uU5oO05.png" group-title="Filma",Tëvë Shqip
+http://apptv.xyz:8080/09042027/bwGzYpJ/87205
+#EXTINF:-1 tvg-id="7825" tvg-name="AL: Euro Film ᴴᴰ" tvg-logo="//tvlogi/EUROFILM.png" group-title="Filma",Euro Film
+http://apptv.xyz:8080/09042027/bwGzYpJ/918
+#EXTINF:-1 tvg-id="KINO 1_fillgaps" tvg-name="AL: ART Kino 1 ⁴ᴷ" tvg-logo="//tvlogi/Art%20Kino%201.png" group-title="Filma",ART Kino 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/30078
+#EXTINF:-1 tvg-id="KINO 2_fillgaps" tvg-name="AL: ART Kino 2 ⁴ᴷ" tvg-logo="//tvlogi/Art%20Kino%202.png" group-title="Filma",ART Kino 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/30077
+#EXTINF:-1 tvg-id="KINO 3_fillgaps" tvg-name="AL: ART Kino 3 ⁴ᴷ" tvg-logo="//tvlogi/Art%20Kino%203.png" group-title="Filma",ART Kino 3
+http://apptv.xyz:8080/09042027/bwGzYpJ/30076
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Aksion ⁴ᴷ" tvg-logo="https://i.imgur.com/CtAeIPq.png" group-title="Filma",Tëvë Aksion
+http://apptv.xyz:8080/09042027/bwGzYpJ/87198
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Comedy ⁴ᴷ" tvg-logo="https://i.imgur.com/tCWhbOe.png" group-title="Filma",Tëvë Comedy
+http://apptv.xyz:8080/09042027/bwGzYpJ/87199
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Drame ⁴ᴷ" tvg-logo="https://i.imgur.com/IIuXqFV.png" group-title="Filma",Tëvë Drame
+http://apptv.xyz:8080/09042027/bwGzYpJ/87202
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Fantasy ⁴ᴷ" tvg-logo="https://i.imgur.com/jbDMPvX.png" group-title="Filma",Tëvë Fantasy
+http://apptv.xyz:8080/09042027/bwGzYpJ/87203
+#EXTINF:-1 tvg-id="56007565" tvg-name="AL: Living ᶠᴴᴰ" tvg-logo="//tvlogi/Living%20HD.png" group-title="Dokumentare",Living HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/983
+#EXTINF:-1 tvg-id="12844" tvg-name="AL: Explorer Natyra ᴴᴰ" tvg-logo="//tvlogi/EXPLORER%20Natyra.png" group-title="Dokumentare",Explorer Natyra
+http://apptv.xyz:8080/09042027/bwGzYpJ/923
+#EXTINF:-1 tvg-id="12842" tvg-name="AL: Explorer Histori ᴴᴰ" tvg-logo="//tvlogi/EXPLORER%20Histori.png" group-title="Dokumentare",Explorer History
+http://apptv.xyz:8080/09042027/bwGzYpJ/922
+#EXTINF:-1 tvg-id="12841" tvg-name="AL: Explorer Shkence ᴴᴰ" tvg-logo="//tvlogi/EXPLORER%20Shkence.png" group-title="Dokumentare",Explorer Shkence
+http://apptv.xyz:8080/09042027/bwGzYpJ/924
+#EXTINF:-1 tvg-id="56062234" tvg-name="AL: Tring World ᴴᴰ" tvg-logo="//tvlogi/Tring%20World.png" group-title="Dokumentare",Tring World
+http://apptv.xyz:8080/09042027/bwGzYpJ/1176
+#EXTINF:-1 tvg-id="56062233" tvg-name="AL: Tring Planet ᴴᴰ" tvg-logo="//tvlogi/Tring%20Planet.png" group-title="Dokumentare",Tring Planet
+http://apptv.xyz:8080/09042027/bwGzYpJ/1167
+#EXTINF:-1 tvg-id="56062232" tvg-name="AL: Tring History ᴴᴰ" tvg-logo="//tvlogi/Tring%20History.png" group-title="Dokumentare",Tring History
+http://apptv.xyz:8080/09042027/bwGzYpJ/1316
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.TElBfVlFRIAqnCWV7a8CPQHaCn&pid=Api&P=0&h=220" group-title="Dokumentare",NAT GEO
+http://apptv.xyz:8080/09042027/bwGzYpJ/60435
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Story ⁴ᴷ" tvg-logo="" group-title="Dokumentare",Top Story
+http://apptv.xyz:8080/09042027/bwGzYpJ/88440
+#EXTINF:-1 tvg-id="" tvg-name="AL: ABC Story ⁴ᴷ" tvg-logo="" group-title="Dokumentare",abc story
+http://apptv.xyz:8080/09042027/bwGzYpJ/88328
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel ⁴ᴷ" tvg-logo="" group-title="Dokumentare",Discovery Channel
+http://apptv.xyz:8080/09042027/bwGzYpJ/9765
+#EXTINF:-1 tvg-id="12498" tvg-name="AL: Cufo ᴴᴰ" tvg-logo="" group-title="Femije",Cufo
+http://apptv.xyz:8080/09042027/bwGzYpJ/2467
+#EXTINF:-1 tvg-id="16377" tvg-name="AL: Bang Bang ᴴᴰ" tvg-logo="" group-title="Femije",Bang Bang
+http://apptv.xyz:8080/09042027/bwGzYpJ/104644
+#EXTINF:-1 tvg-id="56062231" tvg-name="AL: Tring Tring ⁴ᴷ" tvg-logo="" group-title="Femije",Tring Tring
+http://apptv.xyz:8080/09042027/bwGzYpJ/1175
+#EXTINF:-1 tvg-id="27258213" tvg-name="AL: Tring Kids ᴴᴰ" tvg-logo="" group-title="Femije",Tring Kids
+http://apptv.xyz:8080/09042027/bwGzYpJ/95249
+#EXTINF:-1 tvg-id="56062237" tvg-name="AL: Tip TV ᴴᴰ" tvg-logo="" group-title="Femije",Tip Tv
+http://apptv.xyz:8080/09042027/bwGzYpJ/1160
+#EXTINF:-1 tvg-id="7510" tvg-name="AL: Junior TV ᴴᴰ" tvg-logo="//tvlogi/Junior.png" group-title="Femije",Junior Tv
+http://apptv.xyz:8080/09042027/bwGzYpJ/958
+#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang ᶠᴴᴰ" tvg-logo="" group-title="Femije",Boomerang HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/2588
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoon Network ᶠᴴᴰ" tvg-logo="" group-title="Femije",CARTOON NETWORK
+http://apptv.xyz:8080/09042027/bwGzYpJ/3395
+#EXTINF:-1 tvg-id="" tvg-name="AL: My Music ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",My Music
+http://apptv.xyz:8080/09042027/bwGzYpJ/63553
+#EXTINF:-1 tvg-id="BBF" tvg-name="AL: BBF Music ᴴᴰ ♫" tvg-logo="" group-title="Muzike",BBF Music
+http://apptv.xyz:8080/09042027/bwGzYpJ/880
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Music  ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",Klan Music
+http://apptv.xyz:8080/09042027/bwGzYpJ/78723
+#EXTINF:-1 tvg-id="" tvg-name="AL: AMOL TV" tvg-logo="" group-title="Muzike",AMOL TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/91849
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: RTV 21 Popullore ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",RTV 21 Popullore
+http://apptv.xyz:8080/09042027/bwGzYpJ/825
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Popullore 1 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Popullore 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/103753
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Popullore 2 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Popullore 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/103887
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Popullore 3 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Popullore 3
+http://apptv.xyz:8080/09042027/bwGzYpJ/103892
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Festive 1 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Festive 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/103902
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Festive 2 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Festive 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/103925
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Festive 3 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Festive 3
+http://apptv.xyz:8080/09042027/bwGzYpJ/103926
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Folklorike ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Folklorike
+http://apptv.xyz:8080/09042027/bwGzYpJ/103927
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Patriotike ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Patriotike
+http://apptv.xyz:8080/09042027/bwGzYpJ/103930
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Çiftelia ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",KS Çiftelia
+http://apptv.xyz:8080/09042027/bwGzYpJ/83082
+#EXTINF:-1 tvg-id="SuperSonic TV" tvg-name="AL: Supersonic TV ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Supersonic TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/1302
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Muzik ⁴ᴷ" tvg-logo="" group-title="Muzike",Alb Muzik
+http://apptv.xyz:8080/09042027/bwGzYpJ/46748
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Mix ᶠᴴᴰ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/77/26/2d/92/8144-45b1-869d-c91f704ca6ff.png&maxDim=111&quot" group-title="Muzike",RTV 21 Mix
+http://apptv.xyz:8080/09042027/bwGzYpJ/63502
+#EXTINF:-1 tvg-id="" tvg-name="AL: Folk + ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Folk +
+http://apptv.xyz:8080/09042027/bwGzYpJ/945
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-name="AL: Elrodi TV ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Elrodi TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/2615
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri ⁴ᴷ" tvg-logo="" group-title="Muzike",TV Sharri
+http://apptv.xyz:8080/09042027/bwGzYpJ/37308
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shota TV ⁴ᴷ" tvg-logo="" group-title="Muzike",Shota TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/22474
+#EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Turbo Channel
+http://apptv.xyz:8080/09042027/bwGzYpJ/2479
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV Kosova ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",MTV Kosova
+http://apptv.xyz:8080/09042027/bwGzYpJ/2544
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Swiss ⁴ᴷ" tvg-logo="" group-title="Muzike",Alb Swiss
+http://apptv.xyz:8080/09042027/bwGzYpJ/63398
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Tv Chicago" tvg-logo="" group-title="Muzike",Alb Tv Chicago
+http://apptv.xyz:8080/09042027/bwGzYpJ/86966
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Estrada TV ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Top Estrada TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/2653
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ferma VIP 1 ⁴ᴷ ᵀᵒᵏˢᵒʳ" tvg-logo="" group-title="Ferma Vip",Ferma Vip 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/116926
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ferma VIP 2 ⁴ᴷ ᵀᵒᵏˢᵒʳ" tvg-logo="" group-title="Ferma Vip",Ferma Vip 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/116927
+
+
+
+
+
+
+
