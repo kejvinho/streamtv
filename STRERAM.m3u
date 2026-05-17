@@ -3,7 +3,7 @@
 http://apptv.xyz:8080/09042027/bwGzYpJ/94011
 #EXTINF:-1 tvg-id="12926" tvg-name="Top Channel " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12926" group-title="Kombetare",Top Channel
 http://apptv.xyz:8080/09042027/bwGzYpJ/52422
-#EXTINF:-1 tvg-id="13261" tvg-name="TV Klan " tvg-logo="//tvlogi/Klan%20TV%20.png" group-title="Kombetare",Klan TV 
+#EXTINF:-1 tvg-id="13261" tvg-name="TV Klan " tvg-logo="//tvlogi/Klan%20TV%20.png" group-title="Kombetare",TV Klan 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94012
 #EXTINF:-1 tvg-id="13261" tvg-name="TV Klan " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan
 http://apptv.xyz:8080/09042027/bwGzYpJ/25129
@@ -31,7 +31,7 @@ http://apptv.xyz:8080/09042027/bwGzYpJ/4673
 http://apptv.xyz:8080/09042027/bwGzYpJ/94023
 #EXTINF:-1 tvg-id="" tvg-name="Klan News " tvg-logo="https://i.ibb.co/prLwqcX/305272270-513111994148690-70298838607513443-n-removebg-preview.png" group-title="Kombetare",Klan News 
 http://apptv.xyz:8080/09042027/bwGzYpJ/51768
-#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/c7/e9/4e/0b/8aba-4f6f-8bb9-26de66ddc959.png&maxDim=63&quot" group-title="Kombetare",Kani 7
+#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/c7/e9/4e/0b/8aba-4f6f-8bb9-26de66ddc959.png&maxDim=63&quot" group-title="Kombetare",Kani 7
 http://apptv.xyz:8080/09042027/bwGzYpJ/94117
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News " tvg-logo="https://i.imgur.com/us6xZfY.jpg" group-title="Kombetare",ABC News 
 http://apptv.xyz:8080/09042027/bwGzYpJ/843
@@ -39,8 +39,6 @@ http://apptv.xyz:8080/09042027/bwGzYpJ/843
 http://apptv.xyz:8080/09042027/bwGzYpJ/843
 #EXTINF:-1 tvg-id="Ora News" tvg-name="ORA News " tvg-logo="https://i.imgur.com/X56qJh0.jpg" group-title="Kombetare",Ora News
 http://apptv.xyz:8080/09042027/bwGzYpJ/1001
-#EXTINF:-1 tvg-id="" tvg-name="DE:  EuroNews " tvg-logo="" group-title="Kombetare",Euro News
-http://apptv.xyz:8080/09042027/bwGzYpJ/99577
 #EXTINF:-1 tvg-id="8440" tvg-name="Klan Plus" tvg-logo="https://i.imgur.com/9WRnPaM.jpeg" group-title="Kombetare",Klan Plus
 http://apptv.xyz:8080/09042027/bwGzYpJ/94057
 #EXTINF:-1 tvg-id="8440" tvg-name="Klan Plus " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8440" group-title="Kombetare",Klan Plus
