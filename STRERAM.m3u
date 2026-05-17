@@ -1,341 +1,341 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="12926" tvg-name="Top Channel HD" tvg-logo="//tvlogi/Top%20Channel%20HD.png" group-title="Kombetare",Top Channel HD
+#EXTINF:-1 tvg-id="12926" tvg-name="Top Channel " tvg-logo="//tvlogi/Top%20Channel%20.png" group-title="Kombetare",Top Channel 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94011
-#EXTINF:-1 tvg-id="12926" tvg-name="Top Channel ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12926" group-title="Kombetare",Top Channel
+#EXTINF:-1 tvg-id="12926" tvg-name="Top Channel " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12926" group-title="Kombetare",Top Channel
 http://apptv.xyz:8080/09042027/bwGzYpJ/52422
-#EXTINF:-1 tvg-id="13261" tvg-name="Klan TV HD" tvg-logo="//tvlogi/Klan%20TV%20HD.png" group-title="Kombetare",Klan TV HD
+#EXTINF:-1 tvg-id="13261" tvg-name="Klan TV " tvg-logo="//tvlogi/Klan%20TV%20.png" group-title="Kombetare",Klan TV 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94012
-#EXTINF:-1 tvg-id="13261" tvg-name="TV Klan ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan
+#EXTINF:-1 tvg-id="13261" tvg-name="TV Klan " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan
 http://apptv.xyz:8080/09042027/bwGzYpJ/25129
-#EXTINF:-1 tvg-id="737482" tvg-name="Vizion Plus ᴴᴰ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/15/20/04/ba/5bb5-40df-b0fd-2ebb409b62b5.png&w=550&h=265" group-title="Kombetare",Vizion Plus ᴴᴰ
+#EXTINF:-1 tvg-id="737482" tvg-name="Vizion Plus " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/15/20/04/ba/5bb5-40df-b0fd-2ebb409b62b5.png&w=550&h=265" group-title="Kombetare",Vizion Plus 
 http://apptv.xyz:8080/09042027/bwGzYpJ/87196
-#EXTINF:-1 tvg-id="737482" tvg-name="Vizion Plus ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/15/20/04/ba/5bb5-40df-b0fd-2ebb409b62b5.png&w=550&h=265" group-title="Kombetare",Vizion Plus
+#EXTINF:-1 tvg-id="737482" tvg-name="Vizion Plus " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/15/20/04/ba/5bb5-40df-b0fd-2ebb409b62b5.png&w=550&h=265" group-title="Kombetare",Vizion Plus
 http://apptv.xyz:8080/09042027/bwGzYpJ/30152
-#EXTINF:-1 tvg-id="89251" tvg-name="Alsat M ᴴᴰ" tvg-logo="https://i.ibb.co/RGsnJsBK/89251.png" group-title="Kombetare",Alsat M ᴴᴰ
+#EXTINF:-1 tvg-id="89251" tvg-name="Alsat M " tvg-logo="https://i.ibb.co/RGsnJsBK/89251.png" group-title="Kombetare",Alsat M 
 http://apptv.xyz:8080/09042027/bwGzYpJ/39562
-#EXTINF:-1 tvg-id="89251" tvg-name="Alsat M ⁴ᴷ" tvg-logo="https://i.ibb.co/RGsnJsBK/89251.png" group-title="Kombetare",Alsat M
+#EXTINF:-1 tvg-id="89251" tvg-name="Alsat M " tvg-logo="https://i.ibb.co/RGsnJsBK/89251.png" group-title="Kombetare",Alsat M
 http://apptv.xyz:8080/09042027/bwGzYpJ/30140
 #EXTINF:-1 tvg-id="" tvg-name="Syri TV " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/7c/d8/d5/a7/3fd3-4bf2-9fa5-a3479bfdd331.png&maxDim=111&quot" group-title="Kombetare",Syri TV 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94107
-#EXTINF:-1 tvg-id="" tvg-name="Syri TV ⁴ᴷ" tvg-logo="" group-title="Kombetare",Syri TV
+#EXTINF:-1 tvg-id="" tvg-name="Syri TV " tvg-logo="" group-title="Kombetare",Syri TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/32718
 #EXTINF:-1 tvg-id="News 24" tvg-name="News 24 " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/ce/14/0e/32/a2d1-4c47-9e2e-6c38f3e09209.png&amp;maxDim=63&quot" group-title="Kombetare",News 24 (TRING)
 http://apptv.xyz:8080/09042027/bwGzYpJ/94112
-#EXTINF:-1 tvg-id="News 24" tvg-name="News 24 ⁴ᴷ" tvg-logo="https://i.imgur.com/ZYHID9p.jpg" group-title="Kombetare",News 24
+#EXTINF:-1 tvg-id="News 24" tvg-name="News 24 " tvg-logo="https://i.imgur.com/ZYHID9p.jpg" group-title="Kombetare",News 24
 http://apptv.xyz:8080/09042027/bwGzYpJ/30169
-#EXTINF:-1 tvg-id="Top News" tvg-name="Top News ⁴ᴷ" tvg-logo="//tvlogi/Top%20News.png" group-title="Kombetare",Top News ⁴ᴷ
+#EXTINF:-1 tvg-id="Top News" tvg-name="Top News " tvg-logo="//tvlogi/Top%20News.png" group-title="Kombetare",Top News 
 http://apptv.xyz:8080/09042027/bwGzYpJ/4673
-#EXTINF:-1 tvg-id="Top News" tvg-name="Top News ⁴ᴷ" tvg-logo="//tvlogi/Top%20News.png" group-title="Kombetare",Top News HD
+#EXTINF:-1 tvg-id="Top News" tvg-name="Top News " tvg-logo="//tvlogi/Top%20News.png" group-title="Kombetare",Top News 
 http://apptv.xyz:8080/09042027/bwGzYpJ/4673
 #EXTINF:-1 tvg-id="" tvg-name="Klan News" tvg-logo="https://i.ibb.co/prLwqcX/305272270-513111994148690-70298838607513443-n-removebg-preview.png" group-title="Kombetare",Klan News
 http://apptv.xyz:8080/09042027/bwGzYpJ/94023
-#EXTINF:-1 tvg-id="" tvg-name="Klan News ⁴ᴷ" tvg-logo="https://i.ibb.co/prLwqcX/305272270-513111994148690-70298838607513443-n-removebg-preview.png" group-title="Kombetare",Klan News HD
+#EXTINF:-1 tvg-id="" tvg-name="Klan News " tvg-logo="https://i.ibb.co/prLwqcX/305272270-513111994148690-70298838607513443-n-removebg-preview.png" group-title="Kombetare",Klan News 
 http://apptv.xyz:8080/09042027/bwGzYpJ/51768
 #EXTINF:-1 tvg-id="" tvg-name="Kanali 7 (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/c7/e9/4e/0b/8aba-4f6f-8bb9-26de66ddc959.png&maxDim=63&quot" group-title="Kombetare",Kani 7
 http://apptv.xyz:8080/09042027/bwGzYpJ/94117
-#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News ⁴ᴷ" tvg-logo="https://i.imgur.com/us6xZfY.jpg" group-title="Kombetare",ABC News ⁴ᴷ
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News " tvg-logo="https://i.imgur.com/us6xZfY.jpg" group-title="Kombetare",ABC News 
 http://apptv.xyz:8080/09042027/bwGzYpJ/843
-#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News ⁴ᴷ" tvg-logo="https://i.imgur.com/us6xZfY.jpg" group-title="Kombetare",ABC News
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News " tvg-logo="https://i.imgur.com/us6xZfY.jpg" group-title="Kombetare",ABC News
 http://apptv.xyz:8080/09042027/bwGzYpJ/843
-#EXTINF:-1 tvg-id="Ora News" tvg-name="ORA News ᴴᴰ" tvg-logo="https://i.imgur.com/X56qJh0.jpg" group-title="Kombetare",Ora News
+#EXTINF:-1 tvg-id="Ora News" tvg-name="ORA News " tvg-logo="https://i.imgur.com/X56qJh0.jpg" group-title="Kombetare",Ora News
 http://apptv.xyz:8080/09042027/bwGzYpJ/1001
-#EXTINF:-1 tvg-id="" tvg-name="DE:  EuroNews HD" tvg-logo="" group-title="Kombetare",Euro News
+#EXTINF:-1 tvg-id="" tvg-name="DE:  EuroNews " tvg-logo="" group-title="Kombetare",Euro News
 http://apptv.xyz:8080/09042027/bwGzYpJ/99577
 #EXTINF:-1 tvg-id="8440" tvg-name="Klan Plus" tvg-logo="https://i.imgur.com/9WRnPaM.jpeg" group-title="Kombetare",Klan Plus
 http://apptv.xyz:8080/09042027/bwGzYpJ/94057
-#EXTINF:-1 tvg-id="8440" tvg-name="Klan Plus ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8440" group-title="Kombetare",Klan Plus
+#EXTINF:-1 tvg-id="8440" tvg-name="Klan Plus " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8440" group-title="Kombetare",Klan Plus
 http://apptv.xyz:8080/09042027/bwGzYpJ/30143
-#EXTINF:-1 tvg-id="89227" tvg-name="Klan Kosova ᴴᴰ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/89227" group-title="Kombetare",Klan Kosova ᴴᴰ
+#EXTINF:-1 tvg-id="89227" tvg-name="Klan Kosova " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/89227" group-title="Kombetare",Klan Kosova 
 http://apptv.xyz:8080/09042027/bwGzYpJ/39414
-#EXTINF:-1 tvg-id="89227" tvg-name="Klan Kosova ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/89227" group-title="Kombetare",KLAN KOSOVA
+#EXTINF:-1 tvg-id="89227" tvg-name="Klan Kosova " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/89227" group-title="Kombetare",KLAN KOSOVA
 http://apptv.xyz:8080/09042027/bwGzYpJ/87186
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="Fax News ᴴᴰ" tvg-logo="https://i.imgur.com/tXKLw9K.jpg" group-title="Kombetare",Fax News
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Fax News " tvg-logo="https://i.imgur.com/tXKLw9K.jpg" group-title="Kombetare",Fax News
 http://apptv.xyz:8080/09042027/bwGzYpJ/9533
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Kuvend ᴴᴰ" tvg-logo="https://i.imgur.com/eVxbMkS.jpeg" group-title="Kombetare",RTSH Kuvend
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Kuvend " tvg-logo="https://i.imgur.com/eVxbMkS.jpeg" group-title="Kombetare",RTSH Kuvend
 http://apptv.xyz:8080/09042027/bwGzYpJ/88437
-#EXTINF:-1 tvg-id="" tvg-name="RTSH SAT HD" tvg-logo="https://i.imgur.com/NQY4k48.jpg" group-title="Kombetare",RTSH Sat
+#EXTINF:-1 tvg-id="" tvg-name="RTSH SAT " tvg-logo="https://i.imgur.com/NQY48.jpg" group-title="Kombetare",RTSH Sat
 http://apptv.xyz:8080/09042027/bwGzYpJ/94042
-#EXTINF:-1 tvg-id="RTSH Plus" tvg-name="RTSH Plus ᴴᴰ" tvg-logo="https://i.imgur.com/nVI2pTv.jpeg" group-title="Kombetare",RTSH Plus
+#EXTINF:-1 tvg-id="RTSH Plus" tvg-name="RTSH Plus " tvg-logo="https://i.imgur.com/nVI2pTv.jpeg" group-title="Kombetare",RTSH Plus
 http://apptv.xyz:8080/09042027/bwGzYpJ/14989
-#EXTINF:-1 tvg-id="56007553" tvg-name="RTSH 1 ᴴᴰ" tvg-logo="https://i.imgur.com/h3kFfpi.jpeg" group-title="Kombetare",RTSH 1
+#EXTINF:-1 tvg-id="56007553" tvg-name="RTSH 1 " tvg-logo="https://i.imgur.com/h3kFfpi.jpeg" group-title="Kombetare",RTSH 1
 http://apptv.xyz:8080/09042027/bwGzYpJ/3451
-#EXTINF:-1 tvg-id="27258317" tvg-name="RTSH 2 ᴴᴰ" tvg-logo="https://i.imgur.com/pDoL71A.jpeg" group-title="Kombetare",RTSH 2
+#EXTINF:-1 tvg-id="27258317" tvg-name="RTSH 2 " tvg-logo="https://i.imgur.com/pDoL71A.jpeg" group-title="Kombetare",RTSH 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/10912
-#EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="RTSH 3 ᴴᴰ" tvg-logo="https://i.imgur.com/nkp3Gfa.jpeg" group-title="Kombetare",RTSH 3
+#EXTINF:-1 tvg-id="RTSH3 " tvg-name="RTSH 3 " tvg-logo="https://i.imgur.com/nkp3Gfa.jpeg" group-title="Kombetare",RTSH 3
 http://apptv.xyz:8080/09042027/bwGzYpJ/11182
-#EXTINF:-1 tvg-id="RTSH 24" tvg-name="RTSH 24 ᴴᴰ" tvg-logo="https://i.imgur.com/ngkUaLL.png" group-title="Kombetare",RTSH 24
+#EXTINF:-1 tvg-id="RTSH 24" tvg-name="RTSH 24 " tvg-logo="https://i.imgur.com/ngkUaLL.png" group-title="Kombetare",RTSH 24
 http://apptv.xyz:8080/09042027/bwGzYpJ/10975
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Shkodra ⁴ᴷ" tvg-logo="" group-title="Kombetare",RTSH Shkodra
+#EXTINF:-1 tvg-id="" tvg-name="Rtsh Shkodra " tvg-logo="" group-title="Kombetare",RTSH Shkodra
 http://apptv.xyz:8080/09042027/bwGzYpJ/118457
-#EXTINF:-1 tvg-id="RTSH Kukesi AL" tvg-name="RTSH Kukësi ᴴᴰ" tvg-logo="https://i.imgur.com/f2UcObf.jpg" group-title="Kombetare",RTSH Kukesi
+#EXTINF:-1 tvg-id="RTSH Kukesi AL" tvg-name="RTSH Kukësi " tvg-logo="https://i.imgur.com/f2UcObf.jpg" group-title="Kombetare",RTSH Kukesi
 http://apptv.xyz:8080/09042027/bwGzYpJ/43696
-#EXTINF:-1 tvg-id="8449" tvg-name="Mcn TV ᴴᴰ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8449" group-title="Kombetare",Mcn TV ᴴᴰ
+#EXTINF:-1 tvg-id="8449" tvg-name="Mcn TV " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8449" group-title="Kombetare",Mcn TV 
 http://apptv.xyz:8080/09042027/bwGzYpJ/103673
-#EXTINF:-1 tvg-id="8449" tvg-name="Mcn TV ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8449" group-title="Kombetare",MCN TV
+#EXTINF:-1 tvg-id="8449" tvg-name="Mcn TV " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/8449" group-title="Kombetare",MCN TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/80075
-#EXTINF:-1 tvg-id="12361" tvg-name="T7 ᴴᴰ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12361" group-title="Kombetare",T7 ᴴᴰ
+#EXTINF:-1 tvg-id="12361" tvg-name="T7 " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12361" group-title="Kombetare",T7 
 http://apptv.xyz:8080/09042027/bwGzYpJ/30866
-#EXTINF:-1 tvg-id="12361" tvg-name="T7 ⁴ᴷ" tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12361" group-title="Kombetare",T 7
+#EXTINF:-1 tvg-id="12361" tvg-name="T7 " tvg-logo="https://prd-static-digitalb.spectar.tv/rev-1736915696/image_transform.php/transform/1/instance_id/1/video_id/12361" group-title="Kombetare",T 7
 http://apptv.xyz:8080/09042027/bwGzYpJ/13940
 #EXTINF:-1 tvg-id="" tvg-name="A2 CNN" tvg-logo="//tvlogi/A2%20CNN.png" group-title="Kombetare",A2 CNN
 http://apptv.xyz:8080/09042027/bwGzYpJ/94028
-#EXTINF:-1 tvg-id="" tvg-name="A2 CNN ⁴ᴷ" tvg-logo="https://i.imgur.com/vDwd4ZG.jpg" group-title="Kombetare",A2CNN
+#EXTINF:-1 tvg-id="" tvg-name="A2 CNN " tvg-logo="https://i.imgur.com/vDwd4ZG.jpg" group-title="Kombetare",A2CNN
 http://apptv.xyz:8080/09042027/bwGzYpJ/11347
 #EXTINF:-1 tvg-id="" tvg-name="Panorama TV (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/d6/29/ac/94/5b33-4c8a-bd26-769e6c2417f5.png&maxDim=111&quot" group-title="Kombetare",Panorama TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/94121
-#EXTINF:-1 tvg-id="8664" tvg-name="RTK 1 ᴴᴰ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/7e/a8/6c/8a/3f87-456d-9137-c123f659aefd.png&w=550&h=265" group-title="Kombetare",RTK 1 ᴴᴰ
+#EXTINF:-1 tvg-id="8664" tvg-name="RTK 1 " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/7e/a8/6c/8a/3f87-456d-9137-c123f659aefd.png&w=550&h=265" group-title="Kombetare",RTK 1 
 http://apptv.xyz:8080/09042027/bwGzYpJ/89827
-#EXTINF:-1 tvg-id="8664" tvg-name="RTK 1 ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/7e/a8/6c/8a/3f87-456d-9137-c123f659aefd.png&w=550&h=265" group-title="Kombetare",RTK1
+#EXTINF:-1 tvg-id="8664" tvg-name="RTK 1 " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/7e/a8/6c/8a/3f87-456d-9137-c123f659aefd.png&w=550&h=265" group-title="Kombetare",RTK1
 http://apptv.xyz:8080/09042027/bwGzYpJ/30131
-#EXTINF:-1 tvg-id="" tvg-name="RTK 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/8g7Sg7cz/RTK2.png" group-title="Kombetare",RTK2
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2 " tvg-logo="https://i.ibb.co/8g7Sg7cz/RTK2.png" group-title="Kombetare",RTK2
 http://apptv.xyz:8080/09042027/bwGzYpJ/30134
-#EXTINF:-1 tvg-id="8664" tvg-name="RTK 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/W4PQ6THD/RTK3.png" group-title="Kombetare",RTK3
+#EXTINF:-1 tvg-id="8664" tvg-name="RTK 3 " tvg-logo="https://i.ibb.co/W4PQ6T/RTK3.png" group-title="Kombetare",RTK3
 http://apptv.xyz:8080/09042027/bwGzYpJ/30135
-#EXTINF:-1 tvg-id="" tvg-name="RTK 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/DHMyc9ZP/RTK4.png" group-title="Kombetare",RTK4
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4 " tvg-logo="https://i.ibb.co/DHMyc9ZP/RTK4.png" group-title="Kombetare",RTK4
 http://apptv.xyz:8080/09042027/bwGzYpJ/30136
-#EXTINF:-1 tvg-id="" tvg-name="MRTV 2 ᴴᴰ" tvg-logo="https://i.ibb.co/chDMgXcG/mrtv2mak.png" group-title="Kombetare",MRTV2
+#EXTINF:-1 tvg-id="" tvg-name="MRTV 2 " tvg-logo="https://i.ibb.co/cMgXcG/mrtv2mak.png" group-title="Kombetare",MRTV2
 http://apptv.xyz:8080/09042027/bwGzYpJ/87192
-#EXTINF:-1 tvg-id="27258390" tvg-name="RTSH Sport ⁴ᴷ" tvg-logo="https://apps.tibo.tv/1/files/channels/16687836552981614354602030RTSHSport.png" group-title="Sport",RTSH Sport
+#EXTINF:-1 tvg-id="27258390" tvg-name="RTSH Sport " tvg-logo="https://apps.tibo.tv/1/files/channels/16687836552981614354602030RTSHSport.png" group-title="Sport",RTSH Sport
 http://apptv.xyz:8080/09042027/bwGzYpJ/77129
-#EXTINF:-1 tvg-id="759825" tvg-name="Super Sport1 HD" tvg-logo="//tvlogi/SuperSport%201.png" group-title="Sport",Super Sport1 HD
+#EXTINF:-1 tvg-id="759825" tvg-name="Super Sport1 " tvg-logo="//tvlogi/SuperSport%201.png" group-title="Sport",Super Sport1 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94088
-#EXTINF:-1 tvg-id="759825" tvg-name="Super Sport 1 ⁴ᴷ" tvg-logo="https://i.ibb.co/5XCXJp9c/upload-912-759825.png" group-title="Sport",Super Sport 1 ⁴ᴷ
+#EXTINF:-1 tvg-id="759825" tvg-name="Super Sport 1 " tvg-logo="https://i.ibb.co/5XCXJp9c/upload-912-759825.png" group-title="Sport",Super Sport 1 
 http://apptv.xyz:8080/09042027/bwGzYpJ/43729
-#EXTINF:-1 tvg-id="758172" tvg-name="Super Sport2 HD" tvg-logo="//tvlogi/SuperSport%202.png" group-title="Sport",Super Sport2 HD
+#EXTINF:-1 tvg-id="758172" tvg-name="Super Sport2 " tvg-logo="//tvlogi/SuperSport%202.png" group-title="Sport",Super Sport2 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94089
-#EXTINF:-1 tvg-id="758172" tvg-name="Super Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/Z1KqnZy1/upload-558-758172.png" group-title="Sport",Super Sport 2 ⁴ᴷ
+#EXTINF:-1 tvg-id="758172" tvg-name="Super Sport 2 " tvg-logo="https://i.ibb.co/Z1KqnZy1/upload-558-758172.png" group-title="Sport",Super Sport 2 
 http://apptv.xyz:8080/09042027/bwGzYpJ/43728
-#EXTINF:-1 tvg-id="759827" tvg-name="Super Sport3 HD" tvg-logo="//tvlogi/SuperSport%203.png" group-title="Sport",Super Sport3 HD
+#EXTINF:-1 tvg-id="759827" tvg-name="Super Sport3 " tvg-logo="//tvlogi/SuperSport%203.png" group-title="Sport",Super Sport3 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94090
-#EXTINF:-1 tvg-id="759827" tvg-name="Super Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/CKxS8LXH/upload-240-759827.png" group-title="Sport",Super Sport 3 ⁴ᴷ
+#EXTINF:-1 tvg-id="759827" tvg-name="Super Sport 3 " tvg-logo="https://i.ibb.co/CKxS8LXH/upload-240-759827.png" group-title="Sport",Super Sport 3 
 http://apptv.xyz:8080/09042027/bwGzYpJ/43727
-#EXTINF:-1 tvg-id="759876" tvg-name="Super Sport4 HD" tvg-logo="//tvlogi/SuperSport%204.png" group-title="Sport",Super Sport4 HD
+#EXTINF:-1 tvg-id="759876" tvg-name="Super Sport4 " tvg-logo="//tvlogi/SuperSport%204.png" group-title="Sport",Super Sport4 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94091
-#EXTINF:-1 tvg-id="759876" tvg-name="Super Sport 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/chX5F4pq/upload-484-759876.png" group-title="Sport",Super Sport 4 ⁴ᴷ
+#EXTINF:-1 tvg-id="759876" tvg-name="Super Sport 4 " tvg-logo="https://i.ibb.co/chX5F4pq/upload-484-759876.png" group-title="Sport",Super Sport 4 
 http://apptv.xyz:8080/09042027/bwGzYpJ/43726
-#EXTINF:-1 tvg-id="759882" tvg-name="Super Sport5 HD" tvg-logo="//tvlogi/SuperSport%205.png" group-title="Sport",Super Sport5 HD
+#EXTINF:-1 tvg-id="759882" tvg-name="Super Sport5 " tvg-logo="//tvlogi/SuperSport%205.png" group-title="Sport",Super Sport5 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94092
-#EXTINF:-1 tvg-id="759882" tvg-name="Super Sport 5 ⁴ᴷ" tvg-logo="https://i.ibb.co/KpNFsr2Y/upload-841-759882.png" group-title="Sport",Super Sport 5 ⁴ᴷ
+#EXTINF:-1 tvg-id="759882" tvg-name="Super Sport 5 " tvg-logo="https://i.ibb.co/KpNFsr2Y/upload-841-759882.png" group-title="Sport",Super Sport 5 
 http://apptv.xyz:8080/09042027/bwGzYpJ/43725
-#EXTINF:-1 tvg-id="759884" tvg-name="Super Sport6 HD" tvg-logo="//tvlogi/SuperSport%206.png" group-title="Sport",Super Sport6 HD
+#EXTINF:-1 tvg-id="759884" tvg-name="Super Sport6 " tvg-logo="//tvlogi/SuperSport%206.png" group-title="Sport",Super Sport6 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94093
-#EXTINF:-1 tvg-id="759884" tvg-name="Super Sport 6 ⁴ᴷ" tvg-logo="https://i.ibb.co/WNQw1xvx/upload-931-759884.png" group-title="Sport",Super Sport 6 ⁴ᴷ
+#EXTINF:-1 tvg-id="759884" tvg-name="Super Sport 6 " tvg-logo="https://i.ibb.co/WNQw1xvx/upload-931-759884.png" group-title="Sport",Super Sport 6 
 http://apptv.xyz:8080/09042027/bwGzYpJ/43724
-#EXTINF:-1 tvg-id="759886" tvg-name="Super Sport 7 ᴴᴰ" tvg-logo="https://i.ibb.co/27FHqKQK/upload-747-759886.png" group-title="Sport",Super Sport 7 ᴴᴰ
+#EXTINF:-1 tvg-id="759886" tvg-name="Super Sport 7 " tvg-logo="https://i.ibb.co/27FHqKQK/upload-747-759886.png" group-title="Sport",Super Sport 7 
 http://apptv.xyz:8080/09042027/bwGzYpJ/78732
-#EXTINF:-1 tvg-id="56062239" tvg-name="  TRING SPORT NEWS HD (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/b8/0a/20/0a/b028-4ce7-83f9-1517dd00168d.png&amp;maxDim=111&quot" group-title="Sport",  TRING SPORT NEWS HD (TRING)
+#EXTINF:-1 tvg-id="56062239" tvg-name="  TRING SPORT NEWS  (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/b8/0a/20/0a/b028-4ce7-83f9-1517dd00168d.png&amp;maxDim=111&quot" group-title="Sport",  TRING SPORT NEWS  (TRING)
 http://apptv.xyz:8080/09042027/bwGzYpJ/94157
-#EXTINF:-1 tvg-id="56062239" tvg-name="Tring Sport News ⁴ᴷ" tvg-logo="https://i.ibb.co/s2HzjXY/svgexport-1-1.png" group-title="Sport",Tring Sport News
+#EXTINF:-1 tvg-id="56062239" tvg-name="Tring Sport News " tvg-logo="https://i.ibb.co/s2HzjXY/svgexport-1-1.png" group-title="Sport",Tring Sport News
 http://apptv.xyz:8080/09042027/bwGzYpJ/30157
 #EXTINF:-1 tvg-id="56062240" tvg-name="Tring Sport 1 (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/0e/1f/24/c5/2da5-4f9a-afae-78c87c56955d.png&maxDim=111&quot" group-title="Sport",Tring Sport 1 (TRING)
 http://apptv.xyz:8080/09042027/bwGzYpJ/94158
-#EXTINF:-1 tvg-id="56062240" tvg-name="Tring Sport 1 ⁴ᴷ" tvg-logo="https://i.ibb.co/rZCppWs/svgexport-1-2.png" group-title="Sport",Tring Sport 1
+#EXTINF:-1 tvg-id="56062240" tvg-name="Tring Sport 1 " tvg-logo="https://i.ibb.co/rZCppWs/svgexport-1-2.png" group-title="Sport",Tring Sport 1
 http://apptv.xyz:8080/09042027/bwGzYpJ/30153
 #EXTINF:-1 tvg-id="56062241" tvg-name="Tring Sport 2 (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/28/bd/ae/eb/8eab-46ba-8cee-92a8c0c9c787.png&maxDim=111&quot" group-title="Sport",Tring Sport 2 (TRING)
 http://apptv.xyz:8080/09042027/bwGzYpJ/94159
-#EXTINF:-1 tvg-id="56062241" tvg-name="Tring Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="Sport",Tring Sport 2
+#EXTINF:-1 tvg-id="56062241" tvg-name="Tring Sport 2 " tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="Sport",Tring Sport 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/30154
 #EXTINF:-1 tvg-id="56062242" tvg-name="Tring Sport 3 (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/e8/b2/78/20/be67-41d1-9fb1-ed0af9808a65.png&maxDim=111&quot" group-title="sport",Tring Sport 3 (TRING)
 http://apptv.xyz:8080/09042027/bwGzYpJ/94160
-#EXTINF:-1 tvg-id="56062242" tvg-name="Tring Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="Sport",Tring Sport 3
+#EXTINF:-1 tvg-id="56062242" tvg-name="Tring Sport 3 " tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="Sport",Tring Sport 3
 http://apptv.xyz:8080/09042027/bwGzYpJ/30155
 #EXTINF:-1 tvg-id="56062243" tvg-name="Tring Sport 4 (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/59/e3/91/7b/375b-42fa-b76d-6c3701170352.png&maxDim=111&quot" group-title="Sport",Tring Sport 4 (TRING)
 http://apptv.xyz:8080/09042027/bwGzYpJ/94161
-#EXTINF:-1 tvg-id="56062243" tvg-name="Tring Sport 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/KVkfLFD/svgexport-1-4.png" group-title="Sport",Tring Sport 4
+#EXTINF:-1 tvg-id="56062243" tvg-name="Tring Sport 4 " tvg-logo="https://i.ibb.co/KVkfLFD/svgexport-1-4.png" group-title="Sport",Tring Sport 4
 http://apptv.xyz:8080/09042027/bwGzYpJ/30156
-#EXTINF:-1 tvg-id="56062244" tvg-name="Tring Sport 5 ᴴᴰ" tvg-logo="" group-title="Sport",Tring Sport 5
+#EXTINF:-1 tvg-id="56062244" tvg-name="Tring Sport 5 " tvg-logo="" group-title="Sport",Tring Sport 5
 http://apptv.xyz:8080/09042027/bwGzYpJ/103300
-#EXTINF:-1 tvg-id="56062245" tvg-name="Tring Sport 6 ᴴᴰ" tvg-logo="" group-title="Sport",Tring Sport 6
+#EXTINF:-1 tvg-id="56062245" tvg-name="Tring Sport 6 " tvg-logo="" group-title="Sport",Tring Sport 6
 http://apptv.xyz:8080/09042027/bwGzYpJ/110927
-#EXTINF:-1 tvg-id="56076626" tvg-name="Tring Sport 7 ᴴᴰ" tvg-logo="" group-title="Sport",Tring Sport 7
+#EXTINF:-1 tvg-id="56076626" tvg-name="Tring Sport 7 " tvg-logo="" group-title="Sport",Tring Sport 7
 http://apptv.xyz:8080/09042027/bwGzYpJ/110928
-#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 ᶠᴴᴰ" tvg-logo="" group-title="Sport",Euro Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 ᶠ" tvg-logo="" group-title="Sport",Euro Sport 1
 http://apptv.xyz:8080/09042027/bwGzYpJ/14455
-#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 ᶠᴴᴰ" tvg-logo="" group-title="Sport",Euro Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 ᶠ" tvg-logo="" group-title="Sport",Euro Sport 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/14454
-#EXTINF:-1 tvg-id="12930" tvg-name="T HD" tvg-logo="//tvlogi/T%20HD.png" group-title="Filma",T HD
+#EXTINF:-1 tvg-id="12930" tvg-name="T " tvg-logo="//tvlogi/T%20.png" group-title="Filma",T 
 http://apptv.xyz:8080/09042027/bwGzYpJ/94054
-#EXTINF:-1 tvg-id="12930" tvg-name="T ⁴ᴷ" tvg-logo="//tvlogi/T%20HD.png" group-title="Filma",T
+#EXTINF:-1 tvg-id="12930" tvg-name="T " tvg-logo="//tvlogi/T%20.png" group-title="Filma",T
 http://apptv.xyz:8080/09042027/bwGzYpJ/78725
-#EXTINF:-1 tvg-id="12931" tvg-name="Gold ⁴ᴷ" tvg-logo="//tvlogi/Gold%20HD.png" group-title="Filma",Gold
+#EXTINF:-1 tvg-id="12931" tvg-name="Gold " tvg-logo="//tvlogi/Gold%20.png" group-title="Filma",Gold
 http://apptv.xyz:8080/09042027/bwGzYpJ/63320
-#EXTINF:-1 tvg-id="12934" tvg-name="Max ⁴ᴷ" tvg-logo="//tvlogi/Max%20HD.png" group-title="Filma",Max
+#EXTINF:-1 tvg-id="12934" tvg-name="Max " tvg-logo="//tvlogi/Max%20.png" group-title="Filma",Max
 http://apptv.xyz:8080/09042027/bwGzYpJ/63321
-#EXTINF:-1 tvg-id="9414" tvg-name="Film Hits ⁴ᴷ" tvg-logo="//tvlogi/Film%20Hits.png" group-title="Filma",Film Hits
+#EXTINF:-1 tvg-id="9414" tvg-name="Film Hits " tvg-logo="//tvlogi/Film%20Hits.png" group-title="Filma",Film Hits
 http://apptv.xyz:8080/09042027/bwGzYpJ/937
-#EXTINF:-1 tvg-id="13211" tvg-name="Film Aksion ⁴ᴷ" tvg-logo="https://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma",Film Aksion
+#EXTINF:-1 tvg-id="13211" tvg-name="Film Aksion " tvg-logo="https://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma",Film Aksion
 http://apptv.xyz:8080/09042027/bwGzYpJ/929
-#EXTINF:-1 tvg-id="8149" tvg-name="Film Thriller ᴴᴰ" tvg-logo="//tvlogi/Film%20Thriller.png" group-title="Filma",Film Thriller
+#EXTINF:-1 tvg-id="8149" tvg-name="Film Thriller " tvg-logo="//tvlogi/Film%20Thriller.png" group-title="Filma",Film Thriller
 http://apptv.xyz:8080/09042027/bwGzYpJ/941
-#EXTINF:-1 tvg-id="8218" tvg-name="Film Komedi ᴴᴰ" tvg-logo="//tvlogi/Film%20Komedi.png" group-title="Filma",Film Komedi
+#EXTINF:-1 tvg-id="8218" tvg-name="Film Komedi " tvg-logo="//tvlogi/Film%20Komedi.png" group-title="Filma",Film Komedi
 http://apptv.xyz:8080/09042027/bwGzYpJ/938
-#EXTINF:-1 tvg-id="56062229" tvg-name="Kanal D Drama ᴴᴰ" tvg-logo="https://i.ibb.co/hRCxBY71/2af7-4198-bfd9-400dfc4b3d64.png" group-title="Filma",Kanal D Drama ᴴᴰ
+#EXTINF:-1 tvg-id="56062229" tvg-name="Kanal D Drama " tvg-logo="https://i.ibb.co/hRCxBY71/2af7-4198-bfd9-400dfc4b3d64.png" group-title="Filma",Kanal D Drama 
 http://apptv.xyz:8080/09042027/bwGzYpJ/87187
-#EXTINF:-1 tvg-id="8088" tvg-name="Film Autor ᴴᴰ" tvg-logo="//tvlogi/Film%20Autor.png" group-title="Filma",Film Autor
+#EXTINF:-1 tvg-id="8088" tvg-name="Film Autor " tvg-logo="//tvlogi/Film%20Autor.png" group-title="Filma",Film Autor
 http://apptv.xyz:8080/09042027/bwGzYpJ/930
-#EXTINF:-1 tvg-id="56007563" tvg-name="Tring Shqip ⁴ᴷ" tvg-logo="//tvlogi/Tring%20Shqip.png" group-title="Filma",Tring Shqip
+#EXTINF:-1 tvg-id="56007563" tvg-name="Tring Shqip " tvg-logo="//tvlogi/Tring%20Shqip.png" group-title="Filma",Tring Shqip
 http://apptv.xyz:8080/09042027/bwGzYpJ/1168
-#EXTINF:-1 tvg-id="56007554" tvg-name="Tring Super ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/24/85/f9/16/36ad-40f8-a31b-f2891accf5e0.png&maxDim=111&quot" group-title="Filma",Tring Super
+#EXTINF:-1 tvg-id="56007554" tvg-name="Tring Super " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/24/85/f9/16/36ad-40f8-a31b-f2891accf5e0.png&maxDim=111&quot" group-title="Filma",Tring Super
 http://apptv.xyz:8080/09042027/bwGzYpJ/1174
-#EXTINF:-1 tvg-id="56062227" tvg-name="Tring 3+ ⁴ᴷ" tvg-logo="https://i.ibb.co/ymMwrrpJ/5854-406a-9ca7-086bb41a0cfb.png" group-title="Filma",Tring 3+
+#EXTINF:-1 tvg-id="56062227" tvg-name="Tring 3+ " tvg-logo="https://i.ibb.co/ymMwrrpJ/5854-406a-9ca7-086bb41a0cfb.png" group-title="Filma",Tring 3+
 http://apptv.xyz:8080/09042027/bwGzYpJ/827
-#EXTINF:-1 tvg-id="56062226" tvg-name="Tring Series  ⁴ᴷ" tvg-logo="https://i.ibb.co/S7n0T9yF/cd85-4976-b9f8-a43c681e3ed7.png" group-title="Filma",Tring series
+#EXTINF:-1 tvg-id="56062226" tvg-name="Tring Series  " tvg-logo="https://i.ibb.co/S7n0T9yF/cd85-4976-b9f8-a43c681e3ed7.png" group-title="Filma",Tring series
 http://apptv.xyz:8080/09042027/bwGzYpJ/63411
-#EXTINF:-1 tvg-id="56062230" tvg-name="Tring Novelas ⁴ᴷ" tvg-logo="https://i.ibb.co/tpT91spf/0fec-49e4-a113-6bde290b9e37.png" group-title="Filma",Tring novelas
+#EXTINF:-1 tvg-id="56062230" tvg-name="Tring Novelas " tvg-logo="https://i.ibb.co/tpT91spf/0fec-49e4-a113-6bde290b9e37.png" group-title="Filma",Tring novelas
 http://apptv.xyz:8080/09042027/bwGzYpJ/63257
-#EXTINF:-1 tvg-id="56007555" tvg-name="Tring Action ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/2d/97/c5/3f/2b82-41f4-bc1b-6e7f4568f56a.png&maxDim=63&quot" group-title="Filma",Tring Action
+#EXTINF:-1 tvg-id="56007555" tvg-name="Tring Action " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/2d/97/c5/3f/2b82-41f4-bc1b-6e7f4568f56a.png&maxDim=63&quot" group-title="Filma",Tring Action
 http://apptv.xyz:8080/09042027/bwGzYpJ/1166
-#EXTINF:-1 tvg-id="56007561" tvg-name="Tring Family ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/93/49/2f/37/57f9-4a22-9f8e-e7719dd3a060.png&maxDim=111&quot" group-title="Filma",Tring Family
+#EXTINF:-1 tvg-id="56007561" tvg-name="Tring Family " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/93/49/2f/37/57f9-4a22-9f8e-e7719dd3a060.png&maxDim=111&quot" group-title="Filma",Tring Family
 http://apptv.xyz:8080/09042027/bwGzYpJ/77682
-#EXTINF:-1 tvg-id="56007558" tvg-name="Tring Fantasy  ⁴ᴷ" tvg-logo="//tvlogi/Tring%20Fantasy.png" group-title="Filma",Tring Fantasy
+#EXTINF:-1 tvg-id="56007558" tvg-name="Tring Fantasy  " tvg-logo="//tvlogi/Tring%20Fantasy.png" group-title="Filma",Tring Fantasy
 http://apptv.xyz:8080/09042027/bwGzYpJ/1164
-#EXTINF:-1 tvg-id="27258265" tvg-name="Tring Collection ᴴᴰ" tvg-logo="//tvlogi/Tring%20Collection.png" group-title="Filma",Tring Collection
+#EXTINF:-1 tvg-id="27258265" tvg-name="Tring Collection " tvg-logo="//tvlogi/Tring%20Collection.png" group-title="Filma",Tring Collection
 http://apptv.xyz:8080/09042027/bwGzYpJ/63258
-#EXTINF:-1 tvg-id="56007556" tvg-name="Tring Life ᴴᴰ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/27/88/26/2c/85c1-4463-a13e-b23081bbf1f0.png&maxDim=63&quot" group-title="Filma",Tring Life
+#EXTINF:-1 tvg-id="56007556" tvg-name="Tring Life " tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/27/88/26/2c/85c1-4463-a13e-b23081bbf1f0.png&maxDim=63&quot" group-title="Filma",Tring Life
 http://apptv.xyz:8080/09042027/bwGzYpJ/1165
-#EXTINF:-1 tvg-id="56007557" tvg-name="Tring Comedy ᴴᴰ" tvg-logo="//tvlogi/Tring%20Comedy.png" group-title="Filma",Tring Comedy
+#EXTINF:-1 tvg-id="56007557" tvg-name="Tring Comedy " tvg-logo="//tvlogi/Tring%20Comedy.png" group-title="Filma",Tring Comedy
 http://apptv.xyz:8080/09042027/bwGzYpJ/25472
-#EXTINF:-1 tvg-id="56007560" tvg-name="Tring Classic ᴴᴰ" tvg-logo="//tvlogi/Tring%20Classic.png" group-title="Filma",Tring Classic
+#EXTINF:-1 tvg-id="56007560" tvg-name="Tring Classic " tvg-logo="//tvlogi/Tring%20Classic.png" group-title="Filma",Tring Classic
 http://apptv.xyz:8080/09042027/bwGzYpJ/63206
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Verore ⁴ᴷ" tvg-logo="" group-title="Filma",Eagle Verore
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Verore " tvg-logo="" group-title="Filma",Eagle Verore
 http://apptv.xyz:8080/09042027/bwGzYpJ/103674
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Gold ⁴ᴷ" tvg-logo="https://i.ibb.co/vxk473Ps/filmgoldkiboeagle.png" group-title="Filma",Eagle Gold
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Gold " tvg-logo="https://i.ibb.co/vxk473Ps/filmgoldkiboeagle.png" group-title="Filma",Eagle Gold
 http://apptv.xyz:8080/09042027/bwGzYpJ/100123
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Aksion ⁴ᴷ" tvg-logo="https://i.ibb.co/gbTDkrSC/Film-Aksioneagle.png" group-title="Filma",Eagle Aksion
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Aksion " tvg-logo="https://i.ibb.co/gbTDkrSC/Film-Aksioneagle.png" group-title="Filma",Eagle Aksion
 http://apptv.xyz:8080/09042027/bwGzYpJ/100124
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Thriller ⁴ᴷ" tvg-logo="https://i.ibb.co/zW1BkRhg/eagletbirrlerlogo.png" group-title="Filma",Eagle Thriller
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Thriller " tvg-logo="https://i.ibb.co/zW1BkRhg/eagletbirrlerlogo.png" group-title="Filma",Eagle Thriller
 http://apptv.xyz:8080/09042027/bwGzYpJ/101067
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Horror ⁴ᴷ" tvg-logo="https://i.ibb.co/WW5x7Y0q/ffilmhorroreagle.png" group-title="Filma",Eagle Horror
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Horror " tvg-logo="https://i.ibb.co/WW5x7Y0q/ffilmhorroreagle.png" group-title="Filma",Eagle Horror
 http://apptv.xyz:8080/09042027/bwGzYpJ/100358
-#EXTINF:-1 tvg-id="" tvg-name="KS Premier 1 ⁴ᴷ" tvg-logo="" group-title="Filma",KS Premier 1
+#EXTINF:-1 tvg-id="" tvg-name="KS Premier 1 " tvg-logo="" group-title="Filma",KS Premier 1
 http://apptv.xyz:8080/09042027/bwGzYpJ/35862
-#EXTINF:-1 tvg-id="" tvg-name="KS Premier 2 ⁴ᴷ" tvg-logo="" group-title="Filma",KS Premier 2
+#EXTINF:-1 tvg-id="" tvg-name="KS Premier 2 " tvg-logo="" group-title="Filma",KS Premier 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/35863
-#EXTINF:-1 tvg-id="" tvg-name="KS Premier 3 ⁴ᴷ" tvg-logo="" group-title="Filma",KS Premier 3
+#EXTINF:-1 tvg-id="" tvg-name="KS Premier 3 " tvg-logo="" group-title="Filma",KS Premier 3
 http://apptv.xyz:8080/09042027/bwGzYpJ/35864
-#EXTINF:-1 tvg-id="" tvg-name="KS Premier 4 ⁴ᴷ" tvg-logo="" group-title="Filma",KS Premier 4
+#EXTINF:-1 tvg-id="" tvg-name="KS Premier 4 " tvg-logo="" group-title="Filma",KS Premier 4
 http://apptv.xyz:8080/09042027/bwGzYpJ/35865
-#EXTINF:-1 tvg-id="" tvg-name="KS: Fast & Furious 24/7 ⁴ᴷ" tvg-logo="" group-title="Filma",KSFast & Furious 24/7
+#EXTINF:-1 tvg-id="" tvg-name="KS: Fast & Furious 24/7 " tvg-logo="" group-title="Filma",KSFast & Furious 24/7
 http://apptv.xyz:8080/09042027/bwGzYpJ/37084
-#EXTINF:-1 tvg-id="" tvg-name="KS Action ⁴ᴷ" tvg-logo="" group-title="Filma",KS Action
+#EXTINF:-1 tvg-id="" tvg-name="KS Action " tvg-logo="" group-title="Filma",KS Action
 http://apptv.xyz:8080/09042027/bwGzYpJ/26937
-#EXTINF:-1 tvg-id="" tvg-name="KS Thriller ⁴ᴷ" tvg-logo="" group-title="Filma",KS Thriller
+#EXTINF:-1 tvg-id="" tvg-name="KS Thriller " tvg-logo="" group-title="Filma",KS Thriller
 http://apptv.xyz:8080/09042027/bwGzYpJ/25473
-#EXTINF:-1 tvg-id="" tvg-name="KS Comedy ⁴ᴷ" tvg-logo="" group-title="Filma",KS Comedy
+#EXTINF:-1 tvg-id="" tvg-name="KS Comedy " tvg-logo="" group-title="Filma",KS Comedy
 http://apptv.xyz:8080/09042027/bwGzYpJ/16969
-#EXTINF:-1 tvg-id="" tvg-name="KS Epic ⁴ᴷ" tvg-logo="" group-title="Filma",KS Epic
+#EXTINF:-1 tvg-id="" tvg-name="KS Epic " tvg-logo="" group-title="Filma",KS Epic
 http://apptv.xyz:8080/09042027/bwGzYpJ/21883
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Shqip ⁴ᴷ" tvg-logo="https://i.imgur.com/uU5oO05.png" group-title="Filma",Tëvë Shqip
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Shqip " tvg-logo="https://i.imgur.com/uU5oO05.png" group-title="Filma",Tëvë Shqip
 http://apptv.xyz:8080/09042027/bwGzYpJ/87205
-#EXTINF:-1 tvg-id="7825" tvg-name="Euro Film ᴴᴰ" tvg-logo="//tvlogi/EUROFILM.png" group-title="Filma",Euro Film
+#EXTINF:-1 tvg-id="7825" tvg-name="Euro Film " tvg-logo="//tvlogi/EUROFILM.png" group-title="Filma",Euro Film
 http://apptv.xyz:8080/09042027/bwGzYpJ/918
-#EXTINF:-1 tvg-id="KINO 1_fillgaps" tvg-name="ART Kino 1 ⁴ᴷ" tvg-logo="//tvlogi/Art%20Kino%201.png" group-title="Filma",ART Kino 1
+#EXTINF:-1 tvg-id="KINO 1_fillgaps" tvg-name="ART Kino 1 " tvg-logo="//tvlogi/Art%20Kino%201.png" group-title="Filma",ART Kino 1
 http://apptv.xyz:8080/09042027/bwGzYpJ/30078
-#EXTINF:-1 tvg-id="KINO 2_fillgaps" tvg-name="ART Kino 2 ⁴ᴷ" tvg-logo="//tvlogi/Art%20Kino%202.png" group-title="Filma",ART Kino 2
+#EXTINF:-1 tvg-id="KINO 2_fillgaps" tvg-name="ART Kino 2 " tvg-logo="//tvlogi/Art%20Kino%202.png" group-title="Filma",ART Kino 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/30077
-#EXTINF:-1 tvg-id="KINO 3_fillgaps" tvg-name="ART Kino 3 ⁴ᴷ" tvg-logo="//tvlogi/Art%20Kino%203.png" group-title="Filma",ART Kino 3
+#EXTINF:-1 tvg-id="KINO 3_fillgaps" tvg-name="ART Kino 3 " tvg-logo="//tvlogi/Art%20Kino%203.png" group-title="Filma",ART Kino 3
 http://apptv.xyz:8080/09042027/bwGzYpJ/30076
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Aksion ⁴ᴷ" tvg-logo="https://i.imgur.com/CtAeIPq.png" group-title="Filma",Tëvë Aksion
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Aksion " tvg-logo="https://i.imgur.com/CtAeIPq.png" group-title="Filma",Tëvë Aksion
 http://apptv.xyz:8080/09042027/bwGzYpJ/87198
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Comedy ⁴ᴷ" tvg-logo="https://i.imgur.com/tCWhbOe.png" group-title="Filma",Tëvë Comedy
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Comedy " tvg-logo="https://i.imgur.com/tCWhbOe.png" group-title="Filma",Tëvë Comedy
 http://apptv.xyz:8080/09042027/bwGzYpJ/87199
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Drame ⁴ᴷ" tvg-logo="https://i.imgur.com/IIuXqFV.png" group-title="Filma",Tëvë Drame
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Drame " tvg-logo="https://i.imgur.com/IIuXqFV.png" group-title="Filma",Tëvë Drame
 http://apptv.xyz:8080/09042027/bwGzYpJ/87202
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Fantasy ⁴ᴷ" tvg-logo="https://i.imgur.com/jbDMPvX.png" group-title="Filma",Tëvë Fantasy
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Fantasy " tvg-logo="https://i.imgur.com/jbDMPvX.png" group-title="Filma",Tëvë Fantasy
 http://apptv.xyz:8080/09042027/bwGzYpJ/87203
-#EXTINF:-1 tvg-id="56007565" tvg-name="Living ᶠᴴᴰ" tvg-logo="//tvlogi/Living%20HD.png" group-title="Dokumentare",Living HD
+#EXTINF:-1 tvg-id="56007565" tvg-name="Living ᶠ" tvg-logo="//tvlogi/Living%20.png" group-title="Dokumentare",Living 
 http://apptv.xyz:8080/09042027/bwGzYpJ/983
-#EXTINF:-1 tvg-id="12844" tvg-name="Explorer Natyra ᴴᴰ" tvg-logo="//tvlogi/EXPLORER%20Natyra.png" group-title="Dokumentare",Explorer Natyra
+#EXTINF:-1 tvg-id="12844" tvg-name="Explorer Natyra " tvg-logo="//tvlogi/EXPLORER%20Natyra.png" group-title="Dokumentare",Explorer Natyra
 http://apptv.xyz:8080/09042027/bwGzYpJ/923
-#EXTINF:-1 tvg-id="12842" tvg-name="Explorer Histori ᴴᴰ" tvg-logo="//tvlogi/EXPLORER%20Histori.png" group-title="Dokumentare",Explorer History
+#EXTINF:-1 tvg-id="12842" tvg-name="Explorer Histori " tvg-logo="//tvlogi/EXPLORER%20Histori.png" group-title="Dokumentare",Explorer History
 http://apptv.xyz:8080/09042027/bwGzYpJ/922
-#EXTINF:-1 tvg-id="12841" tvg-name="Explorer Shkence ᴴᴰ" tvg-logo="//tvlogi/EXPLORER%20Shkence.png" group-title="Dokumentare",Explorer Shkence
+#EXTINF:-1 tvg-id="12841" tvg-name="Explorer Shkence " tvg-logo="//tvlogi/EXPLORER%20Shkence.png" group-title="Dokumentare",Explorer Shkence
 http://apptv.xyz:8080/09042027/bwGzYpJ/924
-#EXTINF:-1 tvg-id="56062234" tvg-name="Tring World ᴴᴰ" tvg-logo="//tvlogi/Tring%20World.png" group-title="Dokumentare",Tring World
+#EXTINF:-1 tvg-id="56062234" tvg-name="Tring World " tvg-logo="//tvlogi/Tring%20World.png" group-title="Dokumentare",Tring World
 http://apptv.xyz:8080/09042027/bwGzYpJ/1176
-#EXTINF:-1 tvg-id="56062233" tvg-name="Tring Planet ᴴᴰ" tvg-logo="//tvlogi/Tring%20Planet.png" group-title="Dokumentare",Tring Planet
+#EXTINF:-1 tvg-id="56062233" tvg-name="Tring Planet " tvg-logo="//tvlogi/Tring%20Planet.png" group-title="Dokumentare",Tring Planet
 http://apptv.xyz:8080/09042027/bwGzYpJ/1167
-#EXTINF:-1 tvg-id="56062232" tvg-name="Tring History ᴴᴰ" tvg-logo="//tvlogi/Tring%20History.png" group-title="Dokumentare",Tring History
+#EXTINF:-1 tvg-id="56062232" tvg-name="Tring History " tvg-logo="//tvlogi/Tring%20History.png" group-title="Dokumentare",Tring History
 http://apptv.xyz:8080/09042027/bwGzYpJ/1316
-#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.TElBfVlFRIAqnCWV7a8CPQHaCn&pid=Api&P=0&h=220" group-title="Dokumentare",NAT GEO
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO " tvg-logo="https://tse3.mm.bing.net/th?id=OIP.TElBfVlFRIAqnCWV7a8CPQHaCn&pid=Api&P=0&h=220" group-title="Dokumentare",NAT GEO
 http://apptv.xyz:8080/09042027/bwGzYpJ/60435
-#EXTINF:-1 tvg-id="" tvg-name="Top Story ⁴ᴷ" tvg-logo="" group-title="Dokumentare",Top Story
+#EXTINF:-1 tvg-id="" tvg-name="Top Story " tvg-logo="" group-title="Dokumentare",Top Story
 http://apptv.xyz:8080/09042027/bwGzYpJ/88440
-#EXTINF:-1 tvg-id="" tvg-name="ABC Story ⁴ᴷ" tvg-logo="" group-title="Dokumentare",abc story
+#EXTINF:-1 tvg-id="" tvg-name="ABC Story " tvg-logo="" group-title="Dokumentare",abc story
 http://apptv.xyz:8080/09042027/bwGzYpJ/88328
-#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel ⁴ᴷ" tvg-logo="" group-title="Dokumentare",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel " tvg-logo="" group-title="Dokumentare",Discovery Channel
 http://apptv.xyz:8080/09042027/bwGzYpJ/9765
-#EXTINF:-1 tvg-id="12498" tvg-name="Cufo ᴴᴰ" tvg-logo="" group-title="Femije",Cufo
+#EXTINF:-1 tvg-id="12498" tvg-name="Cufo " tvg-logo="" group-title="Femije",Cufo
 http://apptv.xyz:8080/09042027/bwGzYpJ/2467
-#EXTINF:-1 tvg-id="16377" tvg-name="Bang Bang ᴴᴰ" tvg-logo="" group-title="Femije",Bang Bang
+#EXTINF:-1 tvg-id="16377" tvg-name="Bang Bang " tvg-logo="" group-title="Femije",Bang Bang
 http://apptv.xyz:8080/09042027/bwGzYpJ/104644
-#EXTINF:-1 tvg-id="56062231" tvg-name="Tring Tring ⁴ᴷ" tvg-logo="" group-title="Femije",Tring Tring
+#EXTINF:-1 tvg-id="56062231" tvg-name="Tring Tring " tvg-logo="" group-title="Femije",Tring Tring
 http://apptv.xyz:8080/09042027/bwGzYpJ/1175
-#EXTINF:-1 tvg-id="27258213" tvg-name="Tring Kids ᴴᴰ" tvg-logo="" group-title="Femije",Tring Kids
+#EXTINF:-1 tvg-id="27258213" tvg-name="Tring Kids " tvg-logo="" group-title="Femije",Tring Kids
 http://apptv.xyz:8080/09042027/bwGzYpJ/95249
-#EXTINF:-1 tvg-id="56062237" tvg-name="Tip TV ᴴᴰ" tvg-logo="" group-title="Femije",Tip Tv
+#EXTINF:-1 tvg-id="56062237" tvg-name="Tip TV " tvg-logo="" group-title="Femije",Tip Tv
 http://apptv.xyz:8080/09042027/bwGzYpJ/1160
-#EXTINF:-1 tvg-id="7510" tvg-name="Junior TV ᴴᴰ" tvg-logo="//tvlogi/Junior.png" group-title="Femije",Junior Tv
+#EXTINF:-1 tvg-id="7510" tvg-name="Junior TV " tvg-logo="//tvlogi/Junior.png" group-title="Femije",Junior Tv
 http://apptv.xyz:8080/09042027/bwGzYpJ/958
-#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang ᶠᴴᴰ" tvg-logo="" group-title="Femije",Boomerang HD
+#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang ᶠ" tvg-logo="" group-title="Femije",Boomerang 
 http://apptv.xyz:8080/09042027/bwGzYpJ/2588
-#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoon Network ᶠᴴᴰ" tvg-logo="" group-title="Femije",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cartoon Network ᶠ" tvg-logo="" group-title="Femije",CARTOON NETWORK
 http://apptv.xyz:8080/09042027/bwGzYpJ/3395
-#EXTINF:-1 tvg-id="" tvg-name="My Music ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",My Music
+#EXTINF:-1 tvg-id="" tvg-name="My Music  ♫" tvg-logo="" group-title="Muzike",My Music
 http://apptv.xyz:8080/09042027/bwGzYpJ/63553
-#EXTINF:-1 tvg-id="BBF" tvg-name="BBF Music ᴴᴰ ♫" tvg-logo="" group-title="Muzike",BBF Music
+#EXTINF:-1 tvg-id="BBF" tvg-name="BBF Music  ♫" tvg-logo="" group-title="Muzike",BBF Music
 http://apptv.xyz:8080/09042027/bwGzYpJ/880
-#EXTINF:-1 tvg-id="" tvg-name="Klan Music  ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",Klan Music
+#EXTINF:-1 tvg-id="" tvg-name="Klan Music   ♫" tvg-logo="" group-title="Muzike",Klan Music
 http://apptv.xyz:8080/09042027/bwGzYpJ/78723
 #EXTINF:-1 tvg-id="" tvg-name="AMOL TV" tvg-logo="" group-title="Muzike",AMOL TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/91849
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTV 21 Popullore ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",RTV 21 Popullore
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTV 21 Popullore  ♫" tvg-logo="" group-title="Muzike",RTV 21 Popullore
 http://apptv.xyz:8080/09042027/bwGzYpJ/825
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Popullore 1 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Popullore 1
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Popullore 1 " tvg-logo="" group-title="Muzike",Eagle Music Popullore 1
 http://apptv.xyz:8080/09042027/bwGzYpJ/103753
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Popullore 2 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Popullore 2
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Popullore 2 " tvg-logo="" group-title="Muzike",Eagle Music Popullore 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/103887
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Popullore 3 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Popullore 3
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Popullore 3 " tvg-logo="" group-title="Muzike",Eagle Music Popullore 3
 http://apptv.xyz:8080/09042027/bwGzYpJ/103892
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Festive 1 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Festive 1
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Festive 1 " tvg-logo="" group-title="Muzike",Eagle Music Festive 1
 http://apptv.xyz:8080/09042027/bwGzYpJ/103902
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Festive 2 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Festive 2
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Festive 2 " tvg-logo="" group-title="Muzike",Eagle Music Festive 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/103925
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Festive 3 ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Festive 3
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Festive 3 " tvg-logo="" group-title="Muzike",Eagle Music Festive 3
 http://apptv.xyz:8080/09042027/bwGzYpJ/103926
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Folklorike ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Folklorike
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Folklorike " tvg-logo="" group-title="Muzike",Eagle Music Folklorike
 http://apptv.xyz:8080/09042027/bwGzYpJ/103927
-#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Patriotike ⁴ᴷ" tvg-logo="" group-title="Muzike",Eagle Music Patriotike
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Patriotike " tvg-logo="" group-title="Muzike",Eagle Music Patriotike
 http://apptv.xyz:8080/09042027/bwGzYpJ/103930
-#EXTINF:-1 tvg-id="" tvg-name="KS Çiftelia ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",KS Çiftelia
+#EXTINF:-1 tvg-id="" tvg-name="KS Çiftelia  ♫" tvg-logo="" group-title="Muzike",KS Çiftelia
 http://apptv.xyz:8080/09042027/bwGzYpJ/83082
-#EXTINF:-1 tvg-id="SuperSonic TV" tvg-name="Supersonic TV ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Supersonic TV
+#EXTINF:-1 tvg-id="SuperSonic TV" tvg-name="Supersonic TV ᶠ" tvg-logo="" group-title="Muzike",Supersonic TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/1302
-#EXTINF:-1 tvg-id="" tvg-name="Alb Muzik ⁴ᴷ" tvg-logo="" group-title="Muzike",Alb Muzik
+#EXTINF:-1 tvg-id="" tvg-name="Alb Muzik " tvg-logo="" group-title="Muzike",Alb Muzik
 http://apptv.xyz:8080/09042027/bwGzYpJ/46748
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix ᶠᴴᴰ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/77/26/2d/92/8144-45b1-869d-c91f704ca6ff.png&maxDim=111&quot" group-title="Muzike",RTV 21 Mix
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix ᶠ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/77/26/2d/92/8144-45b1-869d-c91f704ca6ff.png&maxDim=111&quot" group-title="Muzike",RTV 21 Mix
 http://apptv.xyz:8080/09042027/bwGzYpJ/63502
-#EXTINF:-1 tvg-id="" tvg-name="Folk + ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Folk +
+#EXTINF:-1 tvg-id="" tvg-name="Folk + ᶠ" tvg-logo="" group-title="Muzike",Folk +
 http://apptv.xyz:8080/09042027/bwGzYpJ/945
-#EXTINF:-1 tvg-id="Elrodi TV" tvg-name="Elrodi TV ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Elrodi TV
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-name="Elrodi TV ᶠ" tvg-logo="" group-title="Muzike",Elrodi TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/2615
-#EXTINF:-1 tvg-id="" tvg-name="TV Sharri ⁴ᴷ" tvg-logo="" group-title="Muzike",TV Sharri
+#EXTINF:-1 tvg-id="" tvg-name="TV Sharri " tvg-logo="" group-title="Muzike",TV Sharri
 http://apptv.xyz:8080/09042027/bwGzYpJ/37308
-#EXTINF:-1 tvg-id="" tvg-name="Shota TV ⁴ᴷ" tvg-logo="" group-title="Muzike",Shota TV
+#EXTINF:-1 tvg-id="" tvg-name="Shota TV " tvg-logo="" group-title="Muzike",Shota TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/22474
-#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Turbo Channel
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel ᶠ" tvg-logo="" group-title="Muzike",Turbo Channel
 http://apptv.xyz:8080/09042027/bwGzYpJ/2479
-#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova ⁴ᴷ ♫" tvg-logo="" group-title="Muzike",MTV Kosova
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova  ♫" tvg-logo="" group-title="Muzike",MTV Kosova
 http://apptv.xyz:8080/09042027/bwGzYpJ/2544
-#EXTINF:-1 tvg-id="" tvg-name="Alb Swiss ⁴ᴷ" tvg-logo="" group-title="Muzike",Alb Swiss
+#EXTINF:-1 tvg-id="" tvg-name="Alb Swiss " tvg-logo="" group-title="Muzike",Alb Swiss
 http://apptv.xyz:8080/09042027/bwGzYpJ/63398
 #EXTINF:-1 tvg-id="" tvg-name="Alb Tv Chicago" tvg-logo="" group-title="Muzike",Alb Tv Chicago
 http://apptv.xyz:8080/09042027/bwGzYpJ/86966
-#EXTINF:-1 tvg-id="" tvg-name="Top Estrada TV ᶠᴴᴰ" tvg-logo="" group-title="Muzike",Top Estrada TV
+#EXTINF:-1 tvg-id="" tvg-name="Top Estrada TV ᶠ" tvg-logo="" group-title="Muzike",Top Estrada TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/2653
-#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 1 ⁴ᴷ ᵀᵒᵏˢᵒʳ" tvg-logo="" group-title="Ferma Vip",Ferma Vip 1
+#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 1  ᵀᵒᵏˢᵒʳ" tvg-logo="" group-title="Ferma Vip",Ferma Vip 1
 http://apptv.xyz:8080/09042027/bwGzYpJ/116926
-#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 2 ⁴ᴷ ᵀᵒᵏˢᵒʳ" tvg-logo="" group-title="Ferma Vip",Ferma Vip 2
+#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 2  ᵀᵒᵏˢᵒʳ" tvg-logo="" group-title="Ferma Vip",Ferma Vip 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/116927
 
 
@@ -441,23 +441,23 @@ http://brocas3urgent.pro:8080/live/W642HPhYGA/ye5a6ruQA2/566749.ts
 http://brocas3urgent.pro:8080/live/W642HPhYGA/ye5a6ruQA2/587790.ts
 #EXTINF:-1 group-title="Adult",x51
 http://brocas3urgent.pro:8080/live/W642HPhYGA/ye5a6ruQA2/587792.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1 HD (locale)" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-oU4yVZNEadWXhSMFJRfCQAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Rai 1 HD (locale)
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1  (locale)" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.-oU4yVZNEadWXhSMFJRfCQAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Rai 1  (locale)
 http://apptv.xyz:8080/09042027/bwGzYpJ/36137
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 HD Locale" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.g1ROd462ajstv2dhqGwgMgAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RAI 2 HD Locale
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2  Locale" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.g1ROd462ajstv2dhqGwgMgAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RAI 2  Locale
 http://apptv.xyz:8080/09042027/bwGzYpJ/78335
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 FHD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.8BRX0XHqCcx8vPeyTsDvywHaD0&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RAI 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 F" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.8BRX0XHqCcx8vPeyTsDvywHaD0&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RAI 2 F
 http://apptv.xyz:8080/09042027/bwGzYpJ/77139
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3 HD Locale" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Uq0oJYJ67tvELeLXxL7OlQAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RAI 3 HD Locale
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3  Locale" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Uq0oJYJ67tvELeLXxL7OlQAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RAI 3  Locale
 http://apptv.xyz:8080/09042027/bwGzYpJ/78336
 #EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5 Locale" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fmGyqeSGt1Fy6HRHyrB_9QHaGN&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Canale 5 Locale
 http://apptv.xyz:8080/09042027/bwGzYpJ/78339
 #EXTINF:-1 tvg-id="" tvg-name="IT: Italia 1 Locale" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.BnYkcsPPzZMusfLAm-laMQHaHb&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Italia 1 Locale
 http://apptv.xyz:8080/09042027/bwGzYpJ/78338
-#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery NOVE HD `" tvg-logo="https://iptvgjolli.com/italy/NOVE.png" group-title="Te Huaja | Italiane",Discovery NOVE HD `
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery NOVE  `" tvg-logo="https://iptvgjolli.com/italy/NOVE.png" group-title="Te Huaja | Italiane",Discovery NOVE  `
 http://apptv.xyz:8080/09042027/bwGzYpJ/4166
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.sHfqfOjCPh6fwaNmeERNzgAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Rai Movie HD
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie " tvg-logo="https://tse3.mm.bing.net/th?id=OIP.sHfqfOjCPh6fwaNmeERNzgAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Rai Movie 
 http://apptv.xyz:8080/09042027/bwGzYpJ/35899
-#EXTINF:-1 tvg-id="" tvg-name="IT: Real Time HD `" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.lIPDUNWeEjlIQfrSz2LZpAAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Real Time HD `
+#EXTINF:-1 tvg-id="" tvg-name="IT: Real Time  `" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.lIPDUNWeEjlIQfrSz2LZpAAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Real Time  `
 http://apptv.xyz:8080/09042027/bwGzYpJ/35907
 #EXTINF:-1 tvg-id="" tvg-name="IT: Radio Capital TV" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.8yAcAjwwmWEnGM9EoB6JWgHaHa&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",Radio Capital TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/53197
@@ -471,35 +471,35 @@ http://apptv.xyz:8080/09042027/bwGzYpJ/53202
 http://apptv.xyz:8080/09042027/bwGzYpJ/53204
 #EXTINF:-1 tvg-id="" tvg-name="IT: RDS Social TV" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.nymAjrPFQleYx98qwrV4rAAAAA&pid=Api&P=0&h=220" group-title="Te Huaja | Italiane",RDS Social TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/53205
-#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste ⁴ᴷ" tvg-logo="https://e7.pngegg.com/pngimages/732/717/png-clipart-das-erste-live-television-one-streaming-media-hbo-logo-television-blue.png" group-title="Te Huaja | Gjermane",Das Erste ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste " tvg-logo="https://e7.pngegg.com/pngimages/732/717/png-clipart-das-erste-live-television-one-streaming-media-hbo-logo-television-blue.png" group-title="Te Huaja | Gjermane",Das Erste 
 http://apptv.xyz:8080/09042027/bwGzYpJ/9764
 #EXTINF:-1 tvg-id="" tvg-name="DE: Das Erste | RAW" tvg-logo="http://lore.repmc.top:80/images/Gj5nNLZLhkYKbYHgQcR-86RtQCfVITvB7boHBWukzWiiIqpHXyXMq7omQV7o7j5aKwQt1pxGFrJg_6Rv0MATLUVs333K9LwdgiTurMZi0gMXVeHZUC3CkxT4wtlhzAuDyh0-XWxzleQAaz4zXwZ44rUKkJpANI22ItcHx6fjblewioyVjmF6gV3tj3CP7AUg.png" group-title="Te Huaja | Gjermane",Das Erste | RAW
 http://apptv.xyz:8080/09042027/bwGzYpJ/117000
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF ⁴ᴷ" tvg-logo="https://apps.tibo.tv/files/channel_img/Zdf.png" group-title="Te Huaja | Gjermane",ZDF ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF " tvg-logo="https://apps.tibo.tv/files/channel_img/Zdf.png" group-title="Te Huaja | Gjermane",ZDF 
 http://apptv.xyz:8080/09042027/bwGzYpJ/1504
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDFneo ᶠᴴᴰ" tvg-logo="https://www.wuv.de/var/wuv/storage/images/werben_verkaufen/medien/zdfneo_bekommt_ein_neues_logo/zdfneo2/8182073-1-ger-DE/zdfneo_gross.jpg" group-title="Te Huaja | Gjermane",ZDFneo ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDFneo ᶠ" tvg-logo="https://www.wuv.de/var/wuv/storage/images/werben_verkaufen/medien/zdfneo_bekommt_ein_neues_logo/zdfneo2/8182073-1-ger-DE/zdfneo_gross.jpg" group-title="Te Huaja | Gjermane",ZDFneo ᶠ
 http://apptv.xyz:8080/09042027/bwGzYpJ/25124
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF info ᶠᴴᴰ" tvg-logo="https://tvfueralle.de/channel-logos/info.png" group-title="Te Huaja | Gjermane",ZDF info ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF info ᶠ" tvg-logo="https://tvfueralle.de/channel-logos/info.png" group-title="Te Huaja | Gjermane",ZDF info ᶠ
 http://apptv.xyz:8080/09042027/bwGzYpJ/13892
 #EXTINF:-1 tvg-id="" tvg-name="DE: ZDF | RAW" tvg-logo="http://lore.repmc.top:80/images/Gj5nNLZLhkYKbYHgQcR-86RtQCfVITvB7boHBWukzWiiIqpHXyXMq7omQV7o7j5aKwQt1pxGFrJg_6Rv0MATLUVs333K9LwdgiTurMZi0gMXVeHZUC3CkxT4wtlhzAuDyh0-XWxzleQAaz4zXwZ44tlB5Qmss1rd9Nx_yradOFQ.png" group-title="Te Huaja | Gjermane",ZDF | RAW
 http://apptv.xyz:8080/09042027/bwGzYpJ/117003
 #EXTINF:-1 tvg-id="" tvg-name="DE: ZDFneo | RAW" tvg-logo="http://lore.repmc.top:80/images/Gj5nNLZLhkYKbYHgQcR-86RtQCfVITvB7boHBWukzWiiIqpHXyXMq7omQV7o7j5aKwQt1pxGFrJg_6Rv0MATLUVs333K9LwdgiTurMZi0gMXVeHZUC3CkxT4wtlhzAuDyh0-XWxzleQAaz4zXwZ44hgJ7ck_MQZrUskpCslqchHUb3YP7Eh6XNr4fmuanF9Q.png" group-title="Te Huaja | Gjermane",ZDFneo | RAW
 http://apptv.xyz:8080/09042027/bwGzYpJ/117004
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDFinfo | RAW" tvg-logo="http://lore.repmc.top:80/images/Gj5nNLZLhkYKbYHgQcR-86RtQCfVITvB7boHBWukzWiiIqpHXyXMq7omQV7o7j5aKwQt1pxGFrJg_6Rv0MATLUVs333K9LwdgiTurMZi0gMXVeHZUC3CkxT4wtlhzAuDyh0-XWxzleQAaz4zXwZ44meAl2qwwqkAT4LN2hdgZGkDh3ITZHGosbciovE_zxiy.png" group-title="Te Huaja | Gjermane",ZDFinfo | RAW
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDFinfo | RAW" tvg-logo="http://lore.repmc.top:80/images/Gj5nNLZLhkYKbYHgQcR-86RtQCfVITvB7boHBWukzWiiIqpHXyXMq7omQV7o7j5aKwQt1pxGFrJg_6Rv0MATLUVs333K9LwdgiTurMZi0gMXVeHZUC3CkxT4wtlhzAuDyh0-XWxzleQAaz4zXwZ44meAl2qwwqkAT4LN2gZGkDh3ITZHGosbciovE_zxiy.png" group-title="Te Huaja | Gjermane",ZDFinfo | RAW
 http://apptv.xyz:8080/09042027/bwGzYpJ/117115
 #EXTINF:-1 tvg-id="" tvg-name="DE: Telenovela ZDF | RAW" tvg-logo="" group-title="Te Huaja | Gjermane",Telenovela ZDF | RAW
 http://apptv.xyz:8080/09042027/bwGzYpJ/117216
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL ᶠᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RTL_HD_Logo.svg/2560px-RTL_HD_Logo.svg.png" group-title="Te Huaja | Gjermane",RTL ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL ᶠ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RTL__Logo.svg/2560px-RTL__Logo.svg.png" group-title="Te Huaja | Gjermane",RTL ᶠ
 http://apptv.xyz:8080/09042027/bwGzYpJ/9756
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RTL2HDLogo.svg/2560px-RTL2HDLogo.svg.png" group-title="Te Huaja | Gjermane",RTL 2ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/RTL2Logo.svg/2560px-RTL2Logo.svg.png" group-title="Te Huaja | Gjermane",RTL 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/9757
-#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="DE: RTL UP ᶠᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/d8/RTL_UP_Logo_2021_lila_pink_blau_schwarz.svg/1280px-RTL_UP_Logo_2021_lila_pink_blau_schwarz.svg.png" group-title="Te Huaja | Gjermane",RTL UP ᶠᴴᴰ
+#EXTINF:-1 tvg-id="RTLplus DE" tvg-name="DE: RTL UP ᶠ" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/d8/RTL_UP_Logo_2021_lila_pink_blau_schwarz.svg/1280px-RTL_UP_Logo_2021_lila_pink_blau_schwarz.svg.png" group-title="Te Huaja | Gjermane",RTL UP ᶠ
 http://apptv.xyz:8080/09042027/bwGzYpJ/9918
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro ᶠᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nitro_Logo-HD.svg/2560px-Nitro_Logo-HD.svg.png" group-title="Te Huaja | Gjermane",RTL Nitro ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro ᶠ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nitro_Logo-.svg/2560px-Nitro_Logo-.svg.png" group-title="Te Huaja | Gjermane",RTL Nitro ᶠ
 http://apptv.xyz:8080/09042027/bwGzYpJ/14392
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime ᶠᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/RTL_CRIME_HD_Logo_2021_united_blau_rot_orange.png" group-title="Te Huaja | Gjermane",RTL Crime ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime ᶠ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/RTL_CRIME__Logo_2021_united_blau_rot_orange.png" group-title="Te Huaja | Gjermane",RTL Crime ᶠ
 http://apptv.xyz:8080/09042027/bwGzYpJ/3393
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion ᶠᴴᴰ" tvg-logo="https://logowik.com/content/uploads/images/rtl-passion-20219169.logowik.com.webp" group-title="Te Huaja | Gjermane",RTL Passion ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion ᶠ" tvg-logo="https://logowik.com/content/uploads/images/rtl-passion-20219169.logowik.com.webp" group-title="Te Huaja | Gjermane",RTL Passion ᶠ
 http://apptv.xyz:8080/09042027/bwGzYpJ/3392
 #EXTINF:-1 tvg-id="" tvg-name="GR: ANT1" tvg-logo="" group-title="Te Huaja | Greke",ANT1
 http://apptv.xyz:8080/09042027/bwGzYpJ/116821
@@ -571,7 +571,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118489.mp4
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118488.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Solo Mio - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efSsZJaddeq0LOABZqpCXdMxv9P.jpg" group-title="VOD | Filma Shqip",Solo Mio - 2026
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="VOD | Filma Shqip",Project Hail Mary - 2026
+#EXTINF:-1 tvg-id="" tvg-name="Project Hail Mary - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiXomYb5kTeSivtFndMy5iDmf.jpg" group-title="VOD | Filma Shqip",Project Hail Mary - 2026
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118486.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pizza Movie - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2qH9CiGWup1Ddzai76ofgtSTAh.jpg" group-title="VOD | Filma Shqip",Pizza Movie - 2026
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118485.mp4
@@ -587,7 +587,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118481.mp4
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118480.mp4
 #EXTINF:-1 tvg-id="" tvg-name="F Valentine's Day - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zPExowfpfZOTpS1W4J7G27lH4H.jpg" group-title="VOD | Filma Shqip",F Valentine's Day - 2026
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bird - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKshd6n8EKrwbE2fLOUqC4TSG6O.jpg" group-title="VOD | Filma Shqip",Bird - 2024
+#EXTINF:-1 tvg-id="" tvg-name="Bird - 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKs6n8EKrwbE2fLOUqC4TSG6O.jpg" group-title="VOD | Filma Shqip",Bird - 2024
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/118478.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Testament of Ann Lee - 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg" group-title="VOD | Filma Shqip",The Testament of Ann Lee - 2025
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116982.mp4
@@ -595,7 +595,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116982.mp4
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116981.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Romance at Hope Ranch - 2026" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8A8Zoq43KSAk2KmB4NKaqz6zR4L.jpg" group-title="VOD | Komedi",Romance at Hope Ranch - 2026
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Delta Force 2: The Colombian Connection (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rBVHD1gYSx5bOwCgqSdljUXKY8.jpg" group-title="VOD | Filma",Delta Force 2: The Colombian Connection (1990)
+#EXTINF:-1 tvg-id="" tvg-name="Delta Force 2: The Colombian Connection (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rBV1gYSx5bOwCgqSdljUXKY8.jpg" group-title="VOD | Filma",Delta Force 2: The Colombian Connection (1990)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/114795.mp4
 #EXTINF:-1 tvg-id="" tvg-name="National Lampoon's Christmas Vacation (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oat42hUw8XzKYUmfy0YLAxYd484.jpg" group-title="VOD | Filma",National Lampoon's Christmas Vacation (1989)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/114382.mp4
@@ -625,7 +625,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105171.mp4
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105169.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Descendants: The Royal Wedding (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1vCU25JMegFVlj1bsWUbxEcaG0.jpg" group-title="VOD | Femije",Descendants: The Royal Wedding (2021)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105127.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Descendants 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg" group-title="VOD | Filma",Descendants 3 (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Descendants 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IRy0iaS0JI3ng4ZYlk5gLSFn.jpg" group-title="VOD | Filma",Descendants 3 (2019)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105126.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Descendants 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg" group-title="VOD | Filma",Descendants 2 (2017)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105125.mkv
@@ -693,7 +693,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105005.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/105000.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Eraser: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWE48knKsaPGqVoANXoWraiub2d.jpg" group-title="VOD | Aksion",Eraser: Reborn (2022)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104997.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Shanghai (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcVpL3h2ElqHdi8gxpEY8A8HSnv.jpg" group-title="VOD | Aksion",Once Upon a Time in Shanghai (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in Shanghai (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcVpL3h2Elqi8gxpEY8A8HSnv.jpg" group-title="VOD | Aksion",Once Upon a Time in Shanghai (2014)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104996.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Happy Gilmore 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg" group-title="VOD | Komedi",Happy Gilmore 2 (2025)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104995.mkv
@@ -711,7 +711,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104865.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104743.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spirit Untamed (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLE2mvuvhvzmSICOsqR9uE50Ave.jpg" group-title="VOD | Femije",Spirit Untamed (2021)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Big Trip 2: Special Delivery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dabXVfrAFfhDte8XVemom3mTJog.jpg" group-title="VOD | Femije",Big Trip 2: Special Delivery (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Big Trip 2: Special Delivery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dabXVfrAFfte8XVemom3mTJog.jpg" group-title="VOD | Femije",Big Trip 2: Special Delivery (2022)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103874.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Attack on Titan: Chronicle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq8Rg943AI8bmAlNOmhKver2uya.jpg" group-title="VOD | Femije",Attack on Titan: Chronicle (2020)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103843.mkv
@@ -797,13 +797,13 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/113981.mp4
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116886.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BobSfungjeri: Në kërkim të Pantallonave Katrorë (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg" group-title="VOD | Filma Shqip",BobSfungjeri: Në kërkim të Pantallonave Katrorë (2025)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Filmi i Kikirikëve 2015" tvg-logo="https://image.tmdb.org/t/p/original/dZOcwqxurYhDyjmdnhYcGnn1agL.jpg" group-title="VOD | Filma Shqip",Filmi i Kikirikëve 2015
+#EXTINF:-1 tvg-id="" tvg-name="Filmi i Kikirikëve 2015" tvg-logo="https://image.tmdb.org/t/p/original/dZOcwqxurYyjmdnhYcGnn1agL.jpg" group-title="VOD | Filma Shqip",Filmi i Kikirikëve 2015
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116595.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shtrumfat 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="VOD | Filma Shqip",Shtrumfat 2025
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116594.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lepuri Shpëtimtar 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzWm5lsZp6YnqqM1mnJJ88Nnq00.jpg" group-title="VOD | Filma Shqip",Lepuri Shpëtimtar 2016
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sezoni i Gjuetisë: Të Trembur Keq 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFD3HdVIXVbvVixIGhNmJBaqyAI.jpg" group-title="VOD | Filma Shqip",Sezoni i Gjuetisë: Të Trembur Keq 2015
+#EXTINF:-1 tvg-id="" tvg-name="Sezoni i Gjuetisë: Të Trembur Keq 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFD3VIXVbvVixIGhNmJBaqyAI.jpg" group-title="VOD | Filma Shqip",Sezoni i Gjuetisë: Të Trembur Keq 2015
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116592.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mune: Mbrojtësi i Hënës 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWjm8AH9YqkRUR2yf4y1mDIvj0O.jpg" group-title="VOD | Filma Shqip",Mune: Mbrojtësi i Hënës 2015
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/116591.mp4
@@ -891,7 +891,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104990.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104988.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Most Dangerous Game (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/begeAFRPkHzrW05ZQXHrB9pqugt.jpg" group-title="VOD | Aksion",Most Dangerous Game (2020)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cyborg 2 (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYNJ4KNMVaVgR5JAqC5qlgbJEmJ.jpg" group-title="VOD | Aksion",Cyborg 2 (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Cyborg 2 (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYNJNMVaVgR5JAqC5qlgbJEmJ.jpg" group-title="VOD | Aksion",Cyborg 2 (1993)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104986.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Silent Trigger (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adYMNsj6oALEqD7CN5v67Mz8TCf.jpg" group-title="VOD | Horror Thriller",Silent Trigger (1996)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104979.mkv
@@ -905,7 +905,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104975.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104974.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dolphin Tale (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/af2SRFllNW26WFG84AfTv3xLT5t.jpg" group-title="VOD | Horror Thriller",Dolphin Tale (2011)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104967.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jackie Brown (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg" group-title="VOD | Horror Thriller",Jackie Brown (1997)
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Brown (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOUx7qgmEh1juEDwqzbDSL1Nr.jpg" group-title="VOD | Horror Thriller",Jackie Brown (1997)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104965.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Into the Storm (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBgrhrES9kMKSPxawUYV61KjlnB.jpg" group-title="VOD | Horror Thriller",Into the Storm (2014)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104959.mkv
@@ -929,7 +929,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104940.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104939.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dead Bodies (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apGKZgD3eCuMcyg1pLRmEM7W1Tp.jpg" group-title="VOD | Horror Thriller",Dead Bodies (2003)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104938.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Legend (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg" group-title="VOD | Horror Thriller",Legend (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Legend (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4shf5AlqWCKqrAAQe0JGJHYp5.jpg" group-title="VOD | Horror Thriller",Legend (2015)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104937.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lord of the Wind (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvaShvzP1dCu7QIqiyl2noTJekw.jpg" group-title="VOD | Aksion",Lord of the Wind (2023)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104936.mkv
@@ -979,7 +979,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104887.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104885.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Fistful of Dollars (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg" group-title="VOD | Aksion",A Fistful of Dollars (1964)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104883.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jigsaw (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RwHxhdUNS996JPFNB9a7CJtlwR.jpg" group-title="VOD | Horror Thriller",Jigsaw (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Jigsaw (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RwHxUNS996JPFNB9a7CJtlwR.jpg" group-title="VOD | Horror Thriller",Jigsaw (2017)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104882.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Don Jon (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh8bwvgGXeUKzdL4oSul9zxyTcd.jpg" group-title="VOD | Komedi",Don Jon (2013)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104880.mkv
@@ -1095,7 +1095,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104049.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104045.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Holiday Boyfriend (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnO0dirvkSV8R8fC4Pzpx26H0lJ.jpg" group-title="VOD | Komedi",A Holiday Boyfriend (2019)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Countdown (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTzuFkYy0JKsiZtv3hdVB6pAHhv.jpg" group-title="VOD | Aksion",Countdown (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Countdown (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTzuFkYy0JKsiZtv3VB6pAHhv.jpg" group-title="VOD | Aksion",Countdown (2016)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104039.mkv
 #EXTINF:-1 tvg-id="" tvg-name="I Love You, Beth Cooper (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUi6nEbo04DR1YwflbZX1RR7UwS.jpg" group-title="VOD | Komedi",I Love You,Beth Cooper (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUi6nEbo04DR1YwflbZX1RR7UwS.jpg" group-title="Komedi/Romance",I Love You, Beth Cooper (2009)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/104036.mkv
@@ -1137,7 +1137,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103792.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103787.mkv
 #EXTINF:-1 tvg-id="" tvg-name="I, Robot (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efwv6F2lGaghjPpBRSINHtoEiZB.jpg" group-title="VOD | Filma",I,Robot (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efwv6F2lGaghjPpBRSINHtoEiZB.jpg" group-title="Fantasy/Sci",I, Robot (2004)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Nonnas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg" group-title="VOD | Komedi",Nonnas (2025)
+#EXTINF:-1 tvg-id="" tvg-name="Nonnas (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Bf1xlxLuCi74MpdFi2Yz3FGJ.jpg" group-title="VOD | Komedi",Nonnas (2025)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103356.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Love Don't Co$t a Thing (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88zspc72LIkfiuMnGpHnsWCuqEH.jpg" group-title="VOD | Komedi",Love Don't Co$t a Thing (2003)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/103350.mkv
@@ -1253,11 +1253,11 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86895.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86887.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 49: Holm vs. Bueno Silva (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxijufs3jfFTfw2N2wGm8gDepVZ.jpg" group-title="VOD | Filma",UFC on ESPN 49: Holm vs. Bueno Silva (2023)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 51: Luque vs. dos Anjos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcS1F3hD1weHn1gDLEi3KLzbECD.jpg" group-title="VOD | Filma",UFC on ESPN 51: Luque vs. dos Anjos (2023)
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 51: Luque vs. dos Anjos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcS1F31weHn1gDLEi3KLzbECD.jpg" group-title="VOD | Filma",UFC on ESPN 51: Luque vs. dos Anjos (2023)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86884.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 228: Fiziev vs. Gamrot (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJA4Fum91ImSbM57ykm3wOMzOWN.jpg" group-title="VOD | Filma",UFC Fight Night 228: Fiziev vs. Gamrot (2023)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 226: Gane vs. Spivak (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZkD1zmoegmHdIrsMZvLXwWFVkO.jpg" group-title="VOD | Filma",UFC Fight Night 226: Gane vs. Spivak (2023)
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 226: Gane vs. Spivak (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZkD1zmoegmIrsMZvLXwWFVkO.jpg" group-title="VOD | Filma",UFC Fight Night 226: Gane vs. Spivak (2023)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 50: Sandhagen vs. Font (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7mUoKWbNq96DTKlxrfpCA39Tw3.jpg" group-title="VOD | Filma",UFC on ESPN 50: Sandhagen vs. Font (2023)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86880.mp4
@@ -1283,7 +1283,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86871.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86870.mp4
 #EXTINF:-1 tvg-id="" tvg-name="UFC 294: Makhachev vs. Volkanovski 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwtobJY22gOVKxQJd8YQabP67v.jpg" group-title="VOD | Filma",UFC 294: Makhachev vs. Volkanovski 2 (2023)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86869.mkv
-#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 54: Blanchfield vs. Fiorot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKL4kVqtTl0cDmnU0k51rpcW6MV.jpg" group-title="VOD | Filma",UFC on ESPN 54: Blanchfield vs. Fiorot (2024)
+#EXTINF:-1 tvg-id="" tvg-name="UFC on ESPN 54: Blanchfield vs. Fiorot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKLVqtTl0cDmnU0k51rpcW6MV.jpg" group-title="VOD | Filma",UFC on ESPN 54: Blanchfield vs. Fiorot (2024)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86857.mkv
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Night 236: Hermansson vs. Pyfer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llZtdh6Us2Srs5o6kkt83sLLFrh.jpg" group-title="VOD | Filma",UFC Fight Night 236: Hermansson vs. Pyfer (2024)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86854.mkv
@@ -1295,11 +1295,11 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/86852.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/83048.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Private Life - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljym9jQlw1HypwZxlfsjuWcjQV8.jpg" group-title="VOD | Netflix Movies",Private Life - 2018
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82091.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mute - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihGg1xndLl3MW34Km332pNkyLH7.jpg" group-title="VOD | Netflix Movies",Mute - 2018
+#EXTINF:-1 tvg-id="" tvg-name="Mute - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihGg1xndLl3MW3m332pNkyLH7.jpg" group-title="VOD | Netflix Movies",Mute - 2018
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82090.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mudbound - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf21kSKepMOlnorszWaiFwksKU4.jpg" group-title="VOD | Netflix Movies",Mudbound - 2017
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82089.mkv
-#EXTINF:-1 tvg-id="" tvg-name="I Don't Feel at Home in This World Anymore - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1stdUlXBc3nxqhdWvZ6wWWEbCQW.jpg" group-title="VOD | Netflix Movies",I Don't Feel at Home in This World Anymore - 2017
+#EXTINF:-1 tvg-id="" tvg-name="I Don't Feel at Home in This World Anymore - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1stdUlXBc3nxqWvZ6wWWEbCQW.jpg" group-title="VOD | Netflix Movies",I Don't Feel at Home in This World Anymore - 2017
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82088.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Creep 2 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaOfXrOCjOhCAxvAtXLicDHg6YV.jpg" group-title="VOD | Netflix Movies",Creep 2 - 2017
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/82087.mkv
@@ -1381,7 +1381,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81829.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81828.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Street Flow - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhOFpiEDA9S2rmuz5990KBjLgcP.jpg" group-title="VOD | Netflix Movies",Street Flow - 2019
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81827.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Squared Love All Over Again - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43nsgB6n1BNyaD4KCEqTFS2462S.jpg" group-title="VOD | Netflix Movies",Squared Love All Over Again - 2023
+#EXTINF:-1 tvg-id="" tvg-name="Squared Love All Over Again - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43nsgB6n1BNyaDCEqTFS2462S.jpg" group-title="VOD | Netflix Movies",Squared Love All Over Again - 2023
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81826.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Squared Love - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeRCXsOitUdtDXc5sSVgwYGTZyg.jpg" group-title="VOD | Netflix Movies",Squared Love - 2021
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81825.mkv
@@ -1399,7 +1399,7 @@ http://apptv.xyz:8080/movie/09042027/bwGzYpJ/81820.mkv
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/80378.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Miraculous: Ladybug & Cat Noir, The Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg" group-title="VOD | Femije",Miraculous: Ladybug & Cat Noir,The Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg" group-title="Femije/Animuar",Miraculous: Ladybug & Cat Noir, The Movie (2023)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/80374.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Justice League: Warworld (2023)" tvg-logo="https://www.themoviedb.org/t/p/original/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg" group-title="VOD | Femije",Justice League: Warworld (2023)
+#EXTINF:-1 tvg-id="" tvg-name="Justice League: Warworld (2023)" tvg-logo="https://www.themoviedb.org/t/p/original/pSS5G3wDwJp6jWgMpbSjNiTbr.jpg" group-title="VOD | Femije",Justice League: Warworld (2023)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/80373.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tierische Detektive - Drei Kids und ihr größter Fall (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tUzzRe6R1DpXP0qNWoQHW605nP.jpg" group-title="VOD | Femije",Tierische Detektive - Drei Kids und ihr größter Fall (2025)
 http://apptv.xyz:8080/movie/09042027/bwGzYpJ/98700.mkv
