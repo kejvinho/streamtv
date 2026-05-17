@@ -135,7 +135,7 @@ http://apptv.xyz:8080/09042027/bwGzYpJ/30153
 http://apptv.xyz:8080/09042027/bwGzYpJ/94159
 #EXTINF:-1 tvg-id="56062241" tvg-name="Tring Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="Sport",Tring Sport 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/30154
-#EXTINF:-1 tvg-id="56062242" tvg-name="Tring Sport 3 (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/e8/b2/78/20/be67-41d1-9fb1-ed0af9808a65.png&maxDim=111&quot" group-title="Sportg",Tring Sport 3 (TRING)
+#EXTINF:-1 tvg-id="56062242" tvg-name="Tring Sport 3 (TRING)" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/e8/b2/78/20/be67-41d1-9fb1-ed0af9808a65.png&maxDim=111&quot" group-title="sport",Tring Sport 3 (TRING)
 http://apptv.xyz:8080/09042027/bwGzYpJ/94160
 #EXTINF:-1 tvg-id="56062242" tvg-name="Tring Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="Sport",Tring Sport 3
 http://apptv.xyz:8080/09042027/bwGzYpJ/30155
@@ -153,7 +153,7 @@ http://apptv.xyz:8080/09042027/bwGzYpJ/110928
 http://apptv.xyz:8080/09042027/bwGzYpJ/14455
 #EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 ᶠᴴᴰ" tvg-logo="" group-title="Sport",Euro Sport 2
 http://apptv.xyz:8080/09042027/bwGzYpJ/14454
-#EXTINF:-1 tvg-id="12930" tvg-name="T HD" tvg-logo="//tvlogi/T%20HD.png" group-title="Pako Digitalb",T HD
+#EXTINF:-1 tvg-id="12930" tvg-name="T HD" tvg-logo="//tvlogi/T%20HD.png" group-title="Filma",T HD
 http://apptv.xyz:8080/09042027/bwGzYpJ/94054
 #EXTINF:-1 tvg-id="12930" tvg-name="T ⁴ᴷ" tvg-logo="//tvlogi/T%20HD.png" group-title="Filma",T
 http://apptv.xyz:8080/09042027/bwGzYpJ/78725
